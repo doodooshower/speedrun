@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon><![CDATA[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]]></GameIcon>
+  <GameName>Grand Theft Auto: San Andreas</GameName>
+  <CategoryName>Any% (No AJS)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>317</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/28/2019 03:38:03" isStartedSynced="True" ended="09/28/2019 03:38:14" isEndedSynced="True" />
+    <Attempt id="2" started="09/28/2019 03:38:21" isStartedSynced="True" ended="09/28/2019 03:38:36" isEndedSynced="True" />
+    <Attempt id="3" started="09/28/2019 03:38:43" isStartedSynced="True" ended="09/28/2019 03:38:59" isEndedSynced="True" />
+    <Attempt id="4" started="09/28/2019 03:39:07" isStartedSynced="True" ended="09/28/2019 10:25:46" isEndedSynced="True">
+      <RealTime>06:46:39.9830000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="10/04/2019 21:53:25" isStartedSynced="True" ended="10/05/2019 01:17:33" isEndedSynced="True">
+      <PauseTime>03:24:05.8710000</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="10/05/2019 19:28:32" isStartedSynced="True" ended="10/05/2019 19:31:32" isEndedSynced="True" />
+    <Attempt id="7" started="10/05/2019 19:32:07" isStartedSynced="True" ended="10/05/2019 19:32:19" isEndedSynced="True" />
+    <Attempt id="8" started="10/05/2019 19:32:19" isStartedSynced="True" ended="10/05/2019 19:32:43" isEndedSynced="True" />
+    <Attempt id="9" started="10/05/2019 19:32:43" isStartedSynced="True" ended="10/05/2019 19:34:00" isEndedSynced="True" />
+    <Attempt id="10" started="10/05/2019 19:34:00" isStartedSynced="True" ended="10/05/2019 19:35:32" isEndedSynced="True" />
+    <Attempt id="11" started="10/05/2019 19:37:55" isStartedSynced="True" ended="10/05/2019 19:38:20" isEndedSynced="True" />
+    <Attempt id="12" started="10/05/2019 19:38:20" isStartedSynced="True" ended="10/05/2019 19:38:45" isEndedSynced="True" />
+    <Attempt id="13" started="10/05/2019 19:38:45" isStartedSynced="True" ended="10/05/2019 19:39:10" isEndedSynced="True" />
+    <Attempt id="14" started="10/05/2019 19:39:10" isStartedSynced="True" ended="10/05/2019 19:39:29" isEndedSynced="True" />
+    <Attempt id="15" started="10/05/2019 19:39:29" isStartedSynced="True" ended="10/05/2019 19:39:59" isEndedSynced="True" />
+    <Attempt id="16" started="10/05/2019 19:39:59" isStartedSynced="True" ended="10/05/2019 19:40:57" isEndedSynced="True" />
+    <Attempt id="17" started="10/05/2019 19:41:35" isStartedSynced="True" ended="10/05/2019 19:43:07" isEndedSynced="True" />
+    <Attempt id="18" started="10/05/2019 19:43:42" isStartedSynced="True" ended="10/05/2019 19:43:59" isEndedSynced="True" />
+    <Attempt id="19" started="10/05/2019 19:43:59" isStartedSynced="True" ended="10/05/2019 19:45:09" isEndedSynced="True" />
+    <Attempt id="20" started="10/05/2019 19:45:09" isStartedSynced="True" ended="10/05/2019 19:46:36" isEndedSynced="True" />
+    <Attempt id="21" started="10/05/2019 19:47:12" isStartedSynced="True" ended="10/05/2019 19:50:09" isEndedSynced="True" />
+    <Attempt id="22" started="10/05/2019 19:50:43" isStartedSynced="True" ended="10/05/2019 19:51:03" isEndedSynced="True" />
+    <Attempt id="23" started="10/05/2019 19:51:03" isStartedSynced="True" ended="10/05/2019 19:51:33" isEndedSynced="True" />
+    <Attempt id="24" started="10/05/2019 19:51:33" isStartedSynced="True" ended="10/05/2019 19:52:45" isEndedSynced="True" />
+    <Attempt id="25" started="10/05/2019 19:52:45" isStartedSynced="True" ended="10/05/2019 19:52:54" isEndedSynced="True" />
+    <Attempt id="26" started="10/05/2019 19:52:54" isStartedSynced="True" ended="10/05/2019 22:27:35" isEndedSynced="True" />
+    <Attempt id="27" started="10/06/2019 19:08:48" isStartedSynced="True" ended="10/06/2019 19:11:50" isEndedSynced="True" />
+    <Attempt id="28" started="10/06/2019 19:12:26" isStartedSynced="True" ended="10/06/2019 19:13:34" isEndedSynced="True" />
+    <Attempt id="29" started="10/06/2019 19:14:13" isStartedSynced="True" ended="10/06/2019 19:15:37" isEndedSynced="True" />
+    <Attempt id="30" started="10/06/2019 19:16:18" isStartedSynced="True" ended="10/06/2019 19:16:35" isEndedSynced="True" />
+    <Attempt id="31" started="10/06/2019 19:16:35" isStartedSynced="True" ended="10/06/2019 19:17:01" isEndedSynced="True" />
+    <Attempt id="32" started="10/06/2019 19:17:01" isStartedSynced="True" ended="10/06/2019 19:18:33" isEndedSynced="True" />
+    <Attempt id="33" started="10/06/2019 19:19:10" isStartedSynced="True" ended="10/06/2019 19:23:06" isEndedSynced="True" />
+    <Attempt id="34" started="10/06/2019 19:23:42" isStartedSynced="True" ended="10/06/2019 19:24:56" isEndedSynced="True" />
+    <Attempt id="35" started="10/06/2019 19:25:32" isStartedSynced="True" ended="10/06/2019 19:27:01" isEndedSynced="True" />
+    <Attempt id="36" started="10/06/2019 19:28:15" isStartedSynced="True" ended="10/06/2019 19:28:33" isEndedSynced="True" />
+    <Attempt id="37" started="10/06/2019 19:28:33" isStartedSynced="True" ended="10/06/2019 19:28:58" isEndedSynced="True" />
+    <Attempt id="38" started="10/06/2019 19:28:58" isStartedSynced="True" ended="10/06/2019 19:30:27" isEndedSynced="True" />
+    <Attempt id="39" started="10/06/2019 19:31:06" isStartedSynced="True" ended="10/06/2019 19:32:02" isEndedSynced="True" />
+    <Attempt id="40" started="10/06/2019 19:32:36" isStartedSynced="True" ended="10/06/2019 19:33:35" isEndedSynced="True" />
+    <Attempt id="41" started="10/06/2019 19:34:15" isStartedSynced="True" ended="10/06/2019 19:35:20" isEndedSynced="True" />
+    <Attempt id="42" started="10/06/2019 19:35:55" isStartedSynced="True" ended="10/06/2019 19:37:40" isEndedSynced="True" />
+    <Attempt id="43" started="10/06/2019 19:38:17" isStartedSynced="True" ended="10/06/2019 20:23:24" isEndedSynced="True" />
+    <Attempt id="44" started="10/07/2019 21:26:20" isStartedSynced="True" ended="10/07/2019 21:26:56" isEndedSynced="True" />
+    <Attempt id="45" started="10/07/2019 21:26:56" isStartedSynced="True" ended="10/07/2019 21:27:21" isEndedSynced="True" />
+    <Attempt id="46" started="10/07/2019 21:27:21" isStartedSynced="True" ended="10/07/2019 21:27:43" isEndedSynced="True" />
+    <Attempt id="47" started="10/07/2019 21:27:43" isStartedSynced="True" ended="10/07/2019 21:27:56" isEndedSynced="True" />
+    <Attempt id="48" started="10/07/2019 21:27:56" isStartedSynced="True" ended="10/07/2019 21:28:09" isEndedSynced="True" />
+    <Attempt id="49" started="10/07/2019 21:28:09" isStartedSynced="True" ended="10/07/2019 21:31:08" isEndedSynced="True" />
+    <Attempt id="50" started="10/07/2019 21:31:43" isStartedSynced="True" ended="10/07/2019 21:32:10" isEndedSynced="True" />
+    <Attempt id="51" started="10/07/2019 21:32:10" isStartedSynced="True" ended="10/07/2019 21:33:23" isEndedSynced="True" />
+    <Attempt id="52" started="10/07/2019 21:33:59" isStartedSynced="True" ended="10/07/2019 21:34:30" isEndedSynced="True" />
+    <Attempt id="53" started="10/07/2019 21:34:30" isStartedSynced="True" ended="10/07/2019 21:34:43" isEndedSynced="True" />
+    <Attempt id="54" started="10/07/2019 21:34:43" isStartedSynced="True" ended="10/07/2019 21:34:57" isEndedSynced="True" />
+    <Attempt id="55" started="10/07/2019 21:34:57" isStartedSynced="True" ended="10/07/2019 21:35:32" isEndedSynced="True" />
+    <Attempt id="56" started="10/07/2019 21:35:32" isStartedSynced="True" ended="10/07/2019 21:35:56" isEndedSynced="True" />
+    <Attempt id="57" started="10/07/2019 21:35:56" isStartedSynced="True" ended="10/07/2019 21:36:06" isEndedSynced="True" />
+    <Attempt id="58" started="10/07/2019 21:36:06" isStartedSynced="True" ended="10/07/2019 21:36:36" isEndedSynced="True" />
+    <Attempt id="59" started="10/07/2019 21:36:36" isStartedSynced="True" ended="10/07/2019 21:37:52" isEndedSynced="True" />
+    <Attempt id="60" started="10/07/2019 21:38:33" isStartedSynced="True" ended="10/07/2019 21:39:02" isEndedSynced="True" />
+    <Attempt id="61" started="10/07/2019 21:39:02" isStartedSynced="True" ended="10/07/2019 21:39:15" isEndedSynced="True" />
+    <Attempt id="62" started="10/07/2019 21:39:15" isStartedSynced="True" ended="10/07/2019 21:40:28" isEndedSynced="True" />
+    <Attempt id="63" started="10/07/2019 21:40:28" isStartedSynced="True" ended="10/07/2019 21:40:40" isEndedSynced="True" />
+    <Attempt id="64" started="10/07/2019 21:40:40" isStartedSynced="True" ended="10/07/2019 21:41:09" isEndedSynced="True" />
+    <Attempt id="65" started="10/07/2019 21:41:09" isStartedSynced="True" ended="10/07/2019 21:42:55" isEndedSynced="True" />
+    <Attempt id="66" started="10/07/2019 21:42:55" isStartedSynced="True" ended="10/07/2019 22:02:56" isEndedSynced="True" />
+    <Attempt id="67" started="10/07/2019 22:03:40" isStartedSynced="True" ended="10/07/2019 23:19:51" isEndedSynced="True" />
+    <Attempt id="68" started="10/08/2019 20:53:06" isStartedSynced="True" ended="10/08/2019 20:53:20" isEndedSynced="True" />
+    <Attempt id="69" started="10/08/2019 20:53:20" isStartedSynced="True" ended="10/08/2019 20:53:50" isEndedSynced="True" />
+    <Attempt id="70" started="10/08/2019 20:53:50" isStartedSynced="True" ended="10/08/2019 20:55:13" isEndedSynced="True" />
+    <Attempt id="71" started="10/08/2019 20:56:09" isStartedSynced="True" ended="10/08/2019 20:58:56" isEndedSynced="True" />
+    <Attempt id="72" started="10/08/2019 20:59:32" isStartedSynced="True" ended="10/08/2019 21:00:37" isEndedSynced="True" />
+    <Attempt id="73" started="10/08/2019 21:00:37" isStartedSynced="True" ended="10/08/2019 21:01:06" isEndedSynced="True" />
+    <Attempt id="74" started="10/08/2019 21:01:06" isStartedSynced="True" ended="10/08/2019 21:01:33" isEndedSynced="True" />
+    <Attempt id="75" started="10/08/2019 21:01:33" isStartedSynced="True" ended="10/08/2019 21:02:16" isEndedSynced="True" />
+    <Attempt id="76" started="10/08/2019 21:02:34" isStartedSynced="True" ended="10/09/2019 00:14:59" isEndedSynced="True" />
+    <Attempt id="77" started="10/09/2019 20:19:53" isStartedSynced="True" ended="10/09/2019 20:20:11" isEndedSynced="True" />
+    <Attempt id="78" started="10/09/2019 20:20:11" isStartedSynced="True" ended="10/09/2019 20:20:44" isEndedSynced="True" />
+    <Attempt id="79" started="10/09/2019 20:20:44" isStartedSynced="True" ended="10/09/2019 20:22:08" isEndedSynced="True" />
+    <Attempt id="80" started="10/09/2019 20:22:43" isStartedSynced="True" ended="10/09/2019 20:22:53" isEndedSynced="True" />
+    <Attempt id="81" started="10/09/2019 20:22:53" isStartedSynced="True" ended="10/09/2019 20:25:00" isEndedSynced="True" />
+    <Attempt id="82" started="10/09/2019 20:25:37" isStartedSynced="True" ended="10/09/2019 20:27:01" isEndedSynced="True" />
+    <Attempt id="83" started="10/09/2019 20:27:41" isStartedSynced="True" ended="10/09/2019 20:28:10" isEndedSynced="True" />
+    <Attempt id="84" started="10/09/2019 20:28:10" isStartedSynced="True" ended="10/09/2019 20:32:05" isEndedSynced="True" />
+    <Attempt id="85" started="10/09/2019 20:32:41" isStartedSynced="True" ended="10/09/2019 20:33:39" isEndedSynced="True" />
+    <Attempt id="86" started="10/09/2019 20:34:13" isStartedSynced="True" ended="10/09/2019 20:35:39" isEndedSynced="True" />
+    <Attempt id="87" started="10/09/2019 20:36:13" isStartedSynced="True" ended="10/09/2019 20:36:36" isEndedSynced="True" />
+    <Attempt id="88" started="10/09/2019 20:36:36" isStartedSynced="True" ended="10/09/2019 20:38:11" isEndedSynced="True" />
+    <Attempt id="89" started="10/09/2019 20:38:45" isStartedSynced="True" ended="10/09/2019 20:40:19" isEndedSynced="True" />
+    <Attempt id="90" started="10/09/2019 20:40:54" isStartedSynced="True" ended="10/09/2019 21:02:15" isEndedSynced="True" />
+    <Attempt id="91" started="10/10/2019 19:02:19" isStartedSynced="True" ended="10/10/2019 19:02:45" isEndedSynced="True" />
+    <Attempt id="92" started="10/10/2019 19:02:45" isStartedSynced="True" ended="10/10/2019 19:04:33" isEndedSynced="True" />
+    <Attempt id="93" started="10/10/2019 19:05:08" isStartedSynced="True" ended="10/10/2019 19:05:23" isEndedSynced="True" />
+    <Attempt id="94" started="10/10/2019 19:05:23" isStartedSynced="True" ended="10/10/2019 19:06:16" isEndedSynced="True" />
+    <Attempt id="95" started="10/10/2019 19:06:16" isStartedSynced="True" ended="10/10/2019 19:07:30" isEndedSynced="True" />
+    <Attempt id="96" started="10/10/2019 19:08:13" isStartedSynced="True" ended="10/10/2019 19:08:27" isEndedSynced="True" />
+    <Attempt id="97" started="10/10/2019 19:08:27" isStartedSynced="True" ended="10/10/2019 19:10:33" isEndedSynced="True" />
+    <Attempt id="98" started="10/10/2019 19:11:30" isStartedSynced="True" ended="10/10/2019 19:12:01" isEndedSynced="True" />
+    <Attempt id="99" started="10/10/2019 19:12:01" isStartedSynced="True" ended="10/10/2019 19:12:26" isEndedSynced="True" />
+    <Attempt id="100" started="10/10/2019 19:12:26" isStartedSynced="True" ended="10/10/2019 19:12:42" isEndedSynced="True" />
+    <Attempt id="101" started="10/10/2019 19:12:42" isStartedSynced="True" ended="10/10/2019 19:14:23" isEndedSynced="True" />
+    <Attempt id="102" started="10/10/2019 19:14:58" isStartedSynced="True" ended="10/10/2019 19:15:53" isEndedSynced="True" />
+    <Attempt id="103" started="10/10/2019 19:16:29" isStartedSynced="True" ended="10/10/2019 19:36:14" isEndedSynced="True" />
+    <Attempt id="104" started="10/10/2019 19:36:51" isStartedSynced="True" ended="10/10/2019 19:54:08" isEndedSynced="True" />
+    <Attempt id="105" started="10/10/2019 19:54:51" isStartedSynced="True" ended="10/10/2019 21:55:06" isEndedSynced="True" />
+    <Attempt id="106" started="10/13/2019 19:12:22" isStartedSynced="True" ended="10/13/2019 19:12:49" isEndedSynced="True" />
+    <Attempt id="107" started="10/13/2019 19:13:25" isStartedSynced="True" ended="10/13/2019 19:41:03" isEndedSynced="True" />
+    <Attempt id="108" started="10/13/2019 19:43:28" isStartedSynced="True" ended="10/13/2019 19:47:31" isEndedSynced="True" />
+    <Attempt id="109" started="10/15/2019 21:09:07" isStartedSynced="True" ended="10/15/2019 21:10:00" isEndedSynced="True" />
+    <Attempt id="110" started="10/15/2019 21:10:08" isStartedSynced="True" ended="10/15/2019 21:13:01" isEndedSynced="True" />
+    <Attempt id="111" started="10/15/2019 21:13:35" isStartedSynced="True" ended="10/15/2019 21:33:29" isEndedSynced="True" />
+    <Attempt id="112" started="10/15/2019 21:34:23" isStartedSynced="True" ended="10/15/2019 21:34:45" isEndedSynced="True" />
+    <Attempt id="113" started="10/15/2019 21:34:50" isStartedSynced="True" ended="10/15/2019 21:35:55" isEndedSynced="True" />
+    <Attempt id="114" started="10/15/2019 21:36:32" isStartedSynced="True" ended="10/15/2019 21:38:48" isEndedSynced="True" />
+    <Attempt id="115" started="10/15/2019 21:39:31" isStartedSynced="True" ended="10/15/2019 21:40:47" isEndedSynced="True" />
+    <Attempt id="116" started="10/15/2019 21:40:54" isStartedSynced="True" ended="10/15/2019 21:41:08" isEndedSynced="True" />
+    <Attempt id="117" started="10/15/2019 21:41:08" isStartedSynced="True" ended="10/15/2019 21:42:39" isEndedSynced="True" />
+    <Attempt id="118" started="10/15/2019 21:43:16" isStartedSynced="True" ended="10/15/2019 21:43:34" isEndedSynced="True" />
+    <Attempt id="119" started="10/15/2019 21:43:34" isStartedSynced="True" ended="10/15/2019 22:42:00" isEndedSynced="True" />
+    <Attempt id="120" started="10/16/2019 20:50:39" isStartedSynced="True" ended="10/16/2019 20:53:06" isEndedSynced="True" />
+    <Attempt id="121" started="10/16/2019 20:53:40" isStartedSynced="True" ended="10/16/2019 20:54:14" isEndedSynced="True" />
+    <Attempt id="122" started="10/16/2019 20:54:16" isStartedSynced="True" ended="10/16/2019 20:55:19" isEndedSynced="True" />
+    <Attempt id="123" started="10/16/2019 20:55:25" isStartedSynced="True" ended="10/16/2019 20:55:32" isEndedSynced="True" />
+    <Attempt id="124" started="10/16/2019 20:55:37" isStartedSynced="True" ended="10/16/2019 20:56:41" isEndedSynced="True" />
+    <Attempt id="125" started="10/16/2019 20:57:19" isStartedSynced="True" ended="10/16/2019 20:58:23" isEndedSynced="True" />
+    <Attempt id="126" started="10/16/2019 20:59:02" isStartedSynced="True" ended="10/16/2019 20:59:56" isEndedSynced="True" />
+    <Attempt id="127" started="10/16/2019 21:00:31" isStartedSynced="True" ended="10/16/2019 21:01:46" isEndedSynced="True" />
+    <Attempt id="128" started="10/16/2019 21:02:22" isStartedSynced="True" ended="10/16/2019 21:12:46" isEndedSynced="True" />
+    <Attempt id="129" started="10/16/2019 21:13:22" isStartedSynced="True" ended="10/17/2019 00:44:30" isEndedSynced="True" />
+    <Attempt id="130" started="10/17/2019 17:39:11" isStartedSynced="True" ended="10/17/2019 17:40:02" isEndedSynced="True" />
+    <Attempt id="131" started="10/17/2019 17:40:36" isStartedSynced="True" ended="10/17/2019 17:41:53" isEndedSynced="True" />
+    <Attempt id="132" started="10/17/2019 17:41:58" isStartedSynced="True" ended="10/17/2019 17:43:29" isEndedSynced="True" />
+    <Attempt id="133" started="10/17/2019 17:44:04" isStartedSynced="True" ended="10/17/2019 17:45:30" isEndedSynced="True" />
+    <Attempt id="134" started="10/17/2019 17:48:13" isStartedSynced="True" ended="10/17/2019 17:49:49" isEndedSynced="True" />
+    <Attempt id="135" started="10/17/2019 17:50:23" isStartedSynced="True" ended="10/17/2019 17:54:33" isEndedSynced="True" />
+    <Attempt id="136" started="10/17/2019 17:55:11" isStartedSynced="True" ended="10/17/2019 17:55:22" isEndedSynced="True" />
+    <Attempt id="137" started="10/17/2019 17:55:27" isStartedSynced="True" ended="10/17/2019 17:55:42" isEndedSynced="True" />
+    <Attempt id="138" started="10/17/2019 17:55:48" isStartedSynced="True" ended="10/17/2019 17:56:02" isEndedSynced="True" />
+    <Attempt id="139" started="10/17/2019 17:56:08" isStartedSynced="True" ended="10/17/2019 17:57:16" isEndedSynced="True" />
+    <Attempt id="140" started="10/17/2019 17:57:51" isStartedSynced="True" ended="10/17/2019 18:00:53" isEndedSynced="True" />
+    <Attempt id="141" started="10/17/2019 18:01:28" isStartedSynced="True" ended="10/17/2019 18:02:19" isEndedSynced="True" />
+    <Attempt id="142" started="10/17/2019 18:02:25" isStartedSynced="True" ended="10/17/2019 18:02:51" isEndedSynced="True" />
+    <Attempt id="143" started="10/17/2019 18:02:56" isStartedSynced="True" ended="10/17/2019 18:13:17" isEndedSynced="True" />
+    <Attempt id="144" started="10/17/2019 18:13:52" isStartedSynced="True" ended="10/17/2019 21:26:29" isEndedSynced="True" />
+    <Attempt id="145" started="10/20/2019 14:13:18" isStartedSynced="True" ended="10/20/2019 14:13:24" isEndedSynced="True" />
+    <Attempt id="146" started="10/20/2019 17:26:56" isStartedSynced="True" ended="10/20/2019 17:27:02" isEndedSynced="True" />
+    <Attempt id="147" started="10/20/2019 17:27:08" isStartedSynced="True" ended="10/20/2019 17:27:25" isEndedSynced="True" />
+    <Attempt id="148" started="10/20/2019 17:27:31" isStartedSynced="True" ended="10/20/2019 17:28:52" isEndedSynced="True" />
+    <Attempt id="149" started="10/20/2019 17:29:28" isStartedSynced="True" ended="10/20/2019 17:30:46" isEndedSynced="True" />
+    <Attempt id="150" started="10/20/2019 17:31:20" isStartedSynced="True" ended="10/20/2019 17:34:56" isEndedSynced="True" />
+    <Attempt id="151" started="10/20/2019 17:35:31" isStartedSynced="True" ended="10/20/2019 17:38:08" isEndedSynced="True" />
+    <Attempt id="152" started="10/20/2019 17:38:43" isStartedSynced="True" ended="10/20/2019 17:40:07" isEndedSynced="True" />
+    <Attempt id="153" started="10/20/2019 17:41:00" isStartedSynced="True" ended="10/20/2019 17:41:12" isEndedSynced="True" />
+    <Attempt id="154" started="10/20/2019 17:41:18" isStartedSynced="True" ended="10/20/2019 17:41:23" isEndedSynced="True" />
+    <Attempt id="155" started="10/20/2019 17:41:28" isStartedSynced="True" ended="10/20/2019 17:41:32" isEndedSynced="True" />
+    <Attempt id="156" started="10/20/2019 17:41:38" isStartedSynced="True" ended="10/20/2019 17:42:54" isEndedSynced="True" />
+    <Attempt id="157" started="10/20/2019 17:43:28" isStartedSynced="True" ended="10/20/2019 17:53:57" isEndedSynced="True" />
+    <Attempt id="158" started="10/20/2019 17:54:32" isStartedSynced="True" ended="10/20/2019 17:57:03" isEndedSynced="True" />
+    <Attempt id="159" started="10/20/2019 17:57:37" isStartedSynced="True" ended="10/20/2019 18:00:33" isEndedSynced="True" />
+    <Attempt id="160" started="10/20/2019 18:01:09" isStartedSynced="True" ended="10/20/2019 18:02:41" isEndedSynced="True" />
+    <Attempt id="161" started="10/20/2019 18:03:17" isStartedSynced="True" ended="10/20/2019 18:04:47" isEndedSynced="True" />
+    <Attempt id="162" started="10/20/2019 18:05:19" isStartedSynced="True" ended="10/20/2019 18:08:19" isEndedSynced="True" />
+    <Attempt id="163" started="10/20/2019 18:10:42" isStartedSynced="True" ended="10/20/2019 18:12:12" isEndedSynced="True" />
+    <Attempt id="164" started="10/20/2019 18:13:54" isStartedSynced="True" ended="10/20/2019 18:24:21" isEndedSynced="True" />
+    <Attempt id="165" started="10/20/2019 18:24:55" isStartedSynced="True" ended="10/20/2019 18:25:32" isEndedSynced="True" />
+    <Attempt id="166" started="10/21/2019 20:26:24" isStartedSynced="True" ended="10/21/2019 20:35:34" isEndedSynced="True" />
+    <Attempt id="167" started="10/21/2019 20:36:08" isStartedSynced="True" ended="10/21/2019 20:40:23" isEndedSynced="True" />
+    <Attempt id="168" started="10/21/2019 20:40:58" isStartedSynced="True" ended="10/21/2019 20:54:51" isEndedSynced="True" />
+    <Attempt id="169" started="10/21/2019 20:55:28" isStartedSynced="True" ended="10/21/2019 21:00:44" isEndedSynced="True" />
+    <Attempt id="170" started="10/21/2019 21:01:22" isStartedSynced="True" ended="10/21/2019 21:01:37" isEndedSynced="True" />
+    <Attempt id="171" started="10/21/2019 21:01:42" isStartedSynced="True" ended="10/21/2019 21:28:35" isEndedSynced="True" />
+    <Attempt id="172" started="10/27/2019 19:02:14" isStartedSynced="True" ended="10/27/2019 19:03:26" isEndedSynced="True" />
+    <Attempt id="173" started="10/27/2019 19:04:02" isStartedSynced="True" ended="10/27/2019 19:04:17" isEndedSynced="True" />
+    <Attempt id="174" started="10/27/2019 19:04:22" isStartedSynced="True" ended="10/27/2019 19:05:43" isEndedSynced="True" />
+    <Attempt id="175" started="10/27/2019 19:06:18" isStartedSynced="True" ended="10/27/2019 19:09:15" isEndedSynced="True" />
+    <Attempt id="176" started="10/27/2019 19:09:46" isStartedSynced="True" ended="10/27/2019 19:10:02" isEndedSynced="True" />
+    <Attempt id="177" started="10/27/2019 19:10:07" isStartedSynced="True" ended="10/27/2019 19:11:08" isEndedSynced="True" />
+    <Attempt id="178" started="10/27/2019 19:11:39" isStartedSynced="True" ended="10/27/2019 19:12:31" isEndedSynced="True" />
+    <Attempt id="179" started="10/27/2019 19:12:37" isStartedSynced="True" ended="10/27/2019 19:12:43" isEndedSynced="True" />
+    <Attempt id="180" started="10/27/2019 19:12:48" isStartedSynced="True" ended="10/27/2019 19:30:40" isEndedSynced="True" />
+    <Attempt id="181" started="10/27/2019 19:31:18" isStartedSynced="True" ended="10/27/2019 22:26:22" isEndedSynced="True" />
+    <Attempt id="182" started="10/28/2019 20:36:34" isStartedSynced="True" ended="10/28/2019 20:36:42" isEndedSynced="True" />
+    <Attempt id="183" started="10/28/2019 20:36:48" isStartedSynced="True" ended="10/28/2019 20:37:10" isEndedSynced="True" />
+    <Attempt id="184" started="10/28/2019 20:37:16" isStartedSynced="True" ended="10/28/2019 20:37:35" isEndedSynced="True" />
+    <Attempt id="185" started="10/28/2019 20:37:40" isStartedSynced="True" ended="10/28/2019 20:38:37" isEndedSynced="True" />
+    <Attempt id="186" started="10/28/2019 20:39:07" isStartedSynced="True" ended="10/28/2019 20:48:08" isEndedSynced="True" />
+    <Attempt id="187" started="10/28/2019 20:48:45" isStartedSynced="True" ended="10/28/2019 20:51:21" isEndedSynced="True" />
+    <Attempt id="188" started="10/28/2019 20:52:25" isStartedSynced="True" ended="10/28/2019 20:52:48" isEndedSynced="True" />
+    <Attempt id="189" started="10/28/2019 20:52:54" isStartedSynced="True" ended="10/28/2019 20:54:16" isEndedSynced="True" />
+    <Attempt id="190" started="10/28/2019 20:54:50" isStartedSynced="True" ended="10/28/2019 20:55:15" isEndedSynced="True" />
+    <Attempt id="191" started="10/28/2019 20:55:20" isStartedSynced="True" ended="10/28/2019 20:55:34" isEndedSynced="True" />
+    <Attempt id="192" started="10/28/2019 20:55:39" isStartedSynced="True" ended="10/28/2019 20:56:50" isEndedSynced="True" />
+    <Attempt id="193" started="10/28/2019 20:56:55" isStartedSynced="True" ended="10/28/2019 20:57:15" isEndedSynced="True" />
+    <Attempt id="194" started="10/28/2019 20:57:45" isStartedSynced="True" ended="10/28/2019 20:57:53" isEndedSynced="True" />
+    <Attempt id="195" started="10/28/2019 20:57:58" isStartedSynced="True" ended="10/28/2019 20:59:14" isEndedSynced="True" />
+    <Attempt id="196" started="10/28/2019 21:00:13" isStartedSynced="True" ended="10/28/2019 21:01:24" isEndedSynced="True" />
+    <Attempt id="197" started="10/28/2019 21:01:58" isStartedSynced="True" ended="10/28/2019 21:03:11" isEndedSynced="True" />
+    <Attempt id="198" started="10/28/2019 21:03:45" isStartedSynced="True" ended="10/28/2019 21:03:51" isEndedSynced="True" />
+    <Attempt id="199" started="10/28/2019 21:03:57" isStartedSynced="True" ended="10/28/2019 21:31:42" isEndedSynced="True" />
+    <Attempt id="200" started="11/03/2019 10:22:30" isStartedSynced="True" ended="11/03/2019 10:25:05" isEndedSynced="True" />
+    <Attempt id="201" started="11/03/2019 10:25:37" isStartedSynced="True" ended="11/03/2019 10:26:43" isEndedSynced="True" />
+    <Attempt id="202" started="11/03/2019 10:26:48" isStartedSynced="True" ended="11/03/2019 10:27:02" isEndedSynced="True" />
+    <Attempt id="203" started="11/03/2019 10:27:07" isStartedSynced="True" ended="11/03/2019 10:28:15" isEndedSynced="True" />
+    <Attempt id="204" started="11/03/2019 10:28:43" isStartedSynced="True" ended="11/03/2019 10:28:53" isEndedSynced="True" />
+    <Attempt id="205" started="11/03/2019 10:28:58" isStartedSynced="True" ended="11/03/2019 10:29:12" isEndedSynced="True" />
+    <Attempt id="206" started="11/03/2019 10:29:17" isStartedSynced="True" ended="11/03/2019 10:29:24" isEndedSynced="True" />
+    <Attempt id="207" started="11/03/2019 10:29:29" isStartedSynced="True" ended="11/03/2019 10:29:50" isEndedSynced="True" />
+    <Attempt id="208" started="11/03/2019 10:30:27" isStartedSynced="True" ended="11/03/2019 10:30:42" isEndedSynced="True" />
+    <Attempt id="209" started="11/03/2019 10:30:47" isStartedSynced="True" ended="11/03/2019 10:31:12" isEndedSynced="True" />
+    <Attempt id="210" started="11/03/2019 10:31:17" isStartedSynced="True" ended="11/03/2019 10:31:25" isEndedSynced="True" />
+    <Attempt id="211" started="11/04/2019 21:24:56" isStartedSynced="True" ended="11/04/2019 21:25:20" isEndedSynced="True" />
+    <Attempt id="212" started="11/04/2019 21:25:24" isStartedSynced="True" ended="11/04/2019 23:39:51" isEndedSynced="True" />
+    <Attempt id="213" started="11/09/2019 02:29:46" isStartedSynced="True" ended="11/09/2019 05:17:11" isEndedSynced="True" />
+    <Attempt id="214" started="11/10/2019 10:14:18" isStartedSynced="True" ended="11/10/2019 11:58:09" isEndedSynced="True" />
+    <Attempt id="215" started="11/10/2019 21:41:08" isStartedSynced="True" ended="11/10/2019 21:42:01" isEndedSynced="True" />
+    <Attempt id="216" started="11/10/2019 21:42:06" isStartedSynced="True" ended="11/10/2019 21:42:27" isEndedSynced="True" />
+    <Attempt id="217" started="11/10/2019 21:42:33" isStartedSynced="True" ended="11/10/2019 21:44:06" isEndedSynced="True" />
+    <Attempt id="218" started="11/10/2019 21:44:36" isStartedSynced="True" ended="11/10/2019 21:44:52" isEndedSynced="True" />
+    <Attempt id="219" started="11/10/2019 21:44:57" isStartedSynced="True" ended="11/10/2019 21:46:04" isEndedSynced="True" />
+    <Attempt id="220" started="11/10/2019 21:46:58" isStartedSynced="True" ended="11/11/2019 00:54:09" isEndedSynced="True" />
+    <Attempt id="221" started="11/11/2019 18:52:29" isStartedSynced="True" ended="11/11/2019 18:53:31" isEndedSynced="True" />
+    <Attempt id="222" started="11/11/2019 18:53:59" isStartedSynced="True" ended="11/11/2019 18:55:23" isEndedSynced="True" />
+    <Attempt id="223" started="11/11/2019 18:55:28" isStartedSynced="True" ended="11/11/2019 18:55:52" isEndedSynced="True" />
+    <Attempt id="224" started="11/11/2019 18:55:58" isStartedSynced="True" ended="11/11/2019 18:56:47" isEndedSynced="True" />
+    <Attempt id="225" started="11/11/2019 18:56:52" isStartedSynced="True" ended="11/11/2019 18:57:14" isEndedSynced="True" />
+    <Attempt id="226" started="11/11/2019 18:58:09" isStartedSynced="True" ended="11/11/2019 19:12:11" isEndedSynced="True" />
+    <Attempt id="227" started="11/11/2019 19:12:56" isStartedSynced="True" ended="11/11/2019 19:13:20" isEndedSynced="True" />
+    <Attempt id="228" started="11/11/2019 19:13:26" isStartedSynced="True" ended="11/11/2019 19:13:39" isEndedSynced="True" />
+    <Attempt id="229" started="11/11/2019 19:13:45" isStartedSynced="True" ended="11/11/2019 19:14:55" isEndedSynced="True" />
+    <Attempt id="230" started="11/11/2019 19:15:00" isStartedSynced="True" ended="11/11/2019 19:16:00" isEndedSynced="True" />
+    <Attempt id="231" started="11/11/2019 19:16:33" isStartedSynced="True" ended="11/11/2019 19:16:53" isEndedSynced="True" />
+    <Attempt id="232" started="11/11/2019 19:17:26" isStartedSynced="True" ended="11/11/2019 19:17:44" isEndedSynced="True" />
+    <Attempt id="233" started="11/11/2019 19:17:50" isStartedSynced="True" ended="11/11/2019 19:18:54" isEndedSynced="True" />
+    <Attempt id="234" started="11/11/2019 19:19:27" isStartedSynced="True" ended="11/11/2019 19:19:45" isEndedSynced="True" />
+    <Attempt id="235" started="11/11/2019 19:19:50" isStartedSynced="True" ended="11/11/2019 19:39:04" isEndedSynced="True" />
+    <Attempt id="236" started="11/11/2019 19:39:36" isStartedSynced="True" ended="11/11/2019 19:49:55" isEndedSynced="True" />
+    <Attempt id="237" started="11/11/2019 19:50:26" isStartedSynced="True" ended="11/11/2019 19:51:40" isEndedSynced="True" />
+    <Attempt id="238" started="11/11/2019 19:51:46" isStartedSynced="True" ended="11/11/2019 19:56:05" isEndedSynced="True" />
+    <Attempt id="239" started="11/11/2019 19:56:35" isStartedSynced="True" ended="11/11/2019 21:31:52" isEndedSynced="True" />
+    <Attempt id="240" started="11/13/2019 03:53:03" isStartedSynced="True" ended="11/13/2019 04:03:51" isEndedSynced="True" />
+    <Attempt id="241" started="11/13/2019 04:04:26" isStartedSynced="True" ended="11/13/2019 04:05:38" isEndedSynced="True" />
+    <Attempt id="242" started="11/13/2019 04:06:07" isStartedSynced="True" ended="11/13/2019 04:06:15" isEndedSynced="True" />
+    <Attempt id="243" started="11/13/2019 04:06:20" isStartedSynced="True" ended="11/13/2019 04:07:42" isEndedSynced="True" />
+    <Attempt id="244" started="11/13/2019 04:08:12" isStartedSynced="True" ended="11/13/2019 04:11:16" isEndedSynced="True" />
+    <Attempt id="245" started="11/13/2019 04:11:52" isStartedSynced="True" ended="11/13/2019 04:13:12" isEndedSynced="True" />
+    <Attempt id="246" started="11/13/2019 04:13:17" isStartedSynced="True" ended="11/13/2019 04:15:39" isEndedSynced="True" />
+    <Attempt id="247" started="11/13/2019 04:16:09" isStartedSynced="True" ended="11/13/2019 04:17:27" isEndedSynced="True" />
+    <Attempt id="248" started="11/13/2019 04:17:59" isStartedSynced="True" ended="11/13/2019 04:18:07" isEndedSynced="True" />
+    <Attempt id="249" started="11/13/2019 04:18:12" isStartedSynced="True" ended="11/13/2019 04:18:33" isEndedSynced="True" />
+    <Attempt id="250" started="11/13/2019 04:18:39" isStartedSynced="True" ended="11/13/2019 04:18:42" isEndedSynced="True" />
+    <Attempt id="251" started="11/13/2019 04:18:47" isStartedSynced="True" ended="11/13/2019 04:19:04" isEndedSynced="True" />
+    <Attempt id="252" started="11/13/2019 04:19:09" isStartedSynced="True" ended="11/13/2019 06:58:35" isEndedSynced="True" />
+    <Attempt id="253" started="11/13/2019 16:33:15" isStartedSynced="True" ended="11/13/2019 16:33:20" isEndedSynced="True" />
+    <Attempt id="254" started="11/13/2019 16:33:25" isStartedSynced="True" ended="11/13/2019 16:42:09" isEndedSynced="True" />
+    <Attempt id="255" started="11/13/2019 16:42:38" isStartedSynced="True" ended="11/13/2019 16:43:32" isEndedSynced="True" />
+    <Attempt id="256" started="11/13/2019 16:43:38" isStartedSynced="True" ended="11/13/2019 16:44:00" isEndedSynced="True" />
+    <Attempt id="257" started="11/13/2019 16:44:05" isStartedSynced="True" ended="11/13/2019 16:45:17" isEndedSynced="True" />
+    <Attempt id="258" started="11/13/2019 16:45:49" isStartedSynced="True" ended="11/13/2019 16:45:56" isEndedSynced="True" />
+    <Attempt id="259" started="11/13/2019 16:46:01" isStartedSynced="True" ended="11/13/2019 16:48:20" isEndedSynced="True" />
+    <Attempt id="260" started="11/13/2019 16:48:50" isStartedSynced="True" ended="11/13/2019 16:51:04" isEndedSynced="True" />
+    <Attempt id="261" started="11/13/2019 16:51:35" isStartedSynced="True" ended="11/13/2019 16:51:48" isEndedSynced="True" />
+    <Attempt id="262" started="11/13/2019 16:51:53" isStartedSynced="True" ended="11/13/2019 16:52:18" isEndedSynced="True" />
+    <Attempt id="263" started="11/13/2019 16:52:23" isStartedSynced="True" ended="11/13/2019 16:52:43" isEndedSynced="True" />
+    <Attempt id="264" started="11/13/2019 16:52:48" isStartedSynced="True" ended="11/13/2019 17:29:23" isEndedSynced="True" />
+    <Attempt id="265" started="11/13/2019 17:30:37" isStartedSynced="True" ended="11/13/2019 17:31:10" isEndedSynced="True" />
+    <Attempt id="266" started="11/13/2019 17:31:15" isStartedSynced="True" ended="11/13/2019 17:32:30" isEndedSynced="True" />
+    <Attempt id="267" started="11/13/2019 17:32:36" isStartedSynced="True" ended="11/13/2019 17:37:22" isEndedSynced="True" />
+    <Attempt id="268" started="11/13/2019 17:37:52" isStartedSynced="True" ended="11/13/2019 17:38:12" isEndedSynced="True" />
+    <Attempt id="269" started="11/13/2019 17:38:17" isStartedSynced="True" ended="11/13/2019 17:42:00" isEndedSynced="True" />
+    <Attempt id="270" started="11/13/2019 17:42:36" isStartedSynced="True" ended="11/13/2019 17:42:44" isEndedSynced="True" />
+    <Attempt id="271" started="11/13/2019 17:42:52" isStartedSynced="True" ended="11/13/2019 17:43:00" isEndedSynced="True" />
+    <Attempt id="272" started="11/13/2019 17:45:50" isStartedSynced="True" ended="11/13/2019 17:47:08" isEndedSynced="True" />
+    <Attempt id="273" started="11/13/2019 17:47:13" isStartedSynced="True" ended="11/13/2019 17:48:24" isEndedSynced="True" />
+    <Attempt id="274" started="11/13/2019 17:48:53" isStartedSynced="True" ended="11/13/2019 17:49:00" isEndedSynced="True" />
+    <Attempt id="275" started="11/13/2019 17:49:05" isStartedSynced="True" ended="11/13/2019 17:49:19" isEndedSynced="True" />
+    <Attempt id="276" started="11/13/2019 17:49:24" isStartedSynced="True" ended="11/13/2019 18:34:51" isEndedSynced="True" />
+    <Attempt id="277" started="11/14/2019 01:43:53" isStartedSynced="True" ended="11/14/2019 02:03:08" isEndedSynced="True" />
+    <Attempt id="278" started="11/14/2019 02:03:44" isStartedSynced="True" ended="11/14/2019 02:04:12" isEndedSynced="True" />
+    <Attempt id="279" started="11/14/2019 02:04:12" isStartedSynced="True" ended="11/14/2019 02:05:26" isEndedSynced="True" />
+    <Attempt id="280" started="11/14/2019 02:05:57" isStartedSynced="True" ended="11/14/2019 05:09:04" isEndedSynced="True" />
+    <Attempt id="281" started="11/14/2019 17:18:23" isStartedSynced="True" ended="11/14/2019 17:21:01" isEndedSynced="True" />
+    <Attempt id="282" started="11/14/2019 17:21:31" isStartedSynced="True" ended="11/14/2019 17:22:42" isEndedSynced="True" />
+    <Attempt id="283" started="11/14/2019 17:22:47" isStartedSynced="True" ended="11/14/2019 17:24:00" isEndedSynced="True" />
+    <Attempt id="284" started="11/14/2019 17:24:28" isStartedSynced="True" ended="11/14/2019 21:51:49" isEndedSynced="True" />
+    <Attempt id="285" started="11/16/2019 02:46:47" isStartedSynced="True" ended="11/16/2019 02:47:57" isEndedSynced="True" />
+    <Attempt id="286" started="11/16/2019 02:48:54" isStartedSynced="True" ended="11/16/2019 07:35:56" isEndedSynced="True">
+      <RealTime>04:47:01.7870000</RealTime>
+    </Attempt>
+    <Attempt id="287" started="11/17/2019 17:10:51" isStartedSynced="True" ended="11/17/2019 17:47:23" isEndedSynced="True" />
+    <Attempt id="288" started="11/17/2019 17:48:08" isStartedSynced="True" ended="11/17/2019 17:49:04" isEndedSynced="True" />
+    <Attempt id="289" started="11/17/2019 17:49:34" isStartedSynced="True" ended="11/17/2019 20:23:05" isEndedSynced="True" />
+    <Attempt id="290" started="11/17/2019 20:23:50" isStartedSynced="True" ended="11/17/2019 20:41:03" isEndedSynced="True" />
+    <Attempt id="291" started="11/18/2019 20:36:54" isStartedSynced="True" ended="11/18/2019 20:36:58" isEndedSynced="True" />
+    <Attempt id="292" started="11/18/2019 20:37:09" isStartedSynced="True" ended="11/18/2019 20:37:25" isEndedSynced="True" />
+    <Attempt id="293" started="11/18/2019 20:49:25" isStartedSynced="True" ended="11/18/2019 20:49:55" isEndedSynced="True" />
+    <Attempt id="294" started="11/18/2019 20:50:00" isStartedSynced="True" ended="11/18/2019 20:50:40" isEndedSynced="True" />
+    <Attempt id="295" started="11/20/2019 21:15:15" isStartedSynced="True" ended="11/20/2019 21:17:11" isEndedSynced="True" />
+    <Attempt id="296" started="11/20/2019 21:17:15" isStartedSynced="True" ended="11/20/2019 21:20:58" isEndedSynced="True" />
+    <Attempt id="297" started="11/20/2019 21:50:35" isStartedSynced="True" ended="11/20/2019 21:51:49" isEndedSynced="True" />
+    <Attempt id="298" started="11/20/2019 21:51:53" isStartedSynced="True" ended="11/20/2019 21:53:55" isEndedSynced="True" />
+    <Attempt id="299" started="11/20/2019 22:53:23" isStartedSynced="True" ended="11/20/2019 22:53:24" isEndedSynced="True" />
+    <Attempt id="300" started="11/20/2019 22:53:31" isStartedSynced="True" ended="11/20/2019 22:54:57" isEndedSynced="True" />
+    <Attempt id="301" started="11/20/2019 22:55:29" isStartedSynced="True" ended="11/20/2019 23:02:04" isEndedSynced="True" />
+    <Attempt id="302" started="11/20/2019 23:18:23" isStartedSynced="True" ended="11/20/2019 23:18:29" isEndedSynced="True" />
+    <Attempt id="303" started="11/20/2019 23:18:32" isStartedSynced="True" ended="11/20/2019 23:58:58" isEndedSynced="True">
+      <RealTime>00:40:26.6650000</RealTime>
+    </Attempt>
+    <Attempt id="304" started="11/21/2019 00:34:31" isStartedSynced="True" ended="11/21/2019 00:36:34" isEndedSynced="True" />
+    <Attempt id="305" started="11/21/2019 00:36:38" isStartedSynced="True" ended="11/21/2019 00:48:08" isEndedSynced="True" />
+    <Attempt id="306" started="11/21/2019 00:49:17" isStartedSynced="True" ended="11/21/2019 00:52:28" isEndedSynced="True" />
+    <Attempt id="307" started="11/21/2019 00:54:49" isStartedSynced="True" ended="11/21/2019 01:33:22" isEndedSynced="True">
+      <RealTime>00:38:33.3320000</RealTime>
+    </Attempt>
+    <Attempt id="308" started="01/23/2020 04:31:48" isStartedSynced="True" ended="01/23/2020 05:00:20" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>-Vertical Bird</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADLElEQVR4Xu2bsW7bMBCG/QRGH8BDZ099CidjBxdZ+wjxEzjI7jS7C3h2gaCjMwTIZBTI0sEPEBgdMvYRFP4CJMj0L/IonSU54gEfEEh3R91PSlQsclDRPhm+G1aGv4ZECHwRg1jkkBjLo0mQfTagAJaoCsiFnC5jcZqIDL2lWbgNcpeNCOavide+Gv4bWLAmaANt2cZ8NXHaDwMLOiVos2jMR5NSO+WQ94G2M2PnNaHWZvEZmQjsnCZHhimKObbBNTmmzYF9MTCnUiaTSTKfz5P1eu0EPvBlOerw8Oshefv3VgqLsTiwZwNzOgLFbLfbZL/fB4EYTSE0BRAN/eFwmCwWC1pcCMvlMs3F2ghBU4BXA3PIwQVvNhtaUBWQq64IWgKIeh/3MiukDsjJ2pKiJcBvAzuZM5vNaAEaIDdrU4KGAHgHZydyRqNRstvt6MVrgTZY2z40BPAOf0xh7KLLwL0dOkPgwcra9qEhgPd9X9L7KHo6nR7F4pjkwYk27FgJGgI4537M2eyCi0h6TzJ1Vnk/0BDA+a+u7+GH+ZzFMeDLcmTgVmNxLjQEYAdzXFMfhm3IPA5f1+1UZUpsVYAqPeZ6oJ6dAOPxmMa4QAzLBc5OAOYvgeUCUYC+CKBJFCAKEAWghWewGAt6MCcKEAWIAtDiAfNvmihAFCAKQAvPYDEW9GBOFCAKEAWgxQPm3zRRgHMUgOUCaIv5u4gCtClA738U7f3P4r34MNKHT2MqH0ddIwHnuvxxVOXzONYD4FN4UQj8jWOStQJoo9imFA0B1BdIVMH1iX31c0WLk8DyWXR7iQxGEStMCstpkVpnF0ldfbuihUlhOS1S6+wyuZc/L7QwCYhlOS1y69xCybq9j2cHy2uRW6eWyuJcnd4HlxeXNLfFgXVmsfTtzS0tSsr93T3Na4F6DwzL5YP2B6EYTJO4l13AR/qiU3XoPz0+pcNe2PPA3p6TmuhW+CCUbtnrwpaZU1Pcl0TtI4uA29y3YTO1NrbNNQHbn1hqTW2cbAo844Lt1Ftnm6BsZ2qQaW+ebgpcs+ielxpGBIYSEodsn/e+biuCl5wbg6PwweAd24ZrWRLhfcsAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:48.5340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.0190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="296">
+          <RealTime>00:03:23.4850000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>04:15:32.8420000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:03:12.5660000</RealTime>
+        </Time>
+        <Time id="305">
+          <RealTime>00:02:49.7940000</RealTime>
+        </Time>
+        <Time id="306">
+          <RealTime>00:02:50.7750000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:02:48.5340000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:02:47.0190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Home Coming 2x</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADLElEQVR4Xu2bsW7bMBCG/QRGH8BDZ099CidjBxdZ+wjxEzjI7jS7C3h2gaCjMwTIZBTI0sEPEBgdMvYRFP4CJMj0L/IonSU54gEfEEh3R91PSlQsclDRPhm+G1aGv4ZECHwRg1jkkBjLo0mQfTagAJaoCsiFnC5jcZqIDL2lWbgNcpeNCOavide+Gv4bWLAmaANt2cZ8NXHaDwMLOiVos2jMR5NSO+WQ94G2M2PnNaHWZvEZmQjsnCZHhimKObbBNTmmzYF9MTCnUiaTSTKfz5P1eu0EPvBlOerw8Oshefv3VgqLsTiwZwNzOgLFbLfbZL/fB4EYTSE0BRAN/eFwmCwWC1pcCMvlMs3F2ghBU4BXA3PIwQVvNhtaUBWQq64IWgKIeh/3MiukDsjJ2pKiJcBvAzuZM5vNaAEaIDdrU4KGAHgHZydyRqNRstvt6MVrgTZY2z40BPAOf0xh7KLLwL0dOkPgwcra9qEhgPd9X9L7KHo6nR7F4pjkwYk27FgJGgI4537M2eyCi0h6TzJ1Vnk/0BDA+a+u7+GH+ZzFMeDLcmTgVmNxLjQEYAdzXFMfhm3IPA5f1+1UZUpsVYAqPeZ6oJ6dAOPxmMa4QAzLBc5OAOYvgeUCUYC+CKBJFCAKEAWghWewGAt6MCcKEAWIAtDiAfNvmihAFCAKQAvPYDEW9GBOFCAKEAWgxQPm3zRRgHMUgOUCaIv5u4gCtClA738U7f3P4r34MNKHT2MqH0ddIwHnuvxxVOXzONYD4FN4UQj8jWOStQJoo9imFA0B1BdIVMH1iX31c0WLk8DyWXR7iQxGEStMCstpkVpnF0ldfbuihUlhOS1S6+wyuZc/L7QwCYhlOS1y69xCybq9j2cHy2uRW6eWyuJcnd4HlxeXNLfFgXVmsfTtzS0tSsr93T3Na4F6DwzL5YP2B6EYTJO4l13AR/qiU3XoPz0+pcNe2PPA3p6TmuhW+CCUbtnrwpaZU1Pcl0TtI4uA29y3YTO1NrbNNQHbn1hqTW2cbAo844Lt1Ftnm6BsZ2qQaW+ebgpcs+ielxpGBIYSEodsn/e+biuCl5wbg6PwweAd24ZrWRLhfcsAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:28.9630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:40.4290000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>04:41:49.8160000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:08:24.7130000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:07:02.3040000</RealTime>
+        </Time>
+        <Time id="305">
+          <RealTime>00:06:57.0680000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:06:40.4290000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:06:54.7690000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Dup ain't here 2x</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAXgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADFUlEQVR4Xu2bsW4TQRRF/QUWH0Akeje0pKIjJQ1KixSlRygfEOUDIB+A5B4pSksRiTJSGiqKVBQUKfmEZa4lP02G4/WYNzN25LnSKee+O88zu6tZ78Spl4HPgR+BoTGqqdrK0FwvAt8DFGwbKIsyNdH7wJ8ABdkmyqRsVaUCVHyXqNaEpzD5JcWboP21i8t+Fcpa9JqwSxe8XK4DRaROUoF/mE6nw+Grw6qoBtVeQZFVoHstmRuz2Wy4+no1PPx+aIJqqSZlSVB2t0YfchTk/uc9Bq2JamY0QdndImOj5S+fotqUKcEtMjUoWEsoU4JbZGpQqJZQpgS3yNSgUC2hTAlukalBoVpCmRLcIlODQrWEMiW4RaYGhYrRwwuNy0FjyTOGxiW4RaYGhYrpDegN6A3AcTn0BvQG9AagZwyNS3CLTA0KFXNxfoHjGuIWmRo06ZS727tFI47eHA0Hzw/QpyJukalBE16HGnL56XI4fnfcoiFu/QqQ8YISByKFG6K8OsRd4tboifDpySlOykO8ZajmGnQk/ixQTOcBKrRAp7Q1zwTlrWZsuDKKHYlLevtKRQwtXQpfGjVig2Px14FiGr0OCIWj0KXR9sg8Ei+6Cj4EqMgjtGdbHJGrRuaWKHYtkFHWu0Et0bOPZ4tfisKXIvNIvOhL0rcBKrISrQjd3mo1I+Mxu8iboVjzABVai/atbpnzL/Ni20TNpVoRRZ4DyNiNGqKt4nmQuvl2g94JbpFpcbSctUJ0N9HEaMIEeSW4RabV0QrJaQSNTXCLTA39cmNs+D7/EbqI0qRjaFyCW2RqUKgYNYHG5aCx5BlD4xLcIlODQsX0BvQG9AbguBx6A3oDegPQM4bGJbhFpgaFagllSnCLTA0K1RLKlOAWmRoUqiWUKcEtMjUoVEsoU4JbZGpQqJZQpgS3yNTYh7/K7v2fpff+7/LZH0wIPbzUhGqOUOyzmf8+Dd4iylxM6uRefzQl7fVnc0s9hSZUm/xSKrCL20GZqk9+Ke0vvX6mINtAWYrv+RypqO61ow9LlVBN1XZMfDL5CzivpP5kx5DrAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:48.4300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:29.9810000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:07.9960000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:03:08.3710000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:02:31.4970000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:03:19.4670000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:02:29.9810000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Cut Throat Business</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADLElEQVR4Xu2bsW7bMBCG/QRGH8BDZ099CidjBxdZ+wjxEzjI7jS7C3h2gaCjMwTIZBTI0sEPEBgdMvYRFP4CJMj0L/IonSU54gEfEEh3R91PSlQsclDRPhm+G1aGv4ZECHwRg1jkkBjLo0mQfTagAJaoCsiFnC5jcZqIDL2lWbgNcpeNCOavide+Gv4bWLAmaANt2cZ8NXHaDwMLOiVos2jMR5NSO+WQ94G2M2PnNaHWZvEZmQjsnCZHhimKObbBNTmmzYF9MTCnUiaTSTKfz5P1eu0EPvBlOerw8Oshefv3VgqLsTiwZwNzOgLFbLfbZL/fB4EYTSE0BRAN/eFwmCwWC1pcCMvlMs3F2ghBU4BXA3PIwQVvNhtaUBWQq64IWgKIeh/3MiukDsjJ2pKiJcBvAzuZM5vNaAEaIDdrU4KGAHgHZydyRqNRstvt6MVrgTZY2z40BPAOf0xh7KLLwL0dOkPgwcra9qEhgPd9X9L7KHo6nR7F4pjkwYk27FgJGgI4537M2eyCi0h6TzJ1Vnk/0BDA+a+u7+GH+ZzFMeDLcmTgVmNxLjQEYAdzXFMfhm3IPA5f1+1UZUpsVYAqPeZ6oJ6dAOPxmMa4QAzLBc5OAOYvgeUCUYC+CKBJFCAKEAWghWewGAt6MCcKEAWIAtDiAfNvmihAFCAKQAvPYDEW9GBOFCAKEAWgxQPm3zRRgHMUgOUCaIv5u4gCtClA738U7f3P4r34MNKHT2MqH0ddIwHnuvxxVOXzONYD4FN4UQj8jWOStQJoo9imFA0B1BdIVMH1iX31c0WLk8DyWXR7iQxGEStMCstpkVpnF0ldfbuihUlhOS1S6+wyuZc/L7QwCYhlOS1y69xCybq9j2cHy2uRW6eWyuJcnd4HlxeXNLfFgXVmsfTtzS0tSsr93T3Na4F6DwzL5YP2B6EYTJO4l13AR/qiU3XoPz0+pcNe2PPA3p6TmuhW+CCUbtnrwpaZU1Pcl0TtI4uA29y3YTO1NrbNNQHbn1hqTW2cbAo844Lt1Ftnm6BsZ2qQaW+ebgpcs+ielxpGBIYSEodsn/e+biuCl5wbg6PwweAd24ZrWRLhfcsAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:43.1270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:32.3390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:32:08.5920000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:05:52.3230000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:05:48.0880000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:05:54.6970000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:05:32.3390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Riot</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADLElEQVR4Xu2bsW7bMBCG/QRGH8BDZ099CidjBxdZ+wjxEzjI7jS7C3h2gaCjMwTIZBTI0sEPEBgdMvYRFP4CJMj0L/IonSU54gEfEEh3R91PSlQsclDRPhm+G1aGv4ZECHwRg1jkkBjLo0mQfTagAJaoCsiFnC5jcZqIDL2lWbgNcpeNCOavide+Gv4bWLAmaANt2cZ8NXHaDwMLOiVos2jMR5NSO+WQ94G2M2PnNaHWZvEZmQjsnCZHhimKObbBNTmmzYF9MTCnUiaTSTKfz5P1eu0EPvBlOerw8Oshefv3VgqLsTiwZwNzOgLFbLfbZL/fB4EYTSE0BRAN/eFwmCwWC1pcCMvlMs3F2ghBU4BXA3PIwQVvNhtaUBWQq64IWgKIeh/3MiukDsjJ2pKiJcBvAzuZM5vNaAEaIDdrU4KGAHgHZydyRqNRstvt6MVrgTZY2z40BPAOf0xh7KLLwL0dOkPgwcra9qEhgPd9X9L7KHo6nR7F4pjkwYk27FgJGgI4537M2eyCi0h6TzJ1Vnk/0BDA+a+u7+GH+ZzFMeDLcmTgVmNxLjQEYAdzXFMfhm3IPA5f1+1UZUpsVYAqPeZ6oJ6dAOPxmMa4QAzLBc5OAOYvgeUCUYC+CKBJFCAKEAWghWewGAt6MCcKEAWIAtDiAfNvmihAFCAKQAvPYDEW9GBOFCAKEAWgxQPm3zRRgHMUgOUCaIv5u4gCtClA738U7f3P4r34MNKHT2MqH0ddIwHnuvxxVOXzONYD4FN4UQj8jWOStQJoo9imFA0B1BdIVMH1iX31c0WLk8DyWXR7iQxGEStMCstpkVpnF0ldfbuihUlhOS1S6+wyuZc/L7QwCYhlOS1y69xCybq9j2cHy2uRW6eWyuJcnd4HlxeXNLfFgXVmsfTtzS0tSsr93T3Na4F6DwzL5YP2B6EYTJO4l13AR/qiU3XoPz0+pcNe2PPA3p6TmuhW+CCUbtnrwpaZU1Pcl0TtI4uA29y3YTO1NrbNNQHbn1hqTW2cbAo844Lt1Ftnm6BsZ2qQaW+ebgpcs+ielxpGBIYSEodsn/e+biuCl5wbg6PwweAd24ZrWRLhfcsAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:54.0280000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.6880000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:58.3300000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:02:39.6060000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:02:09.6880000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:02:10.9010000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:04:12.9190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Los Degenerados 2x</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAXgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADFUlEQVR4Xu2bsW4TQRRF/QUWH0Akeje0pKIjJQ1KixSlRygfEOUDIB+A5B4pSksRiTJSGiqKVBQUKfmEZa4lP02G4/WYNzN25LnSKee+O88zu6tZ78Spl4HPgR+BoTGqqdrK0FwvAt8DFGwbKIsyNdH7wJ8ABdkmyqRsVaUCVHyXqNaEpzD5JcWboP21i8t+Fcpa9JqwSxe8XK4DRaROUoF/mE6nw+Grw6qoBtVeQZFVoHstmRuz2Wy4+no1PPx+aIJqqSZlSVB2t0YfchTk/uc9Bq2JamY0QdndImOj5S+fotqUKcEtMjUoWEsoU4JbZGpQqJZQpgS3yNSgUC2hTAlukalBoVpCmRLcIlODQrWEMiW4RaYGhYrRwwuNy0FjyTOGxiW4RaYGhYrpDegN6A3AcTn0BvQG9AagZwyNS3CLTA0KFXNxfoHjGuIWmRo06ZS727tFI47eHA0Hzw/QpyJukalBE16HGnL56XI4fnfcoiFu/QqQ8YISByKFG6K8OsRd4tboifDpySlOykO8ZajmGnQk/ixQTOcBKrRAp7Q1zwTlrWZsuDKKHYlLevtKRQwtXQpfGjVig2Px14FiGr0OCIWj0KXR9sg8Ei+6Cj4EqMgjtGdbHJGrRuaWKHYtkFHWu0Et0bOPZ4tfisKXIvNIvOhL0rcBKrISrQjd3mo1I+Mxu8iboVjzABVai/atbpnzL/Ni20TNpVoRRZ4DyNiNGqKt4nmQuvl2g94JbpFpcbSctUJ0N9HEaMIEeSW4RabV0QrJaQSNTXCLTA39cmNs+D7/EbqI0qRjaFyCW2RqUKgYNYHG5aCx5BlD4xLcIlODQsX0BvQG9AbguBx6A3oDegPQM4bGJbhFpgaFagllSnCLTA0K1RLKlOAWmRoUqiWUKcEtMjUoVEsoU4JbZGpQqJZQpgS3yNTYh7/K7v2fpff+7/LZH0wIPbzUhGqOUOyzmf8+Dd4iylxM6uRefzQl7fVnc0s9hSZUm/xSKrCL20GZqk9+Ke0vvX6mINtAWYrv+RypqO61ow9LlVBN1XZMfDL5CzivpP5kx5DrAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:23.0090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:57.2090000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:57.2090000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:11:22.3500000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:06:32.4140000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:05:28.9810000</RealTime>
+        </Time>
+        <Time id="308">
+          <RealTime>00:04:45.9620000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Return to Los Santos}End of the Line</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAXgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAADFUlEQVR4Xu2bsW4TQRRF/QUWH0Akeje0pKIjJQ1KixSlRygfEOUDIB+A5B4pSksRiTJSGiqKVBQUKfmEZa4lP02G4/WYNzN25LnSKee+O88zu6tZ78Spl4HPgR+BoTGqqdrK0FwvAt8DFGwbKIsyNdH7wJ8ABdkmyqRsVaUCVHyXqNaEpzD5JcWboP21i8t+Fcpa9JqwSxe8XK4DRaROUoF/mE6nw+Grw6qoBtVeQZFVoHstmRuz2Wy4+no1PPx+aIJqqSZlSVB2t0YfchTk/uc9Bq2JamY0QdndImOj5S+fotqUKcEtMjUoWEsoU4JbZGpQqJZQpgS3yNSgUC2hTAlukalBoVpCmRLcIlODQrWEMiW4RaYGhYrRwwuNy0FjyTOGxiW4RaYGhYrpDegN6A3AcTn0BvQG9AagZwyNS3CLTA0KFXNxfoHjGuIWmRo06ZS727tFI47eHA0Hzw/QpyJukalBE16HGnL56XI4fnfcoiFu/QqQ8YISByKFG6K8OsRd4tboifDpySlOykO8ZajmGnQk/ixQTOcBKrRAp7Q1zwTlrWZsuDKKHYlLevtKRQwtXQpfGjVig2Px14FiGr0OCIWj0KXR9sg8Ei+6Cj4EqMgjtGdbHJGrRuaWKHYtkFHWu0Et0bOPZ4tfisKXIvNIvOhL0rcBKrISrQjd3mo1I+Mxu8iboVjzABVai/atbpnzL/Ni20TNpVoRRZ4DyNiNGqKt4nmQuvl2g94JbpFpcbSctUJ0N9HEaMIEeSW4RabV0QrJaQSNTXCLTA39cmNs+D7/EbqI0qRjaFyCW2RqUKgYNYHG5aCx5BlD4xLcIlODQsX0BvQG9AbguBx6A3oDegPQM4bGJbhFpgaFagllSnCLTA0K1RLKlOAWmRoUqiWUKcEtMjUoVEsoU4JbZGpQqJZQpgS3yNTYh7/K7v2fpff+7/LZH0wIPbzUhGqOUOyzmf8+Dd4iylxM6uRefzQl7fVnc0s9hSZUm/xSKrCL20GZqk9+Ke0vvX6mINtAWYrv+RypqO61ow9LlVBN1XZMfDL5CzivpP5kx5DrAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:33.3320000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:07:41.0570000</RealTime>
+        </Time>
+        <Time id="286">
+          <RealTime>00:00:01.5820000</RealTime>
+        </Time>
+        <Time id="-1">
+          <RealTime>00:00:00</RealTime>
+        </Time>
+        <Time id="-2">
+          <RealTime>00:12:59.9950000</RealTime>
+        </Time>
+        <Time id="303">
+          <RealTime>00:13:10.1080000</RealTime>
+        </Time>
+        <Time id="307">
+          <RealTime>00:12:10.3230000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\LiveSplit\Components\GTASA.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Missions" type="bool">True</Setting>
+      <Setting id="LS" type="bool">True</Setting>
+      <Setting id="BL" type="bool">True</Setting>
+      <Setting id="SF" type="bool">True</Setting>
+      <Setting id="Desert" type="bool">True</Setting>
+      <Setting id="LV" type="bool">True</Setting>
+      <Setting id="RTLS" type="bool">True</Setting>
+      <Setting id="Big Smoke" type="bool">True</Setting>
+      <Setting id="Ryder" type="bool">True</Setting>
+      <Setting id="Tagging up Turf" type="bool">True</Setting>
+      <Setting id="Cleaning the Hood" type="bool">True</Setting>
+      <Setting id="Drive-Thru" type="bool">True</Setting>
+      <Setting id="Nines and AKs" type="bool">True</Setting>
+      <Setting id="OG Loc" type="bool">True</Setting>
+      <Setting id="Life's a Beach" type="bool">True</Setting>
+      <Setting id="Running Dog" type="bool">True</Setting>
+      <Setting id="Drive-By" type="bool">True</Setting>
+      <Setting id="Sweet's Girl" type="bool">True</Setting>
+      <Setting id="Cesar Vialpando" type="bool">True</Setting>
+      <Setting id="High Stakes Lowrider" type="bool">True</Setting>
+      <Setting id="Madd Dogg's Rhymes" type="bool">True</Setting>
+      <Setting id="Management Issues" type="bool">True</Setting>
+      <Setting id="House Party (Cutscene)" type="bool">True</Setting>
+      <Setting id="Burning Desire" type="bool">True</Setting>
+      <Setting id="Wrong Side of the Tracks" type="bool">True</Setting>
+      <Setting id="Just Business" type="bool">True</Setting>
+      <Setting id="Doberman" type="bool">True</Setting>
+      <Setting id="Gray Imports" type="bool">True</Setting>
+      <Setting id="Home Invasion" type="bool">True</Setting>
+      <Setting id="House Party" type="bool">True</Setting>
+      <Setting id="Catalyst" type="bool">True</Setting>
+      <Setting id="Robbing Uncle Sam" type="bool">True</Setting>
+      <Setting id="Los Sepulcros" type="bool">True</Setting>
+      <Setting id="Reuniting the Families" type="bool">True</Setting>
+      <Setting id="The Green Sabre" type="bool">True</Setting>
+      <Setting id="Badlands" type="bool">True</Setting>
+      <Setting id="Bustedwarp BL #1" type="bool">False</Setting>
+      <Setting id="Tanker Commander" type="bool">True</Setting>
+      <Setting id="Deathwarp BL #1" type="bool">False</Setting>
+      <Setting id="Body Harvest" type="bool">True</Setting>
+      <Setting id="Deathwarp BL #2" type="bool">False</Setting>
+      <Setting id="King in Exile" type="bool">True</Setting>
+      <Setting id="Bustedwarp BL #2" type="bool">False</Setting>
+      <Setting id="Small Town Bank" type="bool">True</Setting>
+      <Setting id="Local Liquor Store" type="bool">True</Setting>
+      <Setting id="Against All Odds" type="bool">True</Setting>
+      <Setting id="Wu Zi Mu" type="bool">True</Setting>
+      <Setting id="Farewell, My Love" type="bool">True</Setting>
+      <Setting id="Are You Going To San Fierro?" type="bool">True</Setting>
+      <Setting id="Wear Flowers in your Hair" type="bool">True</Setting>
+      <Setting id="555 WE TIP" type="bool">True</Setting>
+      <Setting id="Deconstruction" type="bool">True</Setting>
+      <Setting id="Photo Opportunity" type="bool">True</Setting>
+      <Setting id="Jizzy (Cutscene)" type="bool">True</Setting>
+      <Setting id="Jizzy" type="bool">True</Setting>
+      <Setting id="T-Bone Mendez" type="bool">True</Setting>
+      <Setting id="Mike Toreno" type="bool">True</Setting>
+      <Setting id="Outrider" type="bool">True</Setting>
+      <Setting id="Snail Trail" type="bool">True</Setting>
+      <Setting id="Mountain Cloud Boys" type="bool">True</Setting>
+      <Setting id="Ran Fa Li" type="bool">True</Setting>
+      <Setting id="Lure" type="bool">True</Setting>
+      <Setting id="Ice Cold Killa" type="bool">True</Setting>
+      <Setting id="Amphibious Assault" type="bool">True</Setting>
+      <Setting id="Pier 69" type="bool">True</Setting>
+      <Setting id="Toreno's Last Flight" type="bool">True</Setting>
+      <Setting id="The Da Nang Thang" type="bool">True</Setting>
+      <Setting id="Yay Ka-Boom-Boom" type="bool">True</Setting>
+      <Setting id="Deathwarp SF" type="bool">True</Setting>
+      <Setting id="Monster" type="bool">True</Setting>
+      <Setting id="Highjack" type="bool">True</Setting>
+      <Setting id="Interdiction" type="bool">True</Setting>
+      <Setting id="Verdant Meadows" type="bool">True</Setting>
+      <Setting id="Learning to Fly" type="bool">True</Setting>
+      <Setting id="N.O.E." type="bool">True</Setting>
+      <Setting id="Freefall" type="bool">True</Setting>
+      <Setting id="Fender Ketchup" type="bool">True</Setting>
+      <Setting id="Explosive Situation" type="bool">True</Setting>
+      <Setting id="You've Had Your Chips" type="bool">True</Setting>
+      <Setting id="Don Peyote" type="bool">True</Setting>
+      <Setting id="Intensive Care" type="bool">True</Setting>
+      <Setting id="The Meat Business" type="bool">True</Setting>
+      <Setting id="Fish in a Barrel" type="bool">True</Setting>
+      <Setting id="Madd Dogg" type="bool">True</Setting>
+      <Setting id="Misappropriation" type="bool">True</Setting>
+      <Setting id="Stowaway" type="bool">True</Setting>
+      <Setting id="Black Project" type="bool">True</Setting>
+      <Setting id="High Noon" type="bool">True</Setting>
+      <Setting id="Green Goo" type="bool">True</Setting>
+      <Setting id="Saint Mark's Bistro" type="bool">True</Setting>
+      <Setting id="A Home in the Hills" type="bool">True</Setting>
+      <Setting id="Vertical Bird" type="bool">True</Setting>
+      <Setting id="Home Coming" type="bool">True</Setting>
+      <Setting id="Beat Down on B Dup" type="bool">True</Setting>
+      <Setting id="Grove 4 Life" type="bool">True</Setting>
+      <Setting id="Cut Throat Business" type="bool">True</Setting>
+      <Setting id="Riot" type="bool">True</Setting>
+      <Setting id="Los Desperados" type="bool">True</Setting>
+      <Setting id="End of the Line Part 1" type="bool">False</Setting>
+      <Setting id="End of the Line Part 2" type="bool">False</Setting>
+      <Setting id="End of the Line Part 3" type="bool">False</Setting>
+      <Setting id="GT #1" type="bool">False</Setting>
+      <Setting id="GT #2" type="bool">False</Setting>
+      <Setting id="any%" type="bool">True</Setting>
+      <Setting id="Missions2" type="bool">True</Setting>
+      <Setting id="HeistMissions" type="bool">True</Setting>
+      <Setting id="Architectural Espionage" type="bool">True</Setting>
+      <Setting id="Key to her Heart" type="bool">True</Setting>
+      <Setting id="Dam and Blast" type="bool">True</Setting>
+      <Setting id="Cop Wheels" type="bool">True</Setting>
+      <Setting id="Up, Up and Away!" type="bool">True</Setting>
+      <Setting id="Breaking the Bank at Caligula's" type="bool">True</Setting>
+      <Setting id="ZeroMissions" type="bool">True</Setting>
+      <Setting id="Air Raid" type="bool">True</Setting>
+      <Setting id="Supply Lines..." type="bool">True</Setting>
+      <Setting id="New Model Army" type="bool">True</Setting>
+      <Setting id="Wang CarsMissions" type="bool">True</Setting>
+      <Setting id="Zeroing In" type="bool">True</Setting>
+      <Setting id="Test Drive" type="bool">True</Setting>
+      <Setting id="Customs Fast Track" type="bool">True</Setting>
+      <Setting id="Puncture Wounds" type="bool">True</Setting>
+      <Setting id="TruckingMissions" type="bool">True</Setting>
+      <Setting id="Trucking 1" type="bool">True</Setting>
+      <Setting id="Trucking 2" type="bool">True</Setting>
+      <Setting id="Trucking 3" type="bool">True</Setting>
+      <Setting id="Trucking 4" type="bool">True</Setting>
+      <Setting id="Trucking 5" type="bool">True</Setting>
+      <Setting id="Trucking 6" type="bool">True</Setting>
+      <Setting id="Trucking 7" type="bool">True</Setting>
+      <Setting id="Trucking 8" type="bool">True</Setting>
+      <Setting id="Assets" type="bool">True</Setting>
+      <Setting id="Los Santos Courier" type="bool">True</Setting>
+      <Setting id="Las Venturas Courier" type="bool">True</Setting>
+      <Setting id="San Fierro Courier" type="bool">True</Setting>
+      <Setting id="Valet Parking Complete" type="bool">True</Setting>
+      <Setting id="Quarry Complete" type="bool">True</Setting>
+      <Setting id="Schools" type="bool">True</Setting>
+      <Setting id="Driving School Passed" type="bool">True</Setting>
+      <Setting id="Boat School Passed" type="bool">True</Setting>
+      <Setting id="Bike School Passed" type="bool">True</Setting>
+      <Setting id="Vehicle Submissions" type="bool">True</Setting>
+      <Setting id="Firefighter Complete" type="bool">True</Setting>
+      <Setting id="Vigilante Complete" type="bool">True</Setting>
+      <Setting id="Taxi Mission Complete" type="bool">True</Setting>
+      <Setting id="Paramedic Complete" type="bool">True</Setting>
+      <Setting id="Pimping Complete" type="bool">True</Setting>
+      <Setting id="Freight Level 1" type="bool">True</Setting>
+      <Setting id="Freight Level 2" type="bool">True</Setting>
+      <Setting id="Gym Moves" type="bool">True</Setting>
+      <Setting id="Los Santos Gym Moves" type="bool">True</Setting>
+      <Setting id="San Fierro Gym Moves" type="bool">True</Setting>
+      <Setting id="Las Venturas Gym Moves" type="bool">True</Setting>
+      <Setting id="Challenges" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #1" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #2" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #3" type="bool">True</Setting>
+      <Setting id="NRG-500 Stunt Challenge" type="bool">True</Setting>
+      <Setting id="BMX Stunt Challenge" type="bool">True</Setting>
+      <Setting id="Shooting Range Complete" type="bool">True</Setting>
+      <Setting id="Stadium Events" type="bool">True</Setting>
+      <Setting id="8-Track" type="bool">True</Setting>
+      <Setting id="Dirt Track" type="bool">True</Setting>
+      <Setting id="Kickstart" type="bool">True</Setting>
+      <Setting id="Bloodring" type="bool">True</Setting>
+      <Setting id="Races" type="bool">False</Setting>
+      <Setting id="All Races Won" type="bool">True</Setting>
+      <Setting id="LS Races" type="bool">False</Setting>
+      <Setting id="Little Loop" type="bool">False</Setting>
+      <Setting id="Backroad Wanderer" type="bool">False</Setting>
+      <Setting id="City Circuit" type="bool">False</Setting>
+      <Setting id="Vinewood (Race)" type="bool">False</Setting>
+      <Setting id="Freeway (Race)" type="bool">False</Setting>
+      <Setting id="Into the Country" type="bool">False</Setting>
+      <Setting id="SF Races" type="bool">False</Setting>
+      <Setting id="Dirtbike Danger" type="bool">False</Setting>
+      <Setting id="Bandito County" type="bool">False</Setting>
+      <Setting id="Go-Go Karting" type="bool">False</Setting>
+      <Setting id="San Fierro Fastlane" type="bool">False</Setting>
+      <Setting id="San Fierro Hills" type="bool">False</Setting>
+      <Setting id="Country Endurance" type="bool">False</Setting>
+      <Setting id="LV Races" type="bool">False</Setting>
+      <Setting id="SF to LV" type="bool">False</Setting>
+      <Setting id="Dam Rider" type="bool">False</Setting>
+      <Setting id="Desert Tricks" type="bool">False</Setting>
+      <Setting id="LV Ringroad" type="bool">False</Setting>
+      <Setting id="Air Races" type="bool">False</Setting>
+      <Setting id="World War Ace" type="bool">False</Setting>
+      <Setting id="Barnstorming" type="bool">False</Setting>
+      <Setting id="Military Service" type="bool">False</Setting>
+      <Setting id="Chopper Checkpoint" type="bool">False</Setting>
+      <Setting id="Whirly Bird Waypoint" type="bool">False</Setting>
+      <Setting id="Heli Hell" type="bool">False</Setting>
+      <Setting id="Export Lists" type="bool">False</Setting>
+      <Setting id="Export List 1" type="bool">True</Setting>
+      <Setting id="Export Buffalo" type="bool">False</Setting>
+      <Setting id="Export Sentinel" type="bool">False</Setting>
+      <Setting id="Export Infernus" type="bool">False</Setting>
+      <Setting id="Export Camper" type="bool">False</Setting>
+      <Setting id="Export Admiral" type="bool">False</Setting>
+      <Setting id="Export Patriot" type="bool">False</Setting>
+      <Setting id="Export Sanchez" type="bool">False</Setting>
+      <Setting id="Export Stretch" type="bool">False</Setting>
+      <Setting id="Export Feltzer" type="bool">False</Setting>
+      <Setting id="Export Remington" type="bool">False</Setting>
+      <Setting id="Export List 1 Complete" type="bool">False</Setting>
+      <Setting id="Export List 2" type="bool">True</Setting>
+      <Setting id="Export Cheetah" type="bool">False</Setting>
+      <Setting id="Export Rancher" type="bool">False</Setting>
+      <Setting id="Export Stallion" type="bool">False</Setting>
+      <Setting id="Export Tanker" type="bool">False</Setting>
+      <Setting id="Export Comet" type="bool">False</Setting>
+      <Setting id="Export Slamvan" type="bool">False</Setting>
+      <Setting id="Export Blista Compact" type="bool">False</Setting>
+      <Setting id="Export Stafford" type="bool">False</Setting>
+      <Setting id="Export Sabre" type="bool">False</Setting>
+      <Setting id="Export FCR-900" type="bool">False</Setting>
+      <Setting id="Export List 2 Complete" type="bool">False</Setting>
+      <Setting id="Export List 3" type="bool">True</Setting>
+      <Setting id="Export Banshee" type="bool">False</Setting>
+      <Setting id="Export Super GT" type="bool">False</Setting>
+      <Setting id="Export Journey" type="bool">False</Setting>
+      <Setting id="Export Huntley" type="bool">False</Setting>
+      <Setting id="Export BF Injection" type="bool">False</Setting>
+      <Setting id="Export Blade" type="bool">False</Setting>
+      <Setting id="Export Freeway" type="bool">False</Setting>
+      <Setting id="Export Mesa" type="bool">False</Setting>
+      <Setting id="Export ZR-350" type="bool">False</Setting>
+      <Setting id="Export Euros" type="bool">False</Setting>
+      <Setting id="Export List 3 Complete" type="bool">False</Setting>
+      <Setting id="Other" type="bool">False</Setting>
+      <Setting id="Properties" type="bool">False</Setting>
+      <Setting id="Wang Cars (Showroom Bought)" type="bool">False</Setting>
+      <Setting id="Zero (RC Shop Bought)" type="bool">False</Setting>
+      <Setting id="Santa Maria Beach (Safehouse)" type="bool">False</Setting>
+      <Setting id="Rockshore West (Safehouse)" type="bool">False</Setting>
+      <Setting id="Fort Carson (Safehouse)" type="bool">False</Setting>
+      <Setting id="Prickle Pine (Safehouse)" type="bool">False</Setting>
+      <Setting id="Whitewood Estate (Safehouse)" type="bool">False</Setting>
+      <Setting id="Palomino Creek (Safehouse)" type="bool">False</Setting>
+      <Setting id="Redsands West (Safehouse)" type="bool">False</Setting>
+      <Setting id="Verdant Bluffs (Safehouse)" type="bool">False</Setting>
+      <Setting id="Calton Heights (Safehouse)" type="bool">False</Setting>
+      <Setting id="Mulholland (Safehouse)" type="bool">False</Setting>
+      <Setting id="Paradiso (Safehouse)" type="bool">False</Setting>
+      <Setting id="Hashbury (Safehouse)" type="bool">False</Setting>
+      <Setting id="Verona Beach (Safehouse)" type="bool">False</Setting>
+      <Setting id="Pirates In Men's Pants (Hotel Suite)" type="bool">False</Setting>
+      <Setting id="The Camel's Toe (Hotel Suite)" type="bool">False</Setting>
+      <Setting id="Chinatown (Safehouse)" type="bool">False</Setting>
+      <Setting id="Whetstone (Safehouse)" type="bool">False</Setting>
+      <Setting id="Doherty (Safehouse)" type="bool">False</Setting>
+      <Setting id="Queens (Hotel Suite)" type="bool">False</Setting>
+      <Setting id="Angel Pine (Safehouse)" type="bool">False</Setting>
+      <Setting id="El Quebrados (Safehouse)" type="bool">False</Setting>
+      <Setting id="Tierra Robada (Safehouse)" type="bool">False</Setting>
+      <Setting id="Dillimore (Safehouse)" type="bool">False</Setting>
+      <Setting id="Jefferson (Safehouse)" type="bool">False</Setting>
+      <Setting id="Old Venturas Strip (Hotel Suite)" type="bool">False</Setting>
+      <Setting id="The Clown's Pocket (Hotel Suite)" type="bool">False</Setting>
+      <Setting id="Creek (Safehouse)" type="bool">False</Setting>
+      <Setting id="Willowfield (Safehouse)" type="bool">False</Setting>
+      <Setting id="Blueberry (Safehouse)" type="bool">False</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="PhotosAll" type="bool">False</Setting>
+      <Setting id="PhotosEach" type="bool">False</Setting>
+      <Setting id="TagsAll" type="bool">False</Setting>
+      <Setting id="TagsEach" type="bool">False</Setting>
+      <Setting id="OystersAll" type="bool">False</Setting>
+      <Setting id="OystersEach" type="bool">False</Setting>
+      <Setting id="HorseshoesAll" type="bool">False</Setting>
+      <Setting id="HorseshoesEach" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)All" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)Each" type="bool">False</Setting>
+      <Setting id="startOnSaveLoad" type="bool">False</Setting>
+      <Setting id="doubleSplitPrevention" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

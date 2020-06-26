@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Deus Ex</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>9</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/17/2020 19:43:10" isStartedSynced="True" ended="06/17/2020 19:43:53" isEndedSynced="True" />
+    <Attempt id="2" started="06/17/2020 19:43:56" isStartedSynced="True" ended="06/17/2020 19:46:01" isEndedSynced="True" />
+    <Attempt id="3" started="06/17/2020 19:47:12" isStartedSynced="True" ended="06/17/2020 19:47:33" isEndedSynced="True" />
+    <Attempt id="4" started="06/17/2020 19:47:33" isStartedSynced="True" ended="06/17/2020 19:50:47" isEndedSynced="True" />
+    <Attempt id="5" started="06/17/2020 20:06:13" isStartedSynced="True" ended="06/17/2020 20:07:33" isEndedSynced="True" />
+    <Attempt id="6" started="06/17/2020 20:07:34" isStartedSynced="True" ended="06/17/2020 20:09:52" isEndedSynced="True" />
+    <Attempt id="7" started="06/17/2020 20:10:29" isStartedSynced="True" ended="06/17/2020 20:11:05" isEndedSynced="True" />
+    <Attempt id="8" started="06/17/2020 20:11:13" isStartedSynced="True" ended="06/17/2020 20:12:10" isEndedSynced="True" />
+    <Attempt id="9" started="06/17/2020 20:12:22" isStartedSynced="True" ended="06/17/2020 20:15:07" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>01_NYC_UNATCOIsland</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:52.2300000</RealTime>
+        <GameTime>00:00:51.2550000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:23.1350000</RealTime>
+          <GameTime>00:01:22.1440000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:52.9380000</RealTime>
+          <GameTime>00:00:51.9320000</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:53.7000000</RealTime>
+          <GameTime>00:00:52.7150000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:52.2300000</RealTime>
+          <GameTime>00:00:51.2550000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>01_NYC_UNATCOHQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:16.6640000</RealTime>
+        <GameTime>00:01:14.2890000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:16.6640000</RealTime>
+          <GameTime>00:01:14.2890000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>01_NYC_UNATCOIsland1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:54.8510000</RealTime>
+        <GameTime>00:00:53.7460000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:54.8510000</RealTime>
+          <GameTime>00:00:53.7460000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>02_NYC_BatteryPark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>02_NYC_Street</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>02_NYC_Warehouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_UNATCOIsland</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_UNATCOHQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_BatteryPark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_BrooklynBridgeStation</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_MolePeople</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_AirfieldHeliBase</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_Airfield</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>03_NYC_Hangar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04_NYC_UNATCOIsland</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04_NYC_UNATCOHQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04_NYC_Street</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04_NYC_NSFHQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>04_NYC_Hotel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>05_NYC_UNATCOMJ12lab</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>05_NYC_UNATCOHQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>05_NYC_UNATCOIsland</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_Helibase</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_Market</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_VersaLife</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_MJ12lab</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_Storage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_Canal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>06_HongKong_TongBase</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>08_NYC_Street</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>08_NYC_Bar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>09_NYC_Dockyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>09_NYC_ShipFan</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>09_NYC_Ship</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>09_NYC_ShipBelow</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>09_NYC_Graveyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>10_Paris_Catacombs</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>10_Paris_Catacombs_Tunnels</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>10_Paris_Metro</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>10_Paris_Club</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>10_Paris_Chateau</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>11_Paris_Cathedral</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>11_Paris_Underground</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>11_Paris_Everett</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>12_Vandenberg_Cmd</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>12_Vandenberg_Gas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>14_Vandenberg_Sub</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>14_OceanLab_Lab</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>14_OceanLab_UC</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>14_Oceanlab_Silo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>15_Area51_Bunker</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>15_Area51_Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>15_Area51_Final</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.3.0</Version>
+    <AutoStart>True</AutoStart>
+    <AutoReset>True</AutoReset>
+    <AutoSplitOnMapChange>True</AutoSplitOnMapChange>
+    <Game>DeusEx</Game>
+    <MapWhitelist>
+      <Map enabled="True">01_nyc_unatcoisland</Map>
+      <Map enabled="True">01_nyc_unatcohq</Map>
+      <Map enabled="True">02_nyc_batterypark</Map>
+      <Map enabled="True">02_nyc_street</Map>
+      <Map enabled="True">02_nyc_warehouse</Map>
+      <Map enabled="True">02_nyc_bar</Map>
+      <Map enabled="True">02_nyc_freeclinic</Map>
+      <Map enabled="True">02_nyc_hotel</Map>
+      <Map enabled="True">02_nyc_smug</Map>
+      <Map enabled="True">02_nyc_underground</Map>
+      <Map enabled="True">03_nyc_unatcoisland</Map>
+      <Map enabled="True">03_nyc_unatcohq</Map>
+      <Map enabled="True">03_nyc_batterypark</Map>
+      <Map enabled="True">03_nyc_brooklynbridgestation</Map>
+      <Map enabled="True">03_nyc_molepeople</Map>
+      <Map enabled="True">03_nyc_airfieldhelibase</Map>
+      <Map enabled="True">03_nyc_airfield</Map>
+      <Map enabled="True">03_nyc_hangar</Map>
+      <Map enabled="True">04_nyc_unatcoisland</Map>
+      <Map enabled="True">04_nyc_unatcohq</Map>
+      <Map enabled="True">04_nyc_street</Map>
+      <Map enabled="True">04_nyc_hotel</Map>
+      <Map enabled="True">04_nyc_bar</Map>
+      <Map enabled="True">04_nyc_batterypark</Map>
+      <Map enabled="True">04_nyc_nsfhq</Map>
+      <Map enabled="True">04_nyc_smug</Map>
+      <Map enabled="True">04_nyc_underground</Map>
+      <Map enabled="True">05_nyc_unatcomj12lab</Map>
+      <Map enabled="True">05_nyc_unatcohq</Map>
+      <Map enabled="True">05_nyc_unatcoisland</Map>
+      <Map enabled="True">06_hongkong_helibase</Map>
+      <Map enabled="True">06_hongkong_wanchai_market</Map>
+      <Map enabled="True">06_hongkong_versalife</Map>
+      <Map enabled="True">06_hongkong_mj12lab</Map>
+      <Map enabled="True">06_hongkong_storage</Map>
+      <Map enabled="True">06_hongkong_wanchai_canal</Map>
+      <Map enabled="True">06_hongkong_tongbase</Map>
+      <Map enabled="True">06_hongkong_wanchai_garage</Map>
+      <Map enabled="True">06_hongkong_wanchai_street</Map>
+      <Map enabled="True">06_hongkong_wanchai_underworld</Map>
+      <Map enabled="True">08_nyc_street</Map>
+      <Map enabled="True">08_nyc_bar</Map>
+      <Map enabled="True">08_nyc_freeclinic</Map>
+      <Map enabled="True">08_nyc_hotel</Map>
+      <Map enabled="True">08_nyc_smug</Map>
+      <Map enabled="True">08_nyc_underground</Map>
+      <Map enabled="True">09_nyc_dockyard</Map>
+      <Map enabled="True">09_nyc_shipfan</Map>
+      <Map enabled="True">09_nyc_ship</Map>
+      <Map enabled="True">09_nyc_shipbelow</Map>
+      <Map enabled="True">09_nyc_graveyard</Map>
+      <Map enabled="True">10_paris_catacombs</Map>
+      <Map enabled="True">10_paris_catacombs_tunnels</Map>
+      <Map enabled="True">10_paris_metro</Map>
+      <Map enabled="True">10_paris_club</Map>
+      <Map enabled="True">10_paris_chateau</Map>
+      <Map enabled="True">11_paris_cathedral</Map>
+      <Map enabled="True">11_paris_underground</Map>
+      <Map enabled="True">11_paris_everett</Map>
+      <Map enabled="True">12_vandenberg_cmd</Map>
+      <Map enabled="True">12_vandenberg_gas</Map>
+      <Map enabled="True">14_vandenberg_sub</Map>
+      <Map enabled="True">12_vandenberg_computer</Map>
+      <Map enabled="True">12_vandenberg_tunnels</Map>
+      <Map enabled="True">14_oceanlab_lab</Map>
+      <Map enabled="True">14_oceanlab_uc</Map>
+      <Map enabled="True">14_oceanlab_silo</Map>
+      <Map enabled="True">15_area51_bunker</Map>
+      <Map enabled="True">15_area51_entrance</Map>
+      <Map enabled="True">15_area51_final</Map>
+      <Map enabled="True">15_area51_page</Map>
+      <Map enabled="True">99_endgame1</Map>
+      <Map enabled="True">99_endgame2</Map>
+      <Map enabled="True">99_endgame3</Map>
+      <Map enabled="True">99_endgame4</Map>
+    </MapWhitelist>
+  </AutoSplitterSettings>
+</Run>

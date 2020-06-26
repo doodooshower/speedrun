@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto: San Andreas</GameName>
+  <CategoryName>Any% (No AJS)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>57</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/01/2020 03:00:33" isStartedSynced="True" ended="04/01/2020 05:06:04" isEndedSynced="True" />
+    <Attempt id="2" started="04/04/2020 18:06:17" isStartedSynced="True" ended="04/04/2020 18:06:28" isEndedSynced="True" />
+    <Attempt id="3" started="04/04/2020 18:06:53" isStartedSynced="True" ended="04/04/2020 18:06:59" isEndedSynced="True" />
+    <Attempt id="4" started="04/04/2020 18:07:21" isStartedSynced="True" ended="04/04/2020 18:07:34" isEndedSynced="True" />
+    <Attempt id="5" started="04/04/2020 18:07:56" isStartedSynced="True" ended="04/04/2020 18:08:09" isEndedSynced="True" />
+    <Attempt id="6" started="04/04/2020 18:08:43" isStartedSynced="True" ended="04/04/2020 18:09:35" isEndedSynced="True" />
+    <Attempt id="7" started="04/04/2020 18:10:23" isStartedSynced="True" ended="04/04/2020 18:10:36" isEndedSynced="True" />
+    <Attempt id="8" started="04/04/2020 18:10:59" isStartedSynced="True" ended="04/04/2020 18:13:32" isEndedSynced="True" />
+    <Attempt id="9" started="04/04/2020 18:13:54" isStartedSynced="True" ended="04/04/2020 18:15:13" isEndedSynced="True" />
+    <Attempt id="10" started="04/04/2020 18:15:38" isStartedSynced="True" ended="04/04/2020 18:15:58" isEndedSynced="True" />
+    <Attempt id="11" started="04/04/2020 18:16:41" isStartedSynced="True" ended="04/04/2020 18:17:28" isEndedSynced="True" />
+    <Attempt id="12" started="04/04/2020 18:17:49" isStartedSynced="True" ended="04/04/2020 18:18:46" isEndedSynced="True" />
+    <Attempt id="13" started="04/04/2020 18:19:07" isStartedSynced="True" ended="04/04/2020 18:19:33" isEndedSynced="True" />
+    <Attempt id="14" started="04/04/2020 18:20:02" isStartedSynced="True" ended="04/04/2020 18:20:13" isEndedSynced="True" />
+    <Attempt id="15" started="04/04/2020 18:20:36" isStartedSynced="True" ended="04/04/2020 18:21:52" isEndedSynced="True" />
+    <Attempt id="16" started="04/04/2020 18:22:13" isStartedSynced="True" ended="04/04/2020 18:23:03" isEndedSynced="True" />
+    <Attempt id="17" started="04/04/2020 18:23:24" isStartedSynced="True" ended="04/04/2020 18:23:42" isEndedSynced="True" />
+    <Attempt id="18" started="04/04/2020 18:24:08" isStartedSynced="True" ended="04/04/2020 18:24:35" isEndedSynced="True" />
+    <Attempt id="19" started="04/04/2020 18:25:02" isStartedSynced="True" ended="04/04/2020 18:25:32" isEndedSynced="True" />
+    <Attempt id="20" started="04/04/2020 18:25:53" isStartedSynced="True" ended="04/04/2020 18:27:07" isEndedSynced="True" />
+    <Attempt id="21" started="04/04/2020 18:27:33" isStartedSynced="True" ended="04/04/2020 18:28:42" isEndedSynced="True" />
+    <Attempt id="22" started="04/04/2020 18:33:21" isStartedSynced="True" ended="04/04/2020 18:33:39" isEndedSynced="True" />
+    <Attempt id="23" started="04/04/2020 18:34:00" isStartedSynced="True" ended="04/04/2020 18:44:08" isEndedSynced="True" />
+    <Attempt id="24" started="04/05/2020 02:00:31" isStartedSynced="True" ended="04/05/2020 02:01:33" isEndedSynced="True" />
+    <Attempt id="25" started="04/05/2020 02:02:03" isStartedSynced="True" ended="04/05/2020 02:07:55" isEndedSynced="True" />
+    <Attempt id="26" started="04/05/2020 02:08:19" isStartedSynced="True" ended="04/05/2020 02:09:09" isEndedSynced="True" />
+    <Attempt id="27" started="04/05/2020 02:09:29" isStartedSynced="True" ended="04/05/2020 03:21:53" isEndedSynced="True" />
+    <Attempt id="28" started="04/05/2020 21:08:50" isStartedSynced="True" ended="04/05/2020 21:10:13" isEndedSynced="True" />
+    <Attempt id="29" started="04/05/2020 21:10:36" isStartedSynced="True" ended="04/05/2020 21:11:39" isEndedSynced="True" />
+    <Attempt id="30" started="04/05/2020 21:14:28" isStartedSynced="True" ended="04/05/2020 21:15:17" isEndedSynced="True" />
+    <Attempt id="31" started="04/05/2020 21:15:40" isStartedSynced="True" ended="04/05/2020 21:16:35" isEndedSynced="True" />
+    <Attempt id="32" started="04/05/2020 21:17:03" isStartedSynced="True" ended="04/05/2020 21:59:44" isEndedSynced="True" />
+    <Attempt id="33" started="04/05/2020 22:12:33" isStartedSynced="True" ended="04/05/2020 22:13:22" isEndedSynced="True" />
+    <Attempt id="34" started="04/05/2020 22:13:49" isStartedSynced="True" ended="04/05/2020 22:13:59" isEndedSynced="True" />
+    <Attempt id="35" started="04/05/2020 22:14:25" isStartedSynced="True" ended="04/05/2020 22:23:47" isEndedSynced="True" />
+    <Attempt id="36" started="04/05/2020 22:24:16" isStartedSynced="True" ended="04/05/2020 22:25:19" isEndedSynced="True" />
+    <Attempt id="37" started="04/05/2020 22:25:41" isStartedSynced="True" ended="04/05/2020 22:26:39" isEndedSynced="True" />
+    <Attempt id="38" started="04/05/2020 22:27:39" isStartedSynced="True" ended="04/05/2020 22:31:34" isEndedSynced="True" />
+    <Attempt id="39" started="04/05/2020 22:31:55" isStartedSynced="True" ended="04/05/2020 22:32:57" isEndedSynced="True" />
+    <Attempt id="40" started="04/05/2020 22:33:25" isStartedSynced="True" ended="04/05/2020 22:33:56" isEndedSynced="True" />
+    <Attempt id="41" started="04/05/2020 22:34:18" isStartedSynced="True" ended="04/05/2020 22:34:31" isEndedSynced="True" />
+    <Attempt id="42" started="04/05/2020 22:34:59" isStartedSynced="True" ended="04/05/2020 22:37:59" isEndedSynced="True" />
+    <Attempt id="43" started="04/05/2020 22:38:27" isStartedSynced="True" ended="04/05/2020 22:39:18" isEndedSynced="True" />
+    <Attempt id="44" started="04/05/2020 22:39:56" isStartedSynced="True" ended="04/05/2020 22:40:13" isEndedSynced="True" />
+    <Attempt id="45" started="04/05/2020 22:40:53" isStartedSynced="True" ended="04/05/2020 22:41:12" isEndedSynced="True" />
+    <Attempt id="46" started="04/05/2020 22:41:34" isStartedSynced="True" ended="04/05/2020 22:42:37" isEndedSynced="True" />
+    <Attempt id="47" started="04/05/2020 22:43:05" isStartedSynced="True" ended="04/05/2020 22:44:04" isEndedSynced="True" />
+    <Attempt id="48" started="04/05/2020 22:44:26" isStartedSynced="True" ended="04/05/2020 22:45:29" isEndedSynced="True" />
+    <Attempt id="49" started="04/05/2020 22:45:50" isStartedSynced="True" ended="04/05/2020 22:48:35" isEndedSynced="True" />
+    <Attempt id="50" started="04/05/2020 22:48:57" isStartedSynced="True" ended="04/05/2020 22:49:20" isEndedSynced="True" />
+    <Attempt id="51" started="04/05/2020 22:49:41" isStartedSynced="True" ended="04/05/2020 22:50:50" isEndedSynced="True" />
+    <Attempt id="52" started="04/05/2020 22:51:10" isStartedSynced="True" ended="04/05/2020 22:53:31" isEndedSynced="True" />
+    <Attempt id="53" started="04/05/2020 22:53:52" isStartedSynced="True" ended="04/05/2020 22:55:05" isEndedSynced="True" />
+    <Attempt id="54" started="04/05/2020 22:55:26" isStartedSynced="True" ended="04/05/2020 22:56:54" isEndedSynced="True" />
+    <Attempt id="55" started="04/05/2020 22:57:18" isStartedSynced="True" ended="04/05/2020 22:57:34" isEndedSynced="True" />
+    <Attempt id="56" started="04/05/2020 22:57:57" isStartedSynced="True" ended="04/05/2020 23:28:30" isEndedSynced="True" />
+    <Attempt id="57" started="04/10/2020 03:10:35" isStartedSynced="True" ended="04/10/2020 06:07:00" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Los Santos</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAAAyxJREFUeF7tm7Fu2zAQhv0ERh/AQ2dPfQonYwcXWfsI8RM4yO40uwt4doGgozMEyGQUyNLBDxAYHTL2ERT+AiTI9C/yKJ0lOeIBHxBId0fdT0pULHJQ0T4ZvhtWhr+GRAh8EYNY5JAYy6NJkH02oACWqArIhZwuY3GaiAy9pVm4DXKXjQjmr4nXvhr+G1iwJmgDbdnGfDVx2g8DCzolaLNozEeTUjvlkPeBtjNj5zWh1mbxGZkI7JwmR4Ypijm2wTU5ps2BfTEwp1Imk0kyn8+T9XrtBD7wZTnq8PDrIXn791YKi7E4sGcDczoCxWy322S/3weBGE0hNAUQDf3hcJgsFgtaXAjL5TLNxdoIQVOAVwNzyMEFbzYbWlAVkKuuCFoCiHof9zIrpA7IydqSoiXAbwM7mTObzWgBGiA3a1OChgB4B2cnckajUbLb7ejFa4E2WNs+NATwDn9MYeyiy8C9HTpD4MHK2vahIYD3fV/S+yh6Op0exeKY5MGJNuxYCRoCOOd+zNnsgotIek8ydVZ5P9AQwPmvru/hh/mcxTHgy3Jk4FZjcS40BGAHc1xTH4ZtyDwOX9ftVGVKbFWAKj3meqCenQDj8ZjGuEAMywXOTgDmL4HlAlGAvgigSRQgChAFoIVnsBgLejAnChAFiALQ4gHzb5ooQBQgCkALz2AxFvRgThQgChAFoMUD5t80UYBzFIDlAmiL+buIArQpQO9/FO39z+K9+DDSh09jKh9HXSMB57r8cVTl8zjWA+BTeFEI/I1jkrUCaKPYphQNAdQXSFTB9Yl99XNFi5PA8ll0e4kMRhErTArLaZFaZxdJXX27ooVJYTktUuvsMrmXPy+0MAmIZTktcuvcQsm6vY9nB8trkVunlsriXJ3eB5cXlzS3xYF1ZrH07c0tLUrK/d09zWuBeg8My+WD9gehGEyTuJddwEf6olN16D89PqXDXtjzwN6ek5roVvgglG7Z68KWmVNT3JdE7SOLgNvct2EztTa2zTUB259Yak1tnGwKPOOC7dRbZ5ugbGdqkGlvnm4KXLPonpcaRgSGEhKHbJ/3vm4rgpecG4Oj8MHgHduGa1kS4X3LAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:22:17</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:20:50.7680000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>01:20:50.7680000</RealTime>
+        </Time>
+        <Time id="57">
+          <RealTime>01:20:51.3700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Badlands</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:54:44</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:31:46.0230000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:31:46.0230000</RealTime>
+        </Time>
+        <Time id="57">
+          <RealTime>00:35:04.8540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>San Fierro</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:37:49</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:42:24.2600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="57">
+          <RealTime>00:42:24.2600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Desert</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:08:22</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:30:33</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Las Venturas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:07:09</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:58:47</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RTLS</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:51:26</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:44:17</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\LiveSplit\Components\GTASA.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Missions" type="bool">True</Setting>
+      <Setting id="LS" type="bool">True</Setting>
+      <Setting id="BL" type="bool">True</Setting>
+      <Setting id="SF" type="bool">True</Setting>
+      <Setting id="Desert" type="bool">True</Setting>
+      <Setting id="LV" type="bool">True</Setting>
+      <Setting id="RTLS" type="bool">True</Setting>
+      <Setting id="Big Smoke" type="bool">False</Setting>
+      <Setting id="Ryder" type="bool">False</Setting>
+      <Setting id="Tagging up Turf" type="bool">False</Setting>
+      <Setting id="Cleaning the Hood" type="bool">False</Setting>
+      <Setting id="Drive-Thru" type="bool">False</Setting>
+      <Setting id="Nines and AKs" type="bool">False</Setting>
+      <Setting id="OG Loc" type="bool">False</Setting>
+      <Setting id="Life's a Beach" type="bool">False</Setting>
+      <Setting id="Running Dog" type="bool">False</Setting>
+      <Setting id="Drive-By" type="bool">False</Setting>
+      <Setting id="Sweet's Girl" type="bool">False</Setting>
+      <Setting id="Cesar Vialpando" type="bool">False</Setting>
+      <Setting id="High Stakes Lowrider" type="bool">False</Setting>
+      <Setting id="Madd Dogg's Rhymes" type="bool">False</Setting>
+      <Setting id="Management Issues" type="bool">False</Setting>
+      <Setting id="House Party (Cutscene)" type="bool">False</Setting>
+      <Setting id="Burning Desire" type="bool">False</Setting>
+      <Setting id="Wrong Side of the Tracks" type="bool">False</Setting>
+      <Setting id="Just Business" type="bool">False</Setting>
+      <Setting id="Doberman" type="bool">False</Setting>
+      <Setting id="Gray Imports" type="bool">False</Setting>
+      <Setting id="Home Invasion" type="bool">False</Setting>
+      <Setting id="House Party" type="bool">False</Setting>
+      <Setting id="Catalyst" type="bool">False</Setting>
+      <Setting id="Robbing Uncle Sam" type="bool">False</Setting>
+      <Setting id="Los Sepulcros" type="bool">False</Setting>
+      <Setting id="Reuniting the Families" type="bool">False</Setting>
+      <Setting id="The Green Sabre" type="bool">True</Setting>
+      <Setting id="Badlands" type="bool">False</Setting>
+      <Setting id="Bustedwarp BL #1" type="bool">False</Setting>
+      <Setting id="Tanker Commander" type="bool">False</Setting>
+      <Setting id="Deathwarp BL #1" type="bool">False</Setting>
+      <Setting id="Body Harvest" type="bool">False</Setting>
+      <Setting id="Deathwarp BL #2" type="bool">False</Setting>
+      <Setting id="King in Exile" type="bool">False</Setting>
+      <Setting id="Bustedwarp BL #2" type="bool">False</Setting>
+      <Setting id="Small Town Bank" type="bool">False</Setting>
+      <Setting id="Local Liquor Store" type="bool">False</Setting>
+      <Setting id="Against All Odds" type="bool">False</Setting>
+      <Setting id="Wu Zi Mu" type="bool">False</Setting>
+      <Setting id="Farewell, My Love" type="bool">False</Setting>
+      <Setting id="Are You Going To San Fierro?" type="bool">True</Setting>
+      <Setting id="Wear Flowers in your Hair" type="bool">False</Setting>
+      <Setting id="555 WE TIP" type="bool">False</Setting>
+      <Setting id="Deconstruction" type="bool">False</Setting>
+      <Setting id="Photo Opportunity" type="bool">False</Setting>
+      <Setting id="Jizzy (Cutscene)" type="bool">False</Setting>
+      <Setting id="Jizzy" type="bool">False</Setting>
+      <Setting id="T-Bone Mendez" type="bool">False</Setting>
+      <Setting id="Mike Toreno" type="bool">False</Setting>
+      <Setting id="Outrider" type="bool">False</Setting>
+      <Setting id="Snail Trail" type="bool">False</Setting>
+      <Setting id="Mountain Cloud Boys" type="bool">False</Setting>
+      <Setting id="Ran Fa Li" type="bool">False</Setting>
+      <Setting id="Lure" type="bool">False</Setting>
+      <Setting id="Ice Cold Killa" type="bool">False</Setting>
+      <Setting id="Amphibious Assault" type="bool">False</Setting>
+      <Setting id="Pier 69" type="bool">False</Setting>
+      <Setting id="Toreno's Last Flight" type="bool">False</Setting>
+      <Setting id="The Da Nang Thang" type="bool">False</Setting>
+      <Setting id="Yay Ka-Boom-Boom" type="bool">True</Setting>
+      <Setting id="Deathwarp SF" type="bool">False</Setting>
+      <Setting id="Monster" type="bool">True</Setting>
+      <Setting id="Highjack" type="bool">False</Setting>
+      <Setting id="Interdiction" type="bool">False</Setting>
+      <Setting id="Verdant Meadows" type="bool">False</Setting>
+      <Setting id="Learning to Fly" type="bool">True</Setting>
+      <Setting id="N.O.E." type="bool">False</Setting>
+      <Setting id="Freefall" type="bool">False</Setting>
+      <Setting id="Fender Ketchup" type="bool">False</Setting>
+      <Setting id="Explosive Situation" type="bool">False</Setting>
+      <Setting id="You've Had Your Chips" type="bool">False</Setting>
+      <Setting id="Don Peyote" type="bool">False</Setting>
+      <Setting id="Intensive Care" type="bool">False</Setting>
+      <Setting id="The Meat Business" type="bool">False</Setting>
+      <Setting id="Fish in a Barrel" type="bool">False</Setting>
+      <Setting id="Madd Dogg" type="bool">False</Setting>
+      <Setting id="Misappropriation" type="bool">False</Setting>
+      <Setting id="Stowaway" type="bool">False</Setting>
+      <Setting id="Black Project" type="bool">False</Setting>
+      <Setting id="High Noon" type="bool">False</Setting>
+      <Setting id="Green Goo" type="bool">False</Setting>
+      <Setting id="Saint Mark's Bistro" type="bool">True</Setting>
+      <Setting id="A Home in the Hills" type="bool">False</Setting>
+      <Setting id="Vertical Bird" type="bool">False</Setting>
+      <Setting id="Home Coming" type="bool">False</Setting>
+      <Setting id="Beat Down on B Dup" type="bool">False</Setting>
+      <Setting id="Grove 4 Life" type="bool">False</Setting>
+      <Setting id="Cut Throat Business" type="bool">False</Setting>
+      <Setting id="Riot" type="bool">False</Setting>
+      <Setting id="Los Desperados" type="bool">False</Setting>
+      <Setting id="End of the Line Part 1" type="bool">False</Setting>
+      <Setting id="End of the Line Part 2" type="bool">False</Setting>
+      <Setting id="End of the Line Part 3" type="bool">False</Setting>
+      <Setting id="GT #1" type="bool">False</Setting>
+      <Setting id="GT #2" type="bool">False</Setting>
+      <Setting id="any%" type="bool">True</Setting>
+      <Setting id="Missions2" type="bool">False</Setting>
+      <Setting id="HeistMissions" type="bool">True</Setting>
+      <Setting id="Architectural Espionage" type="bool">True</Setting>
+      <Setting id="Key to her Heart" type="bool">True</Setting>
+      <Setting id="Dam and Blast" type="bool">True</Setting>
+      <Setting id="Cop Wheels" type="bool">True</Setting>
+      <Setting id="Up, Up and Away!" type="bool">True</Setting>
+      <Setting id="Breaking the Bank at Caligula's" type="bool">True</Setting>
+      <Setting id="ZeroMissions" type="bool">True</Setting>
+      <Setting id="Air Raid" type="bool">True</Setting>
+      <Setting id="Supply Lines..." type="bool">True</Setting>
+      <Setting id="New Model Army" type="bool">True</Setting>
+      <Setting id="Wang CarsMissions" type="bool">True</Setting>
+      <Setting id="Zeroing In" type="bool">True</Setting>
+      <Setting id="Test Drive" type="bool">True</Setting>
+      <Setting id="Customs Fast Track" type="bool">True</Setting>
+      <Setting id="Puncture Wounds" type="bool">True</Setting>
+      <Setting id="TruckingMissions" type="bool">True</Setting>
+      <Setting id="Trucking 1" type="bool">True</Setting>
+      <Setting id="Trucking 2" type="bool">True</Setting>
+      <Setting id="Trucking 3" type="bool">True</Setting>
+      <Setting id="Trucking 4" type="bool">True</Setting>
+      <Setting id="Trucking 5" type="bool">True</Setting>
+      <Setting id="Trucking 6" type="bool">True</Setting>
+      <Setting id="Trucking 7" type="bool">True</Setting>
+      <Setting id="Trucking 8" type="bool">True</Setting>
+      <Setting id="Assets" type="bool">True</Setting>
+      <Setting id="Los Santos Courier" type="bool">True</Setting>
+      <Setting id="Las Venturas Courier" type="bool">True</Setting>
+      <Setting id="San Fierro Courier" type="bool">True</Setting>
+      <Setting id="Valet Parking Complete" type="bool">True</Setting>
+      <Setting id="Quarry Complete" type="bool">True</Setting>
+      <Setting id="Schools" type="bool">True</Setting>
+      <Setting id="Driving School Passed" type="bool">True</Setting>
+      <Setting id="Boat School Passed" type="bool">True</Setting>
+      <Setting id="Bike School Passed" type="bool">True</Setting>
+      <Setting id="Driving School Started" type="bool">False</Setting>
+      <Setting id="Vehicle Submissions" type="bool">True</Setting>
+      <Setting id="Firefighter Complete" type="bool">True</Setting>
+      <Setting id="Vigilante Complete" type="bool">True</Setting>
+      <Setting id="Taxi Mission Complete" type="bool">True</Setting>
+      <Setting id="Paramedic Complete" type="bool">True</Setting>
+      <Setting id="Pimping Complete" type="bool">True</Setting>
+      <Setting id="Freight Level 1" type="bool">True</Setting>
+      <Setting id="Freight Level 2" type="bool">True</Setting>
+      <Setting id="Gym Moves" type="bool">True</Setting>
+      <Setting id="Los Santos Gym Moves" type="bool">True</Setting>
+      <Setting id="San Fierro Gym Moves" type="bool">True</Setting>
+      <Setting id="Las Venturas Gym Moves" type="bool">True</Setting>
+      <Setting id="Challenges" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #1" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #2" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #3" type="bool">True</Setting>
+      <Setting id="NRG-500 Stunt Challenge" type="bool">True</Setting>
+      <Setting id="BMX Stunt Challenge" type="bool">True</Setting>
+      <Setting id="Shooting Range Complete" type="bool">True</Setting>
+      <Setting id="Stadium Events" type="bool">True</Setting>
+      <Setting id="8-Track" type="bool">True</Setting>
+      <Setting id="Dirt Track" type="bool">True</Setting>
+      <Setting id="Kickstart" type="bool">True</Setting>
+      <Setting id="Bloodring" type="bool">True</Setting>
+      <Setting id="Races" type="bool">False</Setting>
+      <Setting id="All Races Won" type="bool">True</Setting>
+      <Setting id="LS Races" type="bool">False</Setting>
+      <Setting id="Little Loop" type="bool">False</Setting>
+      <Setting id="Backroad Wanderer" type="bool">False</Setting>
+      <Setting id="City Circuit" type="bool">False</Setting>
+      <Setting id="Vinewood (Race)" type="bool">False</Setting>
+      <Setting id="Freeway (Race)" type="bool">False</Setting>
+      <Setting id="Into the Country" type="bool">False</Setting>
+      <Setting id="SF Races" type="bool">False</Setting>
+      <Setting id="Dirtbike Danger" type="bool">False</Setting>
+      <Setting id="Bandito County" type="bool">False</Setting>
+      <Setting id="Go-Go Karting" type="bool">False</Setting>
+      <Setting id="San Fierro Fastlane" type="bool">False</Setting>
+      <Setting id="San Fierro Hills" type="bool">False</Setting>
+      <Setting id="Country Endurance" type="bool">False</Setting>
+      <Setting id="LV Races" type="bool">False</Setting>
+      <Setting id="SF to LV" type="bool">False</Setting>
+      <Setting id="Dam Rider" type="bool">False</Setting>
+      <Setting id="Desert Tricks" type="bool">False</Setting>
+      <Setting id="LV Ringroad" type="bool">False</Setting>
+      <Setting id="Air Races" type="bool">False</Setting>
+      <Setting id="World War Ace" type="bool">False</Setting>
+      <Setting id="Barnstorming" type="bool">False</Setting>
+      <Setting id="Military Service" type="bool">False</Setting>
+      <Setting id="Chopper Checkpoint" type="bool">False</Setting>
+      <Setting id="Whirly Bird Waypoint" type="bool">False</Setting>
+      <Setting id="Heli Hell" type="bool">False</Setting>
+      <Setting id="Export Lists" type="bool">False</Setting>
+      <Setting id="Export List 1" type="bool">True</Setting>
+      <Setting id="Export Buffalo" type="bool">False</Setting>
+      <Setting id="Export Sentinel" type="bool">False</Setting>
+      <Setting id="Export Infernus" type="bool">False</Setting>
+      <Setting id="Export Camper" type="bool">False</Setting>
+      <Setting id="Export Admiral" type="bool">False</Setting>
+      <Setting id="Export Patriot" type="bool">False</Setting>
+      <Setting id="Export Sanchez" type="bool">False</Setting>
+      <Setting id="Export Stretch" type="bool">False</Setting>
+      <Setting id="Export Feltzer" type="bool">False</Setting>
+      <Setting id="Export Remington" type="bool">False</Setting>
+      <Setting id="Export List 1 Complete" type="bool">False</Setting>
+      <Setting id="Export List 2" type="bool">True</Setting>
+      <Setting id="Export Cheetah" type="bool">False</Setting>
+      <Setting id="Export Rancher" type="bool">False</Setting>
+      <Setting id="Export Stallion" type="bool">False</Setting>
+      <Setting id="Export Tanker" type="bool">False</Setting>
+      <Setting id="Export Comet" type="bool">False</Setting>
+      <Setting id="Export Slamvan" type="bool">False</Setting>
+      <Setting id="Export Blista Compact" type="bool">False</Setting>
+      <Setting id="Export Stafford" type="bool">False</Setting>
+      <Setting id="Export Sabre" type="bool">False</Setting>
+      <Setting id="Export FCR-900" type="bool">False</Setting>
+      <Setting id="Export List 2 Complete" type="bool">False</Setting>
+      <Setting id="Export List 3" type="bool">True</Setting>
+      <Setting id="Export Banshee" type="bool">False</Setting>
+      <Setting id="Export Super GT" type="bool">False</Setting>
+      <Setting id="Export Journey" type="bool">False</Setting>
+      <Setting id="Export Huntley" type="bool">False</Setting>
+      <Setting id="Export BF Injection" type="bool">False</Setting>
+      <Setting id="Export Blade" type="bool">False</Setting>
+      <Setting id="Export Freeway" type="bool">False</Setting>
+      <Setting id="Export Mesa" type="bool">False</Setting>
+      <Setting id="Export ZR-350" type="bool">False</Setting>
+      <Setting id="Export Euros" type="bool">False</Setting>
+      <Setting id="Export List 3 Complete" type="bool">False</Setting>
+      <Setting id="Other" type="bool">False</Setting>
+      <Setting id="Plane Flight" type="bool">False</Setting>
+      <Setting id="Properties" type="bool">True</Setting>
+      <Setting id="Verdant Meadows (Safehouse)" type="bool">False</Setting>
+      <Setting id="Wang Cars (Showroom Bought)" type="bool">True</Setting>
+      <Setting id="Zero (RC Shop Bought)" type="bool">True</Setting>
+      <Setting id="Santa Maria Beach (Safehouse)" type="bool">True</Setting>
+      <Setting id="Rockshore West (Safehouse)" type="bool">True</Setting>
+      <Setting id="Fort Carson (Safehouse)" type="bool">True</Setting>
+      <Setting id="Prickle Pine (Safehouse)" type="bool">True</Setting>
+      <Setting id="Whitewood Estate (Safehouse)" type="bool">True</Setting>
+      <Setting id="Palomino Creek (Safehouse)" type="bool">True</Setting>
+      <Setting id="Redsands West (Safehouse)" type="bool">True</Setting>
+      <Setting id="Verdant Bluffs (Safehouse)" type="bool">True</Setting>
+      <Setting id="Calton Heights (Safehouse)" type="bool">True</Setting>
+      <Setting id="Mulholland (Safehouse)" type="bool">True</Setting>
+      <Setting id="Paradiso (Safehouse)" type="bool">True</Setting>
+      <Setting id="Hashbury (Safehouse)" type="bool">True</Setting>
+      <Setting id="Verona Beach (Safehouse)" type="bool">True</Setting>
+      <Setting id="Pirates In Men's Pants (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="The Camel's Toe (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Chinatown (Safehouse)" type="bool">True</Setting>
+      <Setting id="Whetstone (Safehouse)" type="bool">True</Setting>
+      <Setting id="Doherty (Safehouse)" type="bool">True</Setting>
+      <Setting id="Queens (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Angel Pine (Safehouse)" type="bool">True</Setting>
+      <Setting id="El Quebrados (Safehouse)" type="bool">True</Setting>
+      <Setting id="Tierra Robada (Safehouse)" type="bool">True</Setting>
+      <Setting id="Dillimore (Safehouse)" type="bool">True</Setting>
+      <Setting id="Jefferson (Safehouse)" type="bool">True</Setting>
+      <Setting id="Old Venturas Strip (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="The Clown's Pocket (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Creek (Safehouse)" type="bool">True</Setting>
+      <Setting id="Willowfield (Safehouse)" type="bool">True</Setting>
+      <Setting id="Blueberry (Safehouse)" type="bool">True</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="PhotosAll" type="bool">False</Setting>
+      <Setting id="PhotosEach" type="bool">False</Setting>
+      <Setting id="TagsAll" type="bool">False</Setting>
+      <Setting id="TagsEach" type="bool">False</Setting>
+      <Setting id="OystersAll" type="bool">False</Setting>
+      <Setting id="OystersEach" type="bool">False</Setting>
+      <Setting id="HorseshoesAll" type="bool">False</Setting>
+      <Setting id="HorseshoesEach" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)All" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)Each" type="bool">False</Setting>
+      <Setting id="startOnSaveLoad" type="bool">False</Setting>
+      <Setting id="doubleSplitPrevention" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

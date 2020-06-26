@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto III</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/24/2019 02:35:07" isStartedSynced="True" ended="11/24/2019 02:48:07" isEndedSynced="True" />
+    <Attempt id="2" started="11/24/2019 02:48:57" isStartedSynced="True" ended="11/24/2019 02:57:06" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Give Me Liberty</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIAgAAACUL5okAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRoQ+3PUU7DMBRE0a6TdSAhxC66DnbRTfEHT3WkkDvU2Emfi8U8nZ+RKPE9nc6XuXFPh3s63BVPr63ww1Tct8Sz2m9kA/ePul5fblgDt9q+/vnlrWL5o3JjGrjVt4B44ufHe8Wm4a8F/Pr6Ym1wQBNu5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLWzkgF7dyQC5u5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLW/3fgLgBDdzqSEBc/HwHvKGCW8W/u97OgH3X3sCtHhIQ19jArfoDjijfWq6lgVt1Bhy0aZgxIKwNDrhyQC8HgAN6OQAc0CsrIG5Aw/r6uLsHxMUHUi2fKXefgLBtGHQtrw/ctwxuaHx94K6IfzoMPl3BPR3u6XBPh3su58sX5AFqT2FMrj4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:51.3230000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:51.3230000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Luigi's Girls</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIAgAAACUL5okAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRoQ+3PUU7DMBRE0a6TdSAhxC66DnbRTfEHT3WkkDvU2Emfi8U8nZ+RKPE9nc6XuXFPh3s63BVPr63ww1Tct8Sz2m9kA/ePul5fblgDt9q+/vnlrWL5o3JjGrjVt4B44ufHe8Wm4a8F/Pr6Ym1wQBNu5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLWzkgF7dyQC5u5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLW/3fgLgBDdzqSEBc/HwHvKGCW8W/u97OgH3X3sCtHhIQ19jArfoDjijfWq6lgVt1Bhy0aZgxIKwNDrhyQC8HgAN6OQAc0CsrIG5Aw/r6uLsHxMUHUi2fKXefgLBtGHQtrw/ctwxuaHx94K6IfzoMPl3BPR3u6XBPh3su58sX5AFqT2FMrj4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:30.8610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:30.8610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dont't Spank Ma Bitch Up</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIAgAAACUL5okAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRoQ+3PUU7DMBRE0a6TdSAhxC66DnbRTfEHT3WkkDvU2Emfi8U8nZ+RKPE9nc6XuXFPh3s63BVPr63ww1Tct8Sz2m9kA/ePul5fblgDt9q+/vnlrWL5o3JjGrjVt4B44ufHe8Wm4a8F/Pr6Ym1wQBNu5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLWzkgF7dyQC5u5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLW/3fgLgBDdzqSEBc/HwHvKGCW8W/u97OgH3X3sCtHhIQ19jArfoDjijfWq6lgVt1Bhy0aZgxIKwNDrhyQC8HgAN6OQAc0CsrIG5Aw/r6uLsHxMUHUi2fKXefgLBtGHQtrw/ctwxuaHx94K6IfzoMPl3BPR3u6XBPh3su58sX5AFqT2FMrj4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Drive Misty For Me</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIAgAAACUL5okAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRoQ+3PUU7DMBRE0a6TdSAhxC66DnbRTfEHT3WkkDvU2Emfi8U8nZ+RKPE9nc6XuXFPh3s63BVPr63ww1Tct8Sz2m9kA/ePul5fblgDt9q+/vnlrWL5o3JjGrjVt4B44ufHe8Wm4a8F/Pr6Ym1wQBNu5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLWzkgF7dyQC5u5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLW/3fgLgBDdzqSEBc/HwHvKGCW8W/u97OgH3X3sCtHhIQ19jArfoDjijfWq6lgVt1Bhy0aZgxIKwNDrhyQC8HgAN6OQAc0CsrIG5Aw/r6uLsHxMUHUi2fKXefgLBtGHQtrw/ctwxuaHx94K6IfzoMPl3BPR3u6XBPh3su58sX5AFqT2FMrj4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Mike Lips Last Lunch</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAowEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABWklEQVR4Xu2QwQ2DMBAEqTM/ykgbqSNdpKn8iPZhyYFFd2D7RHL7mM9KHJ6ZpsdrSQ0dM0HHaG73c7BbR6FjJBCZpnP0iEDHKFrkC60R6BjFKsA8zy7qb/4mAMSW99PFVwQFUAB+2wsdo1AABVAABVAABVAABVAABVAABVAABaCyDAVQAAVQAAVQAAVQAAVQAAVQAAVQgF8NUMkrQLoADfLgtwOs5EGOAHhoB3lwnQBFykMlXWiWB7jN3uaFjh52pLyckQfXCNAgD4Gz8uArQKs8oKPFKkCR8sCkvOD7+r+XCNAqdYTUAYbIAzpaKEBsgGHygI4WgQE28iBLgOHygI4WAQFC5AEdLQYGwL0weUBHiwEBdsXBKHlAR4tOAYr0rjgYKQ/oaFEFALXIEeobG/CP0fKAjharAF2JEi/Q0UPPCEU6UrxARy/1w1tgt6OgYybomAk6puG1fAAVAU2baU4c7wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Farewell "Chunky" Lee Chong</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAowEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABWklEQVR4Xu2QwQ2DMBAEqTM/ykgbqSNdpKn8iPZhyYFFd2D7RHL7mM9KHJ6ZpsdrSQ0dM0HHaG73c7BbR6FjJBCZpnP0iEDHKFrkC60R6BjFKsA8zy7qb/4mAMSW99PFVwQFUAB+2wsdo1AABVAABVAABVAABVAABVAABVAABaCyDAVQAAVQAAVQAAVQAAVQAAVQAAVQgF8NUMkrQLoADfLgtwOs5EGOAHhoB3lwnQBFykMlXWiWB7jN3uaFjh52pLyckQfXCNAgD4Gz8uArQKs8oKPFKkCR8sCkvOD7+r+XCNAqdYTUAYbIAzpaKEBsgGHygI4WgQE28iBLgOHygI4WAQFC5AEdLQYGwL0weUBHiwEBdsXBKHlAR4tOAYr0rjgYKQ/oaFEFALXIEeobG/CP0fKAjharAF2JEi/Q0UPPCEU6UrxARy/1w1tgt6OgYybomAk6puG1fAAVAU2baU4c7wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Van Heist</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAowEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABWklEQVR4Xu2QwQ2DMBAEqTM/ykgbqSNdpKn8iPZhyYFFd2D7RHL7mM9KHJ6ZpsdrSQ0dM0HHaG73c7BbR6FjJBCZpnP0iEDHKFrkC60R6BjFKsA8zy7qb/4mAMSW99PFVwQFUAB+2wsdo1AABVAABVAABVAABVAABVAABVAABaCyDAVQAAVQAAVQAAVQAAVQAAVQAAVQgF8NUMkrQLoADfLgtwOs5EGOAHhoB3lwnQBFykMlXWiWB7jN3uaFjh52pLyckQfXCNAgD4Gz8uArQKs8oKPFKkCR8sCkvOD7+r+XCNAqdYTUAYbIAzpaKEBsgGHygI4WgQE28iBLgOHygI4WAQFC5AEdLQYGwL0weUBHiwEBdsXBKHlAR4tOAYr0rjgYKQ/oaFEFALXIEeobG/CP0fKAjharAF2JEi/Q0UPPCEU6UrxARy/1w1tgt6OgYybomAk6puG1fAAVAU2baU4c7wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Cipriani's Chauffeur</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAowEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABWklEQVR4Xu2QwQ2DMBAEqTM/ykgbqSNdpKn8iPZhyYFFd2D7RHL7mM9KHJ6ZpsdrSQ0dM0HHaG73c7BbR6FjJBCZpnP0iEDHKFrkC60R6BjFKsA8zy7qb/4mAMSW99PFVwQFUAB+2wsdo1AABVAABVAABVAABVAABVAABVAABaCyDAVQAAVQAAVQAAVQAAVQAAVQAAVQgF8NUMkrQLoADfLgtwOs5EGOAHhoB3lwnQBFykMlXWiWB7jN3uaFjh52pLyckQfXCNAgD4Gz8uArQKs8oKPFKkCR8sCkvOD7+r+XCNAqdYTUAYbIAzpaKEBsgGHygI4WgQE28iBLgOHygI4WAQFC5AEdLQYGwL0weUBHiwEBdsXBKHlAR4tOAYr0rjgYKQ/oaFEFALXIEeobG/CP0fKAjharAF2JEi/Q0UPPCEU6UrxARy/1w1tgt6OgYybomAk6puG1fAAVAU2baU4c7wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Taking Out The Laundry</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABEklEQVR4Xu3Q3QnCQBBF4a3TOgQRu7AOu0hTvkUG/BnXS8jEiWbZ83BeLhh3vlLOw9h1cuwpOfaUHHtKjj0lR9Xu2FbqBpUc6+yDpbTVXAQ5+lo8/tEcBDn6KoD94bTp/FvTAewPxutl070hAACAvsknRx8AAAAAAAAAAAAAAC+ESOqRkdQ3p/JvXQUgmj1KHTanj4OipQBYf0D4yfGWHFX2wUjuMSkA6j+mUjeo5JiRPSILIHJQNDlmBAAAAAAAAAAAAAAAAAAAAAAA8sipAAAAAAAAAAAAAAAAAAAAAAAAAP0fGckxIwAAAOB5wB0hkv9tmwBWhbCoNY+35JjZNwhrH2/JMTs7ZEnqW9nJsZuG8QbfbrSIbjMaMwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Pick-Up</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABEklEQVR4Xu3Q3QnCQBBF4a3TOgQRu7AOu0hTvkUG/BnXS8jEiWbZ83BeLhh3vlLOw9h1cuwpOfaUHHtKjj0lR9Xu2FbqBpUc6+yDpbTVXAQ5+lo8/tEcBDn6KoD94bTp/FvTAewPxutl070hAACAvsknRx8AAAAAAAAAAAAAAC+ESOqRkdQ3p/JvXQUgmj1KHTanj4OipQBYf0D4yfGWHFX2wUjuMSkA6j+mUjeo5JiRPSILIHJQNDlmBAAAAAAAAAAAAAAAAAAAAAAA8sipAAAAAAAAAAAAAAAAAAAAAAAAAP0fGckxIwAAAOB5wB0hkv9tmwBWhbCoNY+35JjZNwhrH2/JMTs7ZEnqW9nJsZuG8QbfbrSIbjMaMwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Salvatore's Called A Meeting</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABEklEQVR4Xu3Q3QnCQBBF4a3TOgQRu7AOu0hTvkUG/BnXS8jEiWbZ83BeLhh3vlLOw9h1cuwpOfaUHHtKjj0lR9Xu2FbqBpUc6+yDpbTVXAQ5+lo8/tEcBDn6KoD94bTp/FvTAewPxutl070hAACAvsknRx8AAAAAAAAAAAAAAC+ESOqRkdQ3p/JvXQUgmj1KHTanj4OipQBYf0D4yfGWHFX2wUjuMSkA6j+mUjeo5JiRPSILIHJQNDlmBAAAAAAAAAAAAAAAAAAAAAAA8sipAAAAAAAAAAAAAAAAAAAAAAAAAP0fGckxIwAAAOB5wB0hkv9tmwBWhbCoNY+35JjZNwhrH2/JMTs7ZEnqW9nJsZuG8QbfbrSIbjMaMwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Chaperone</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAC10lEQVR4XuWSy7EbMQwEFadvCsNpOA5n8ZLyTfa4Ci6QanD5AbVr6dCXERcctHi7/fh6fDQYfhIYfhIYZvDtey50RwYYzuIL32657BKB4Si7liayRWA4QmPx+/2eAs1Ok4BhL7C8L/749TOFUESGBAx7qJbPXppAEasSMDwClqfCu0iVgOERTsCrlzfSJGDY4uR/31NIOEPAmcuLlFeAYYsLCRDLrwDDCLf8rAB904K+aaFvfKdhCRhGLPz7tmBRFrBzNCOimHtFAT2L10zPv5qAcHnN8sCZqTs0i7pHYBjhik4LsIVptpsv3k9AT7lX3OHBMOLFAnruKeaLSwuwgkclB+4p5o8uLzCMcMV6yhlPEkRLROc9T3OvKkCgBDEgocb/PrW8wDBiQYDA4kJzaYHqvpDZ5QWGLRYlCJQgIgmRCPut/mYEDI9whWYEiKnXUFOfmQHDI3S5Kz0rQTRfQ9aSLTDsIVlCUwTdnwWGvSRKEKGIna8BwxFAwn8lAsNRKgliVYJoiqAeM2A4QyAhS0Q9O00ChrOo1CYRNqOYnSEBw1U2iyjmrkrAMAuQIFZFpErAMJPgNYhLSMBwFFvSE53xpf+w8hoKCXRnDxj2Eiz1rxCVCs7PSEh5BRj2EC1eE0mA72dew7IEDI+oyltxj/89LAUShL6nZYnuuyIwbAHLLxVTDiJ6JZwq4KhkUe6oGIiYkrBVwGDBopjoKefuuLSAbeXeWoAVpJKWu7PvKcCwhQ048xYCRCihwfT8KwoQOt8jws7RjIhi7qsEWFkq1MIWjKBvWugb32mvALHwCnZQCBhdXmDYIuEVZPJ6AeIir6BY/iwB4iwJy/++wLCHkyWk/PsCw15Awm4Rdoe/d3p5geEIlQSRLcLmPS0uVpYXGI4CEoQvvgLN/svq8gLDGVQmEJGO3UU9RsFwhV0ibG7W4gaGGfjCGdAdGWD4SWD4SWD4MXw9fgNr8JArJ6O5uQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Cutting the Grass</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAC10lEQVR4XuWSy7EbMQwEFadvCsNpOA5n8ZLyTfa4Ci6QanD5AbVr6dCXERcctHi7/fh6fDQYfhIYfhIYZvDtey50RwYYzuIL32657BKB4Si7liayRWA4QmPx+/2eAs1Ok4BhL7C8L/749TOFUESGBAx7qJbPXppAEasSMDwClqfCu0iVgOERTsCrlzfSJGDY4uR/31NIOEPAmcuLlFeAYYsLCRDLrwDDCLf8rAB904K+aaFvfKdhCRhGLPz7tmBRFrBzNCOimHtFAT2L10zPv5qAcHnN8sCZqTs0i7pHYBjhik4LsIVptpsv3k9AT7lX3OHBMOLFAnruKeaLSwuwgkclB+4p5o8uLzCMcMV6yhlPEkRLROc9T3OvKkCgBDEgocb/PrW8wDBiQYDA4kJzaYHqvpDZ5QWGLRYlCJQgIgmRCPut/mYEDI9whWYEiKnXUFOfmQHDI3S5Kz0rQTRfQ9aSLTDsIVlCUwTdnwWGvSRKEKGIna8BwxFAwn8lAsNRKgliVYJoiqAeM2A4QyAhS0Q9O00ChrOo1CYRNqOYnSEBw1U2iyjmrkrAMAuQIFZFpErAMJPgNYhLSMBwFFvSE53xpf+w8hoKCXRnDxj2Eiz1rxCVCs7PSEh5BRj2EC1eE0mA72dew7IEDI+oyltxj/89LAUShL6nZYnuuyIwbAHLLxVTDiJ6JZwq4KhkUe6oGIiYkrBVwGDBopjoKefuuLSAbeXeWoAVpJKWu7PvKcCwhQ048xYCRCihwfT8KwoQOt8jws7RjIhi7qsEWFkq1MIWjKBvWugb32mvALHwCnZQCBhdXmDYIuEVZPJ6AeIir6BY/iwB4iwJy/++wLCHkyWk/PsCw15Awm4Rdoe/d3p5geEIlQSRLcLmPS0uVpYXGI4CEoQvvgLN/svq8gLDGVQmEJGO3UU9RsFwhV0ibG7W4gaGGfjCGdAdGWD4SWD4SWD4MXw9fgNr8JArJ6O5uQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Triads and Tribulations</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABEklEQVR4Xu3Q3QnCQBBF4a3TOgQRu7AOu0hTvkUG/BnXS8jEiWbZ83BeLhh3vlLOw9h1cuwpOfaUHHtKjj0lR9Xu2FbqBpUc6+yDpbTVXAQ5+lo8/tEcBDn6KoD94bTp/FvTAewPxutl070hAACAvsknRx8AAAAAAAAAAAAAAC+ESOqRkdQ3p/JvXQUgmj1KHTanj4OipQBYf0D4yfGWHFX2wUjuMSkA6j+mUjeo5JiRPSILIHJQNDlmBAAAAAAAAAAAAAAAAAAAAAAA8sipAAAAAAAAAAAAAAAAAAAAAAAAAP0fGckxIwAAAOB5wB0hkv9tmwBWhbCoNY+35JjZNwhrH2/JMTs7ZEnqW9nJsZuG8QbfbrSIbjMaMwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Blow Fish</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAABEklEQVR4Xu3Q3QnCQBBF4a3TOgQRu7AOu0hTvkUG/BnXS8jEiWbZ83BeLhh3vlLOw9h1cuwpOfaUHHtKjj0lR9Xu2FbqBpUc6+yDpbTVXAQ5+lo8/tEcBDn6KoD94bTp/FvTAewPxutl070hAACAvsknRx8AAAAAAAAAAAAAAC+ESOqRkdQ3p/JvXQUgmj1KHTanj4OipQBYf0D4yfGWHFX2wUjuMSkA6j+mUjeo5JiRPSILIHJQNDlmBAAAAAAAAAAAAAAAAAAAAAAA8sipAAAAAAAAAAAAAAAAAAAAAAAAAP0fGckxIwAAAOB5wB0hkv9tmwBWhbCoNY+35JjZNwhrH2/JMTs7ZEnqW9nJsZuG8QbfbrSIbjMaMwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bomb da Base: Act I</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAC10lEQVR4XuWSy7EbMQwEFadvCsNpOA5n8ZLyTfa4Ci6QanD5AbVr6dCXERcctHi7/fh6fDQYfhIYfhIYZvDtey50RwYYzuIL32657BKB4Si7liayRWA4QmPx+/2eAs1Ok4BhL7C8L/749TOFUESGBAx7qJbPXppAEasSMDwClqfCu0iVgOERTsCrlzfSJGDY4uR/31NIOEPAmcuLlFeAYYsLCRDLrwDDCLf8rAB904K+aaFvfKdhCRhGLPz7tmBRFrBzNCOimHtFAT2L10zPv5qAcHnN8sCZqTs0i7pHYBjhik4LsIVptpsv3k9AT7lX3OHBMOLFAnruKeaLSwuwgkclB+4p5o8uLzCMcMV6yhlPEkRLROc9T3OvKkCgBDEgocb/PrW8wDBiQYDA4kJzaYHqvpDZ5QWGLRYlCJQgIgmRCPut/mYEDI9whWYEiKnXUFOfmQHDI3S5Kz0rQTRfQ9aSLTDsIVlCUwTdnwWGvSRKEKGIna8BwxFAwn8lAsNRKgliVYJoiqAeM2A4QyAhS0Q9O00ChrOo1CYRNqOYnSEBw1U2iyjmrkrAMAuQIFZFpErAMJPgNYhLSMBwFFvSE53xpf+w8hoKCXRnDxj2Eiz1rxCVCs7PSEh5BRj2EC1eE0mA72dew7IEDI+oyltxj/89LAUShL6nZYnuuyIwbAHLLxVTDiJ6JZwq4KhkUe6oGIiYkrBVwGDBopjoKefuuLSAbeXeWoAVpJKWu7PvKcCwhQ048xYCRCihwfT8KwoQOt8jws7RjIhi7qsEWFkq1MIWjKBvWugb32mvALHwCnZQCBhdXmDYIuEVZPJ6AeIir6BY/iwB4iwJy/++wLCHkyWk/PsCw15Awm4Rdoe/d3p5geEIlQSRLcLmPS0uVpYXGI4CEoQvvgLN/svq8gLDGVQmEJGO3UU9RsFwhV0ibG7W4gaGGfjCGdAdGWD4SWD4SWD4MXw9fgNr8JArJ6O5uQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bomb da Base: Act II</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAC9UlEQVR4Xu2aMW5cMQxE94R2YbjJTXKNnCO38KXSORggNOYLz/qiJHq92S1e8QcUxRmqMLC+XH69vd81KFbz4ydDtdWgWIEbvVwYr6EeFaC4kzPTn/FVQaC4g47xp6cnhGrLg0BxFTDuRt///Ea8pj1fFgKKKzTmz0x/BgZREQKKs4B5MpehPAQUZygwH5SGgGKWQvNBWQgoZvgC80FJCChmsAAqzQeHEK4ewML2VetQDaFav3M5BBRHmdh+GD6Y+Hc+0+Pj7NUCmNg+GW+Z6rMSAoojWACvr684qIPm1aMJUoyEoDs/zlw7gJeXFxwywI350PFtNWch6M5DP58tA4oj2MCpAHrDWs//JgDcPvUT1lP0QrjNAEYGtb6PAG4lgOfnZxxSHAI4G9Z6il4AunOo5xkojjAYgBh+BdazZ158qwDOBsZX4EPHt9Wk+/lsGVAcxYZOvYIAjIueebFt+wLFUZrhzwbHEBrSPa4agLAQzl6BkAEKInQ642zdvkAxQ/IVBGF41LhQnd/1PQIQkyFkKDEvUJyhMIQy8wLFWQpCKDUvUFxBA1oQMjATRJw7GN9tXqC4wl0HYMbDPJnLcAhB7A4BxRkKzAelIaCYpdB8UBYCihkmzavOoZoW1fldW0JAMYMFcH9/Cie3T8Zb0j1WQ0BxlMT20bzONyGKsxC2vgIUR2gG7w2NW/PB49tq0v18tgwojmADp7bfG9Z69gIQ214BiiMMBpDalvUUvRC+VQCP3wUeATx+GsMhg+FXYD175sXtBhAD+9DxbTU3FcDd/4PE6NAYQsNUn6sEICyEkcGF6iiI0OlMy+H8inmB4igTryAIwwHVEKr1O68bgJh4BSscAlg1L1DMsPAKsmzfvkAxyxeEUGJeoDhDYQhl5gWKsxSEUGpeoLgChDATRJzzXtvNCxRXaUIQYagXhte050vMCxR3oIEhCOFGHar96EN37ADFnXSC6FJtPECxgjDUC8NrqEcFKFbjRh2qrQbFu+Ht/S9AzDdvofqYNAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Last Requests</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAC10lEQVR4XuWSy7EbMQwEFadvCsNpOA5n8ZLyTfa4Ci6QanD5AbVr6dCXERcctHi7/fh6fDQYfhIYfhIYZvDtey50RwYYzuIL32657BKB4Si7liayRWA4QmPx+/2eAs1Ok4BhL7C8L/749TOFUESGBAx7qJbPXppAEasSMDwClqfCu0iVgOERTsCrlzfSJGDY4uR/31NIOEPAmcuLlFeAYYsLCRDLrwDDCLf8rAB904K+aaFvfKdhCRhGLPz7tmBRFrBzNCOimHtFAT2L10zPv5qAcHnN8sCZqTs0i7pHYBjhik4LsIVptpsv3k9AT7lX3OHBMOLFAnruKeaLSwuwgkclB+4p5o8uLzCMcMV6yhlPEkRLROc9T3OvKkCgBDEgocb/PrW8wDBiQYDA4kJzaYHqvpDZ5QWGLRYlCJQgIgmRCPut/mYEDI9whWYEiKnXUFOfmQHDI3S5Kz0rQTRfQ9aSLTDsIVlCUwTdnwWGvSRKEKGIna8BwxFAwn8lAsNRKgliVYJoiqAeM2A4QyAhS0Q9O00ChrOo1CYRNqOYnSEBw1U2iyjmrkrAMAuQIFZFpErAMJPgNYhLSMBwFFvSE53xpf+w8hoKCXRnDxj2Eiz1rxCVCs7PSEh5BRj2EC1eE0mA72dew7IEDI+oyltxj/89LAUShL6nZYnuuyIwbAHLLxVTDiJ6JZwq4KhkUe6oGIiYkrBVwGDBopjoKefuuLSAbeXeWoAVpJKWu7PvKcCwhQ048xYCRCihwfT8KwoQOt8jws7RjIhi7qsEWFkq1MIWjKBvWugb32mvALHwCnZQCBhdXmDYIuEVZPJ6AeIir6BY/iwB4iwJy/++wLCHkyWk/PsCw15Awm4Rdoe/d3p5geEIlQSRLcLmPS0uVpYXGI4CEoQvvgLN/svq8gLDGVQmEJGO3UU9RsFwhV0ibG7W4gaGGfjCGdAdGWD4SWD4SWD4MXw9fgNr8JArJ6O5uQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\LiveSplit\Components\LiveSplit.GTA3.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Missions (start)" type="bool">False</Setting>
+      <Setting id="Missions (complete)" type="bool">False</Setting>
+      <Setting id="Luigi's Girls (start)" type="bool">False</Setting>
+      <Setting id="Luigi's Girls" type="bool">False</Setting>
+      <Setting id="Don't Spank Ma Bitch Up (start)" type="bool">False</Setting>
+      <Setting id="Don't Spank Ma Bitch Up" type="bool">False</Setting>
+      <Setting id="Drive Misty For Me (start)" type="bool">False</Setting>
+      <Setting id="Drive Misty For Me" type="bool">False</Setting>
+      <Setting id="The Crook (start)" type="bool">False</Setting>
+      <Setting id="The Crook" type="bool">False</Setting>
+      <Setting id="The Thieves (start)" type="bool">False</Setting>
+      <Setting id="The Thieves" type="bool">False</Setting>
+      <Setting id="The Wife (start)" type="bool">False</Setting>
+      <Setting id="The Wife" type="bool">False</Setting>
+      <Setting id="Her Lover (start)" type="bool">False</Setting>
+      <Setting id="Her Lover" type="bool">False</Setting>
+      <Setting id="Mike Lips Last Lunch (start)" type="bool">False</Setting>
+      <Setting id="Mike Lips Last Lunch" type="bool">False</Setting>
+      <Setting id="Farewell 'Chunky' Lee Chong (start)" type="bool">False</Setting>
+      <Setting id="Farewell 'Chunky' Lee Chong" type="bool">False</Setting>
+      <Setting id="Van Heist (start)" type="bool">False</Setting>
+      <Setting id="Van Heist" type="bool">False</Setting>
+      <Setting id="Cipriani's Chauffeur (start)" type="bool">False</Setting>
+      <Setting id="Cipriani's Chauffeur" type="bool">False</Setting>
+      <Setting id="Taking Out the Laundry (start)" type="bool">False</Setting>
+      <Setting id="Taking Out the Laundry" type="bool">False</Setting>
+      <Setting id="Dead Skunk in the Trunk (start)" type="bool">False</Setting>
+      <Setting id="Dead Skunk in the Trunk" type="bool">False</Setting>
+      <Setting id="Turismo (start)" type="bool">False</Setting>
+      <Setting id="Turismo" type="bool">False</Setting>
+      <Setting id="The Getaway (start)" type="bool">False</Setting>
+      <Setting id="The Getaway" type="bool">False</Setting>
+      <Setting id="The Pick-Up (start)" type="bool">False</Setting>
+      <Setting id="The Pick-Up" type="bool">False</Setting>
+      <Setting id="Patriot Playground (start)" type="bool">False</Setting>
+      <Setting id="Patriot Playground" type="bool">False</Setting>
+      <Setting id="Salvatore's Called a Meeting (start)" type="bool">False</Setting>
+      <Setting id="Salvatore's Called a Meeting" type="bool">False</Setting>
+      <Setting id="Chaperone (start)" type="bool">False</Setting>
+      <Setting id="Chaperone" type="bool">False</Setting>
+      <Setting id="Cutting the Grass (start)" type="bool">False</Setting>
+      <Setting id="Cutting the Grass" type="bool">False</Setting>
+      <Setting id="Triads and Tribulations (start)" type="bool">False</Setting>
+      <Setting id="Triads and Tribulations" type="bool">False</Setting>
+      <Setting id="Pump-Action Pimp (start)" type="bool">False</Setting>
+      <Setting id="Pump-Action Pimp" type="bool">False</Setting>
+      <Setting id="Diablo Destruction (start)" type="bool">False</Setting>
+      <Setting id="Diablo Destruction" type="bool">False</Setting>
+      <Setting id="The Fuzz Ball (start)" type="bool">False</Setting>
+      <Setting id="The Fuzz Ball" type="bool">False</Setting>
+      <Setting id="I Scream, You Scream (start)" type="bool">False</Setting>
+      <Setting id="I Scream, You Scream" type="bool">False</Setting>
+      <Setting id="Trial By Fire (start)" type="bool">False</Setting>
+      <Setting id="Trial By Fire" type="bool">False</Setting>
+      <Setting id="Big'N'Veiny (start)" type="bool">False</Setting>
+      <Setting id="Big'N'Veiny" type="bool">False</Setting>
+      <Setting id="Mafia Massacre (start)" type="bool">False</Setting>
+      <Setting id="Mafia Massacre" type="bool">False</Setting>
+      <Setting id="Blow Fish (start)" type="bool">False</Setting>
+      <Setting id="Blow Fish" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act I (start)" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act I" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act II (start)" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act II" type="bool">False</Setting>
+      <Setting id="Last Requests (start)" type="bool">False</Setting>
+      <Setting id="Last Requests" type="bool">False</Setting>
+      <Setting id="Sayonara Salvatore (start)" type="bool">False</Setting>
+      <Setting id="Sayonara Salvatore" type="bool">False</Setting>
+      <Setting id="Bling-Bling Scramble (start)" type="bool">False</Setting>
+      <Setting id="Bling-Bling Scramble" type="bool">False</Setting>
+      <Setting id="Under Surveillance (start)" type="bool">False</Setting>
+      <Setting id="Under Surveillance" type="bool">False</Setting>
+      <Setting id="Kanbu Bust-Out (start)" type="bool">False</Setting>
+      <Setting id="Kanbu Bust-Out" type="bool">False</Setting>
+      <Setting id="Casino Calamity (start)" type="bool">False</Setting>
+      <Setting id="Casino Calamity" type="bool">False</Setting>
+      <Setting id="Grand Theft Auto (start)" type="bool">False</Setting>
+      <Setting id="Grand Theft Auto" type="bool">False</Setting>
+      <Setting id="Uzi Rider (start)" type="bool">False</Setting>
+      <Setting id="Uzi Rider" type="bool">False</Setting>
+      <Setting id="Multistorey Mayhem (start)" type="bool">False</Setting>
+      <Setting id="Multistorey Mayhem" type="bool">False</Setting>
+      <Setting id="Paparazzi Purge (start)" type="bool">False</Setting>
+      <Setting id="Paparazzi Purge" type="bool">False</Setting>
+      <Setting id="Payday For Ray (start)" type="bool">False</Setting>
+      <Setting id="Payday For Ray" type="bool">False</Setting>
+      <Setting id="Silence The Sneak (start)" type="bool">False</Setting>
+      <Setting id="Silence The Sneak" type="bool">False</Setting>
+      <Setting id="Two-Faced Tanner (start)" type="bool">False</Setting>
+      <Setting id="Two-Faced Tanner" type="bool">False</Setting>
+      <Setting id="Deal Steal (start)" type="bool">False</Setting>
+      <Setting id="Deal Steal" type="bool">False</Setting>
+      <Setting id="Shima (start)" type="bool">False</Setting>
+      <Setting id="Shima" type="bool">False</Setting>
+      <Setting id="Smack Down (start)" type="bool">False</Setting>
+      <Setting id="Smack Down" type="bool">False</Setting>
+      <Setting id="A Ride In The Park (start)" type="bool">False</Setting>
+      <Setting id="A Ride In The Park" type="bool">False</Setting>
+      <Setting id="Arms Shortage (start)" type="bool">False</Setting>
+      <Setting id="Arms Shortage" type="bool">False</Setting>
+      <Setting id="Evidence Dash (start)" type="bool">False</Setting>
+      <Setting id="Evidence Dash" type="bool">False</Setting>
+      <Setting id="Gone Fishing (start)" type="bool">False</Setting>
+      <Setting id="Gone Fishing" type="bool">False</Setting>
+      <Setting id="Gangcar Round-Up (start)" type="bool">False</Setting>
+      <Setting id="Gangcar Round-Up" type="bool">False</Setting>
+      <Setting id="Plaster Blaster (start)" type="bool">False</Setting>
+      <Setting id="Plaster Blaster" type="bool">False</Setting>
+      <Setting id="Kingdom Come (start)" type="bool">False</Setting>
+      <Setting id="Kingdom Come" type="bool">False</Setting>
+      <Setting id="Liberator (start)" type="bool">False</Setting>
+      <Setting id="Liberator" type="bool">False</Setting>
+      <Setting id="Waka-Gashira Wipeout! (start)" type="bool">False</Setting>
+      <Setting id="Waka-Gashira Wipeout!" type="bool">False</Setting>
+      <Setting id="A Drop In The Ocean (start)" type="bool">False</Setting>
+      <Setting id="A Drop In The Ocean" type="bool">False</Setting>
+      <Setting id="Grand Theft Aero (start)" type="bool">False</Setting>
+      <Setting id="Grand Theft Aero" type="bool">False</Setting>
+      <Setting id="Marked Man (start)" type="bool">False</Setting>
+      <Setting id="Marked Man" type="bool">False</Setting>
+      <Setting id="Escort Service (start)" type="bool">False</Setting>
+      <Setting id="Escort Service" type="bool">False</Setting>
+      <Setting id="Rumpo Rampage (start)" type="bool">False</Setting>
+      <Setting id="Rumpo Rampage" type="bool">False</Setting>
+      <Setting id="Uzi Money (start)" type="bool">False</Setting>
+      <Setting id="Uzi Money" type="bool">False</Setting>
+      <Setting id="Toyminator (start)" type="bool">False</Setting>
+      <Setting id="Toyminator" type="bool">False</Setting>
+      <Setting id="Rigged to Blow (start)" type="bool">False</Setting>
+      <Setting id="Rigged to Blow" type="bool">False</Setting>
+      <Setting id="Bullion Run (start)" type="bool">False</Setting>
+      <Setting id="Bullion Run" type="bool">False</Setting>
+      <Setting id="Bait (start)" type="bool">False</Setting>
+      <Setting id="Bait" type="bool">False</Setting>
+      <Setting id="Decoy (start)" type="bool">False</Setting>
+      <Setting id="Decoy" type="bool">False</Setting>
+      <Setting id="Love's Disappearance (start)" type="bool">False</Setting>
+      <Setting id="Love's Disappearance" type="bool">False</Setting>
+      <Setting id="Espresso-2-Go! (start)" type="bool">False</Setting>
+      <Setting id="Espresso-2-Go!" type="bool">False</Setting>
+      <Setting id="S.A.M. (start)" type="bool">False</Setting>
+      <Setting id="S.A.M." type="bool">False</Setting>
+      <Setting id="The Exchange (start)" type="bool">False</Setting>
+      <Setting id="The Exchange" type="bool">False</Setting>
+      <Setting id="Rumble (start)" type="bool">False</Setting>
+      <Setting id="Rumble" type="bool">False</Setting>
+      <Setting id="Gripped! (start)" type="bool">False</Setting>
+      <Setting id="Gripped!" type="bool">False</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="Hidden PackagesAll" type="bool">False</Setting>
+      <Setting id="Hidden PackagesEach" type="bool">False</Setting>
+      <Setting id="RampagesAll" type="bool">False</Setting>
+      <Setting id="RampagesEach" type="bool">False</Setting>
+      <Setting id="Unique Stunt JumpsAll" type="bool">False</Setting>
+      <Setting id="Unique Stunt JumpsEach" type="bool">False</Setting>
+      <Setting id="btgFinalSplit" type="bool">False</Setting>
+      <Setting id="hundoFinalSplit" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

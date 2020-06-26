@@ -1,0 +1,1714 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto: Vice City</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="y82qr4wy" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>USA / NTSC</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>760</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/24/2017 19:01:23" isStartedSynced="True" ended="10/24/2017 19:02:46" isEndedSynced="True" />
+    <Attempt id="2" started="10/24/2017 19:02:49" isStartedSynced="True" ended="10/24/2017 19:13:48" isEndedSynced="True" />
+    <Attempt id="3" started="10/24/2017 19:14:06" isStartedSynced="True" ended="10/24/2017 19:16:21" isEndedSynced="True" />
+    <Attempt id="4" started="10/24/2017 19:16:36" isStartedSynced="True" ended="10/24/2017 19:19:06" isEndedSynced="True" />
+    <Attempt id="5" started="10/24/2017 19:19:15" isStartedSynced="True" ended="10/24/2017 19:35:01" isEndedSynced="True" />
+    <Attempt id="6" started="10/24/2017 19:35:04" isStartedSynced="True" ended="10/24/2017 19:36:50" isEndedSynced="True" />
+    <Attempt id="7" started="10/24/2017 19:36:51" isStartedSynced="True" ended="10/24/2017 19:47:51" isEndedSynced="True" />
+    <Attempt id="8" started="10/24/2017 19:50:46" isStartedSynced="True" ended="10/24/2017 20:02:15" isEndedSynced="True" />
+    <Attempt id="9" started="10/24/2017 20:02:29" isStartedSynced="True" ended="10/24/2017 20:04:01" isEndedSynced="True" />
+    <Attempt id="10" started="10/24/2017 20:04:04" isStartedSynced="True" ended="10/24/2017 20:21:20" isEndedSynced="True" />
+    <Attempt id="11" started="10/24/2017 20:21:29" isStartedSynced="True" ended="10/24/2017 20:38:07" isEndedSynced="True" />
+    <Attempt id="12" started="10/25/2017 08:41:03" isStartedSynced="True" ended="10/25/2017 08:52:39" isEndedSynced="True" />
+    <Attempt id="13" started="10/25/2017 08:52:42" isStartedSynced="True" ended="10/25/2017 09:02:46" isEndedSynced="True" />
+    <Attempt id="14" started="10/25/2017 09:02:48" isStartedSynced="True" ended="10/25/2017 09:18:12" isEndedSynced="True" />
+    <Attempt id="15" started="10/25/2017 09:18:19" isStartedSynced="True" ended="10/25/2017 09:29:08" isEndedSynced="True" />
+    <Attempt id="16" started="10/25/2017 09:35:01" isStartedSynced="True" ended="10/25/2017 09:36:56" isEndedSynced="True" />
+    <Attempt id="17" started="10/25/2017 09:38:10" isStartedSynced="True" ended="10/25/2017 09:54:29" isEndedSynced="True" />
+    <Attempt id="18" started="10/25/2017 09:57:52" isStartedSynced="True" ended="10/25/2017 10:08:57" isEndedSynced="True" />
+    <Attempt id="19" started="10/25/2017 14:53:49" isStartedSynced="True" ended="10/25/2017 15:10:10" isEndedSynced="True" />
+    <Attempt id="20" started="10/25/2017 15:10:14" isStartedSynced="True" ended="10/25/2017 15:18:09" isEndedSynced="True" />
+    <Attempt id="21" started="10/25/2017 15:18:19" isStartedSynced="True" ended="10/25/2017 15:26:04" isEndedSynced="True" />
+    <Attempt id="22" started="10/25/2017 15:26:55" isStartedSynced="True" ended="10/25/2017 15:35:30" isEndedSynced="True" />
+    <Attempt id="23" started="10/25/2017 15:35:36" isStartedSynced="True" ended="10/25/2017 15:37:53" isEndedSynced="True" />
+    <Attempt id="24" started="10/25/2017 15:38:25" isStartedSynced="True" ended="10/25/2017 15:50:29" isEndedSynced="True" />
+    <Attempt id="25" started="10/25/2017 15:51:59" isStartedSynced="True" ended="10/25/2017 16:01:52" isEndedSynced="True" />
+    <Attempt id="26" started="10/25/2017 16:02:10" isStartedSynced="True" ended="10/25/2017 16:11:11" isEndedSynced="True" />
+    <Attempt id="27" started="10/25/2017 16:11:28" isStartedSynced="True" ended="10/25/2017 16:18:56" isEndedSynced="True" />
+    <Attempt id="28" started="10/25/2017 18:31:22" isStartedSynced="True" ended="10/25/2017 18:38:03" isEndedSynced="True" />
+    <Attempt id="29" started="10/25/2017 18:38:05" isStartedSynced="True" ended="10/25/2017 18:45:55" isEndedSynced="True" />
+    <Attempt id="30" started="10/25/2017 18:46:03" isStartedSynced="True" ended="10/25/2017 18:54:28" isEndedSynced="True" />
+    <Attempt id="31" started="10/25/2017 18:54:49" isStartedSynced="True" ended="10/25/2017 19:04:12" isEndedSynced="True" />
+    <Attempt id="32" started="10/25/2017 19:04:17" isStartedSynced="True" ended="10/25/2017 19:13:42" isEndedSynced="True" />
+    <Attempt id="33" started="10/25/2017 19:15:32" isStartedSynced="True" ended="10/25/2017 19:22:51" isEndedSynced="True" />
+    <Attempt id="34" started="10/25/2017 19:23:17" isStartedSynced="True" ended="10/25/2017 19:30:35" isEndedSynced="True" />
+    <Attempt id="35" started="10/25/2017 19:33:58" isStartedSynced="True" ended="10/25/2017 19:41:25" isEndedSynced="True" />
+    <Attempt id="36" started="10/25/2017 19:41:43" isStartedSynced="True" ended="10/25/2017 19:51:29" isEndedSynced="True" />
+    <Attempt id="37" started="10/25/2017 19:51:34" isStartedSynced="True" ended="10/25/2017 19:58:47" isEndedSynced="True" />
+    <Attempt id="38" started="10/26/2017 06:54:33" isStartedSynced="True" ended="10/26/2017 07:06:03" isEndedSynced="True" />
+    <Attempt id="39" started="10/26/2017 07:06:46" isStartedSynced="True" ended="10/26/2017 07:16:23" isEndedSynced="True" />
+    <Attempt id="40" started="10/26/2017 07:16:46" isStartedSynced="True" ended="10/26/2017 07:24:22" isEndedSynced="True" />
+    <Attempt id="41" started="10/26/2017 07:24:36" isStartedSynced="True" ended="10/26/2017 07:34:43" isEndedSynced="True" />
+    <Attempt id="42" started="10/26/2017 09:02:59" isStartedSynced="True" ended="10/26/2017 09:19:57" isEndedSynced="True" />
+    <Attempt id="43" started="10/26/2017 09:20:06" isStartedSynced="True" ended="10/26/2017 09:28:49" isEndedSynced="True" />
+    <Attempt id="44" started="10/26/2017 09:28:58" isStartedSynced="True" ended="10/26/2017 09:32:13" isEndedSynced="True" />
+    <Attempt id="45" started="10/26/2017 09:32:32" isStartedSynced="True" ended="10/26/2017 09:40:46" isEndedSynced="True" />
+    <Attempt id="46" started="10/26/2017 15:52:07" isStartedSynced="True" ended="10/26/2017 15:52:35" isEndedSynced="True" />
+    <Attempt id="47" started="10/26/2017 15:52:40" isStartedSynced="True" ended="10/26/2017 16:01:46" isEndedSynced="True" />
+    <Attempt id="48" started="10/26/2017 16:08:54" isStartedSynced="True" ended="10/26/2017 16:10:58" isEndedSynced="True" />
+    <Attempt id="49" started="10/26/2017 16:11:14" isStartedSynced="True" ended="10/26/2017 16:19:42" isEndedSynced="True" />
+    <Attempt id="50" started="10/26/2017 16:19:56" isStartedSynced="True" ended="10/26/2017 16:23:40" isEndedSynced="True" />
+    <Attempt id="51" started="10/26/2017 16:23:44" isStartedSynced="True" ended="10/26/2017 16:31:34" isEndedSynced="True" />
+    <Attempt id="52" started="10/26/2017 16:43:03" isStartedSynced="True" ended="10/26/2017 16:51:34" isEndedSynced="True" />
+    <Attempt id="53" started="10/27/2017 06:18:42" isStartedSynced="True" ended="10/27/2017 06:25:51" isEndedSynced="True" />
+    <Attempt id="54" started="10/27/2017 06:28:01" isStartedSynced="True" ended="10/27/2017 06:36:23" isEndedSynced="True" />
+    <Attempt id="55" started="10/27/2017 06:36:27" isStartedSynced="True" ended="10/27/2017 06:43:47" isEndedSynced="True" />
+    <Attempt id="56" started="10/27/2017 06:51:57" isStartedSynced="True" ended="10/27/2017 07:00:35" isEndedSynced="True" />
+    <Attempt id="57" started="10/27/2017 07:01:38" isStartedSynced="True" ended="10/27/2017 07:10:06" isEndedSynced="True" />
+    <Attempt id="58" started="10/27/2017 07:12:07" isStartedSynced="True" ended="10/27/2017 07:20:40" isEndedSynced="True" />
+    <Attempt id="59" started="10/27/2017 07:20:50" isStartedSynced="True" ended="10/27/2017 07:33:47" isEndedSynced="True" />
+    <Attempt id="60" started="10/27/2017 07:34:06" isStartedSynced="True" ended="10/27/2017 07:34:55" isEndedSynced="True" />
+    <Attempt id="61" started="10/27/2017 07:35:04" isStartedSynced="True" ended="10/27/2017 07:42:39" isEndedSynced="True" />
+    <Attempt id="62" started="10/27/2017 07:42:44" isStartedSynced="True" ended="10/27/2017 07:49:39" isEndedSynced="True" />
+    <Attempt id="63" started="10/27/2017 07:49:41" isStartedSynced="True" ended="10/27/2017 07:58:54" isEndedSynced="True" />
+    <Attempt id="64" started="10/27/2017 08:31:45" isStartedSynced="True" ended="10/27/2017 08:32:41" isEndedSynced="True" />
+    <Attempt id="65" started="10/27/2017 08:32:56" isStartedSynced="True" ended="10/27/2017 08:40:04" isEndedSynced="True" />
+    <Attempt id="66" started="10/27/2017 08:40:24" isStartedSynced="True" ended="10/27/2017 08:49:30" isEndedSynced="True" />
+    <Attempt id="67" started="10/27/2017 08:50:03" isStartedSynced="True" ended="10/27/2017 08:56:38" isEndedSynced="True" />
+    <Attempt id="68" started="10/27/2017 16:14:38" isStartedSynced="True" ended="10/27/2017 16:23:13" isEndedSynced="True" />
+    <Attempt id="69" started="10/27/2017 16:23:33" isStartedSynced="True" ended="10/27/2017 16:31:33" isEndedSynced="True" />
+    <Attempt id="70" started="10/27/2017 16:31:48" isStartedSynced="True" ended="10/27/2017 16:38:35" isEndedSynced="True" />
+    <Attempt id="71" started="10/27/2017 16:38:50" isStartedSynced="True" ended="10/27/2017 16:49:52" isEndedSynced="True" />
+    <Attempt id="72" started="10/27/2017 16:50:03" isStartedSynced="True" ended="10/27/2017 16:57:05" isEndedSynced="True" />
+    <Attempt id="73" started="10/27/2017 16:57:16" isStartedSynced="True" ended="10/27/2017 17:02:48" isEndedSynced="True" />
+    <Attempt id="74" started="10/27/2017 17:02:51" isStartedSynced="True" ended="10/27/2017 17:11:30" isEndedSynced="True" />
+    <Attempt id="75" started="10/27/2017 17:12:03" isStartedSynced="True" ended="10/27/2017 17:19:37" isEndedSynced="True" />
+    <Attempt id="76" started="10/27/2017 17:20:11" isStartedSynced="True" ended="10/27/2017 17:30:17" isEndedSynced="True" />
+    <Attempt id="77" started="10/27/2017 17:30:35" isStartedSynced="True" ended="10/27/2017 17:37:41" isEndedSynced="True" />
+    <Attempt id="78" started="10/27/2017 17:38:17" isStartedSynced="True" ended="10/27/2017 17:46:48" isEndedSynced="True" />
+    <Attempt id="79" started="10/27/2017 17:47:00" isStartedSynced="True" ended="10/27/2017 17:56:57" isEndedSynced="True" />
+    <Attempt id="80" started="10/27/2017 18:00:09" isStartedSynced="True" ended="10/27/2017 18:12:46" isEndedSynced="True" />
+    <Attempt id="81" started="10/28/2017 07:33:24" isStartedSynced="True" ended="10/28/2017 07:42:24" isEndedSynced="True" />
+    <Attempt id="82" started="10/28/2017 07:42:50" isStartedSynced="True" ended="10/28/2017 07:50:49" isEndedSynced="True" />
+    <Attempt id="83" started="10/28/2017 07:51:12" isStartedSynced="True" ended="10/28/2017 07:53:10" isEndedSynced="True" />
+    <Attempt id="84" started="10/28/2017 11:02:56" isStartedSynced="True" ended="10/28/2017 11:09:52" isEndedSynced="True" />
+    <Attempt id="85" started="10/28/2017 11:10:20" isStartedSynced="True" ended="10/28/2017 11:11:23" isEndedSynced="True" />
+    <Attempt id="86" started="10/28/2017 11:11:23" isStartedSynced="True" ended="10/28/2017 11:19:31" isEndedSynced="True" />
+    <Attempt id="87" started="10/28/2017 11:21:26" isStartedSynced="True" ended="10/28/2017 11:21:27" isEndedSynced="True" />
+    <Attempt id="88" started="10/28/2017 11:23:42" isStartedSynced="True" ended="10/28/2017 11:31:42" isEndedSynced="True" />
+    <Attempt id="89" started="10/28/2017 11:32:07" isStartedSynced="True" ended="10/28/2017 11:39:36" isEndedSynced="True" />
+    <Attempt id="90" started="10/28/2017 11:39:39" isStartedSynced="True" ended="10/28/2017 11:46:16" isEndedSynced="True" />
+    <Attempt id="91" started="10/28/2017 11:46:18" isStartedSynced="True" ended="10/28/2017 11:51:10" isEndedSynced="True" />
+    <Attempt id="92" started="10/28/2017 11:51:12" isStartedSynced="True" ended="10/28/2017 11:58:16" isEndedSynced="True" />
+    <Attempt id="93" started="10/28/2017 11:58:27" isStartedSynced="True" ended="10/28/2017 12:06:58" isEndedSynced="True" />
+    <Attempt id="94" started="10/28/2017 12:07:20" isStartedSynced="True" ended="10/28/2017 12:12:48" isEndedSynced="True" />
+    <Attempt id="95" started="10/28/2017 12:55:18" isStartedSynced="True" ended="10/28/2017 12:59:29" isEndedSynced="True" />
+    <Attempt id="96" started="10/28/2017 13:03:51" isStartedSynced="True" ended="10/28/2017 13:05:24" isEndedSynced="True" />
+    <Attempt id="97" started="10/28/2017 13:05:44" isStartedSynced="True" ended="10/28/2017 13:12:59" isEndedSynced="True" />
+    <Attempt id="98" started="10/28/2017 13:13:19" isStartedSynced="True" ended="10/28/2017 13:15:12" isEndedSynced="True" />
+    <Attempt id="99" started="10/28/2017 13:15:16" isStartedSynced="True" ended="10/28/2017 13:19:43" isEndedSynced="True" />
+    <Attempt id="100" started="10/28/2017 13:20:02" isStartedSynced="True" ended="10/28/2017 13:25:36" isEndedSynced="True" />
+    <Attempt id="101" started="10/28/2017 13:25:43" isStartedSynced="True" ended="10/28/2017 13:35:21" isEndedSynced="True" />
+    <Attempt id="102" started="10/28/2017 13:35:30" isStartedSynced="True" ended="10/28/2017 13:38:30" isEndedSynced="True" />
+    <Attempt id="103" started="10/29/2017 13:47:31" isStartedSynced="True" ended="10/29/2017 13:47:33" isEndedSynced="True" />
+    <Attempt id="104" started="10/29/2017 13:48:23" isStartedSynced="True" ended="10/29/2017 13:55:35" isEndedSynced="True" />
+    <Attempt id="105" started="10/29/2017 13:55:48" isStartedSynced="True" ended="10/29/2017 14:04:35" isEndedSynced="True" />
+    <Attempt id="106" started="10/29/2017 14:05:12" isStartedSynced="True" ended="10/29/2017 14:13:34" isEndedSynced="True" />
+    <Attempt id="107" started="10/29/2017 14:13:52" isStartedSynced="True" ended="10/29/2017 14:26:26" isEndedSynced="True">
+      <PauseTime>00:02:14.4200000</PauseTime>
+    </Attempt>
+    <Attempt id="108" started="11/01/2017 13:35:34" isStartedSynced="True" ended="11/01/2017 13:42:29" isEndedSynced="True" />
+    <Attempt id="109" started="11/01/2017 13:42:39" isStartedSynced="True" ended="11/01/2017 13:49:03" isEndedSynced="True" />
+    <Attempt id="110" started="11/01/2017 13:49:09" isStartedSynced="True" ended="11/01/2017 13:50:14" isEndedSynced="True" />
+    <Attempt id="111" started="11/01/2017 18:32:27" isStartedSynced="True" ended="11/01/2017 18:32:50" isEndedSynced="True" />
+    <Attempt id="112" started="11/01/2017 18:33:13" isStartedSynced="True" ended="11/01/2017 18:37:47" isEndedSynced="True" />
+    <Attempt id="113" started="11/01/2017 18:37:49" isStartedSynced="True" ended="11/01/2017 18:38:57" isEndedSynced="True" />
+    <Attempt id="114" started="11/01/2017 18:38:59" isStartedSynced="True" ended="11/01/2017 18:42:02" isEndedSynced="True" />
+    <Attempt id="115" started="11/01/2017 18:42:04" isStartedSynced="True" ended="11/01/2017 18:46:36" isEndedSynced="True" />
+    <Attempt id="116" started="11/01/2017 18:46:38" isStartedSynced="True" ended="11/01/2017 18:49:27" isEndedSynced="True" />
+    <Attempt id="117" started="11/01/2017 18:51:29" isStartedSynced="True" ended="11/01/2017 18:56:49" isEndedSynced="True" />
+    <Attempt id="118" started="11/01/2017 18:56:49" isStartedSynced="True" ended="11/01/2017 18:58:04" isEndedSynced="True" />
+    <Attempt id="119" started="11/01/2017 18:58:06" isStartedSynced="True" ended="11/01/2017 19:06:26" isEndedSynced="True" />
+    <Attempt id="120" started="11/01/2017 19:06:28" isStartedSynced="True" ended="11/01/2017 19:13:25" isEndedSynced="True" />
+    <Attempt id="121" started="11/01/2017 19:13:28" isStartedSynced="True" ended="11/01/2017 19:15:29" isEndedSynced="True" />
+    <Attempt id="122" started="11/01/2017 19:16:01" isStartedSynced="True" ended="11/01/2017 19:18:09" isEndedSynced="True" />
+    <Attempt id="123" started="11/01/2017 19:23:04" isStartedSynced="True" ended="11/01/2017 19:23:09" isEndedSynced="True" />
+    <Attempt id="124" started="11/02/2017 16:12:37" isStartedSynced="True" ended="11/02/2017 16:19:52" isEndedSynced="True" />
+    <Attempt id="125" started="11/02/2017 16:20:03" isStartedSynced="True" ended="11/02/2017 16:20:06" isEndedSynced="True" />
+    <Attempt id="126" started="11/02/2017 16:22:36" isStartedSynced="True" ended="11/02/2017 16:24:04" isEndedSynced="True" />
+    <Attempt id="127" started="11/02/2017 16:24:06" isStartedSynced="True" ended="11/02/2017 16:32:33" isEndedSynced="True" />
+    <Attempt id="128" started="11/02/2017 16:33:16" isStartedSynced="True" ended="11/02/2017 16:35:07" isEndedSynced="True" />
+    <Attempt id="129" started="11/02/2017 16:35:08" isStartedSynced="True" ended="11/02/2017 16:36:58" isEndedSynced="True" />
+    <Attempt id="130" started="11/02/2017 16:37:01" isStartedSynced="True" ended="11/02/2017 16:42:02" isEndedSynced="True" />
+    <Attempt id="131" started="11/02/2017 16:42:05" isStartedSynced="True" ended="11/02/2017 16:48:41" isEndedSynced="True" />
+    <Attempt id="132" started="11/02/2017 16:49:07" isStartedSynced="True" ended="11/02/2017 16:52:08" isEndedSynced="True" />
+    <Attempt id="133" started="11/02/2017 16:52:11" isStartedSynced="True" ended="11/02/2017 16:53:26" isEndedSynced="True" />
+    <Attempt id="134" started="11/02/2017 16:53:28" isStartedSynced="True" ended="11/02/2017 16:58:09" isEndedSynced="True" />
+    <Attempt id="135" started="11/02/2017 16:58:11" isStartedSynced="True" ended="11/02/2017 17:04:52" isEndedSynced="True" />
+    <Attempt id="136" started="11/02/2017 17:05:32" isStartedSynced="True" ended="11/02/2017 17:09:58" isEndedSynced="True" />
+    <Attempt id="137" started="11/02/2017 17:10:02" isStartedSynced="True" ended="11/02/2017 17:11:51" isEndedSynced="True" />
+    <Attempt id="138" started="11/02/2017 17:11:51" isStartedSynced="True" ended="11/02/2017 17:20:06" isEndedSynced="True" />
+    <Attempt id="139" started="11/24/2017 08:50:12" isStartedSynced="True" ended="11/24/2017 08:54:47" isEndedSynced="True" />
+    <Attempt id="140" started="11/24/2017 08:59:09" isStartedSynced="True" ended="11/24/2017 09:03:40" isEndedSynced="True" />
+    <Attempt id="141" started="11/24/2017 09:03:46" isStartedSynced="True" ended="11/24/2017 09:12:17" isEndedSynced="True" />
+    <Attempt id="142" started="11/24/2017 09:12:53" isStartedSynced="True" ended="11/24/2017 09:19:40" isEndedSynced="True" />
+    <Attempt id="143" started="11/24/2017 09:19:57" isStartedSynced="True" ended="11/24/2017 09:24:42" isEndedSynced="True" />
+    <Attempt id="144" started="11/24/2017 09:24:43" isStartedSynced="True" ended="11/24/2017 09:32:26" isEndedSynced="True" />
+    <Attempt id="145" started="11/24/2017 09:32:38" isStartedSynced="True" ended="11/24/2017 09:42:27" isEndedSynced="True" />
+    <Attempt id="146" started="11/26/2017 19:45:48" isStartedSynced="True" ended="11/26/2017 19:52:25" isEndedSynced="True" />
+    <Attempt id="147" started="11/26/2017 19:52:38" isStartedSynced="True" ended="11/26/2017 19:54:02" isEndedSynced="True" />
+    <Attempt id="148" started="11/26/2017 19:54:33" isStartedSynced="True" ended="11/26/2017 19:55:57" isEndedSynced="True" />
+    <Attempt id="149" started="11/26/2017 19:56:10" isStartedSynced="True" ended="11/26/2017 19:58:36" isEndedSynced="True" />
+    <Attempt id="150" started="11/26/2017 19:58:43" isStartedSynced="True" ended="11/26/2017 20:00:29" isEndedSynced="True" />
+    <Attempt id="151" started="11/26/2017 20:00:31" isStartedSynced="True" ended="11/26/2017 20:06:59" isEndedSynced="True" />
+    <Attempt id="152" started="11/26/2017 20:07:07" isStartedSynced="True" ended="11/26/2017 20:11:49" isEndedSynced="True" />
+    <Attempt id="153" started="11/26/2017 20:11:55" isStartedSynced="True" ended="11/26/2017 20:18:46" isEndedSynced="True" />
+    <Attempt id="154" started="11/26/2017 20:19:15" isStartedSynced="True" ended="11/26/2017 20:23:51" isEndedSynced="True" />
+    <Attempt id="155" started="01/12/2018 16:15:41" isStartedSynced="True" ended="01/12/2018 16:15:41" isEndedSynced="True" />
+    <Attempt id="156" started="01/12/2018 16:16:43" isStartedSynced="True" ended="01/12/2018 16:17:21" isEndedSynced="True" />
+    <Attempt id="157" started="01/12/2018 16:18:34" isStartedSynced="True" ended="01/12/2018 16:23:14" isEndedSynced="True" />
+    <Attempt id="158" started="01/12/2018 16:23:16" isStartedSynced="True" ended="01/12/2018 16:27:48" isEndedSynced="True" />
+    <Attempt id="159" started="01/12/2018 16:27:49" isStartedSynced="True" ended="01/12/2018 16:32:18" isEndedSynced="True" />
+    <Attempt id="160" started="01/12/2018 16:32:21" isStartedSynced="True" ended="01/12/2018 19:17:18" isEndedSynced="True" />
+    <Attempt id="161" started="01/19/2018 14:03:53" isStartedSynced="True" ended="01/19/2018 14:10:11" isEndedSynced="True" />
+    <Attempt id="162" started="01/19/2018 14:10:15" isStartedSynced="True" ended="01/19/2018 14:14:59" isEndedSynced="True" />
+    <Attempt id="163" started="02/15/2018 16:33:55" isStartedSynced="True" ended="02/15/2018 16:38:48" isEndedSynced="True" />
+    <Attempt id="164" started="02/15/2018 16:39:38" isStartedSynced="True" ended="02/15/2018 16:44:18" isEndedSynced="True" />
+    <Attempt id="165" started="02/15/2018 16:44:47" isStartedSynced="True" ended="02/15/2018 16:50:54" isEndedSynced="True" />
+    <Attempt id="166" started="02/15/2018 16:51:03" isStartedSynced="True" ended="02/15/2018 16:57:35" isEndedSynced="True" />
+    <Attempt id="167" started="02/15/2018 16:57:53" isStartedSynced="True" ended="02/15/2018 17:05:13" isEndedSynced="True" />
+    <Attempt id="168" started="02/15/2018 17:05:29" isStartedSynced="True" ended="02/15/2018 17:10:47" isEndedSynced="True" />
+    <Attempt id="169" started="02/15/2018 17:10:56" isStartedSynced="True" ended="02/15/2018 17:17:36" isEndedSynced="True" />
+    <Attempt id="170" started="02/15/2018 17:17:55" isStartedSynced="True" ended="02/15/2018 17:22:27" isEndedSynced="True" />
+    <Attempt id="171" started="02/16/2018 16:49:47" isStartedSynced="True" ended="02/16/2018 16:50:11" isEndedSynced="True" />
+    <Attempt id="172" started="02/16/2018 16:50:25" isStartedSynced="True" ended="02/16/2018 16:57:21" isEndedSynced="True" />
+    <Attempt id="173" started="02/16/2018 16:57:45" isStartedSynced="True" ended="02/16/2018 17:02:03" isEndedSynced="True" />
+    <Attempt id="174" started="02/16/2018 17:02:16" isStartedSynced="True" ended="02/16/2018 17:06:51" isEndedSynced="True" />
+    <Attempt id="175" started="02/16/2018 17:06:55" isStartedSynced="True" ended="02/16/2018 17:11:53" isEndedSynced="True" />
+    <Attempt id="176" started="02/17/2018 19:19:52" isStartedSynced="True" ended="02/17/2018 19:21:23" isEndedSynced="True" />
+    <Attempt id="177" started="02/17/2018 19:21:25" isStartedSynced="True" ended="02/17/2018 19:23:23" isEndedSynced="True" />
+    <Attempt id="178" started="02/17/2018 19:23:24" isStartedSynced="True" ended="02/17/2018 19:30:46" isEndedSynced="True" />
+    <Attempt id="179" started="02/17/2018 19:32:14" isStartedSynced="True" ended="02/17/2018 19:39:18" isEndedSynced="True" />
+    <Attempt id="180" started="02/17/2018 19:39:31" isStartedSynced="True" ended="02/17/2018 19:39:33" isEndedSynced="True" />
+    <Attempt id="181" started="02/17/2018 19:39:35" isStartedSynced="True" ended="02/17/2018 19:44:35" isEndedSynced="True" />
+    <Attempt id="182" started="02/17/2018 19:44:43" isStartedSynced="True" ended="02/17/2018 19:50:25" isEndedSynced="True" />
+    <Attempt id="183" started="02/24/2018 10:22:12" isStartedSynced="True" ended="02/24/2018 10:28:59" isEndedSynced="True" />
+    <Attempt id="184" started="02/24/2018 10:29:35" isStartedSynced="True" ended="02/24/2018 10:30:36" isEndedSynced="True" />
+    <Attempt id="185" started="02/24/2018 10:30:44" isStartedSynced="True" ended="02/24/2018 10:37:47" isEndedSynced="True" />
+    <Attempt id="186" started="02/24/2018 10:37:57" isStartedSynced="True" ended="02/24/2018 10:43:03" isEndedSynced="True" />
+    <Attempt id="187" started="02/24/2018 10:43:05" isStartedSynced="True" ended="02/24/2018 10:48:28" isEndedSynced="True" />
+    <Attempt id="188" started="02/24/2018 10:48:34" isStartedSynced="True" ended="02/24/2018 10:53:54" isEndedSynced="True" />
+    <Attempt id="189" started="02/24/2018 10:53:58" isStartedSynced="True" ended="02/24/2018 10:59:10" isEndedSynced="True" />
+    <Attempt id="190" started="02/26/2018 17:43:16" isStartedSynced="True" ended="02/26/2018 17:47:40" isEndedSynced="True" />
+    <Attempt id="191" started="02/26/2018 17:48:11" isStartedSynced="True" ended="02/26/2018 17:52:33" isEndedSynced="True" />
+    <Attempt id="192" started="02/26/2018 17:52:35" isStartedSynced="True" ended="02/26/2018 17:59:29" isEndedSynced="True" />
+    <Attempt id="193" started="02/26/2018 18:00:06" isStartedSynced="True" ended="02/26/2018 18:04:29" isEndedSynced="True" />
+    <Attempt id="194" started="02/26/2018 18:04:30" isStartedSynced="True" ended="02/26/2018 18:08:59" isEndedSynced="True" />
+    <Attempt id="195" started="02/26/2018 18:09:00" isStartedSynced="True" ended="02/26/2018 18:13:43" isEndedSynced="True" />
+    <Attempt id="196" started="02/26/2018 18:14:12" isStartedSynced="True" ended="02/26/2018 18:18:40" isEndedSynced="True" />
+    <Attempt id="197" started="02/26/2018 18:18:40" isStartedSynced="True" ended="02/26/2018 18:24:50" isEndedSynced="True" />
+    <Attempt id="198" started="03/25/2018 17:19:57" isStartedSynced="True" ended="03/25/2018 17:20:03" isEndedSynced="True" />
+    <Attempt id="199" started="03/25/2018 17:20:35" isStartedSynced="True" ended="03/25/2018 17:20:37" isEndedSynced="True" />
+    <Attempt id="200" started="03/26/2018 13:54:00" isStartedSynced="True" ended="03/26/2018 13:55:42" isEndedSynced="True" />
+    <Attempt id="201" started="03/26/2018 13:55:43" isStartedSynced="True" ended="03/26/2018 14:00:11" isEndedSynced="True" />
+    <Attempt id="202" started="03/26/2018 14:00:12" isStartedSynced="True" ended="03/26/2018 14:01:55" isEndedSynced="True" />
+    <Attempt id="203" started="03/26/2018 14:01:59" isStartedSynced="True" ended="03/26/2018 14:09:01" isEndedSynced="True" />
+    <Attempt id="204" started="03/26/2018 14:09:48" isStartedSynced="True" ended="03/26/2018 14:12:37" isEndedSynced="True" />
+    <Attempt id="205" started="03/26/2018 14:12:38" isStartedSynced="True" ended="03/26/2018 14:12:54" isEndedSynced="True" />
+    <Attempt id="206" started="03/26/2018 14:13:35" isStartedSynced="True" ended="03/26/2018 14:17:27" isEndedSynced="True" />
+    <Attempt id="207" started="03/26/2018 14:22:37" isStartedSynced="True" ended="03/26/2018 14:22:45" isEndedSynced="True" />
+    <Attempt id="208" started="03/26/2018 14:28:20" isStartedSynced="True" ended="03/26/2018 14:36:39" isEndedSynced="True" />
+    <Attempt id="209" started="03/26/2018 14:42:46" isStartedSynced="True" ended="03/26/2018 14:42:48" isEndedSynced="True" />
+    <Attempt id="210" started="03/26/2018 14:42:53" isStartedSynced="True" ended="03/26/2018 14:44:04" isEndedSynced="True" />
+    <Attempt id="211" started="03/26/2018 14:44:08" isStartedSynced="True" ended="03/26/2018 14:48:31" isEndedSynced="True" />
+    <Attempt id="212" started="03/26/2018 14:48:32" isStartedSynced="True" ended="03/26/2018 14:56:13" isEndedSynced="True" />
+    <Attempt id="213" started="03/26/2018 14:56:15" isStartedSynced="True" ended="03/26/2018 15:00:50" isEndedSynced="True" />
+    <Attempt id="214" started="03/26/2018 15:06:58" isStartedSynced="True" ended="03/26/2018 15:08:48" isEndedSynced="True" />
+    <Attempt id="215" started="03/27/2018 16:17:55" isStartedSynced="True" ended="03/27/2018 16:17:57" isEndedSynced="True" />
+    <Attempt id="216" started="03/27/2018 16:19:23" isStartedSynced="True" ended="03/27/2018 16:26:31" isEndedSynced="True" />
+    <Attempt id="217" started="03/27/2018 16:31:40" isStartedSynced="True" ended="03/27/2018 16:40:20" isEndedSynced="True" />
+    <Attempt id="218" started="03/27/2018 16:43:27" isStartedSynced="True" ended="03/27/2018 16:51:22" isEndedSynced="True" />
+    <Attempt id="219" started="03/27/2018 16:59:41" isStartedSynced="True" ended="03/27/2018 16:59:51" isEndedSynced="True" />
+    <Attempt id="220" started="03/28/2018 16:37:26" isStartedSynced="True" ended="03/28/2018 16:41:55" isEndedSynced="True" />
+    <Attempt id="221" started="03/28/2018 16:41:55" isStartedSynced="True" ended="03/28/2018 16:47:21" isEndedSynced="True" />
+    <Attempt id="222" started="03/28/2018 16:47:25" isStartedSynced="True" ended="03/28/2018 16:51:25" isEndedSynced="True" />
+    <Attempt id="223" started="03/28/2018 16:51:28" isStartedSynced="True" ended="03/28/2018 16:56:45" isEndedSynced="True" />
+    <Attempt id="224" started="03/28/2018 16:56:51" isStartedSynced="True" ended="03/28/2018 17:03:31" isEndedSynced="True" />
+    <Attempt id="225" started="03/29/2018 17:05:26" isStartedSynced="True" ended="03/29/2018 17:09:16" isEndedSynced="True" />
+    <Attempt id="226" started="03/29/2018 17:09:17" isStartedSynced="True" ended="03/29/2018 17:13:32" isEndedSynced="True" />
+    <Attempt id="227" started="03/29/2018 17:13:36" isStartedSynced="True" ended="03/29/2018 17:20:12" isEndedSynced="True" />
+    <Attempt id="228" started="03/29/2018 17:20:40" isStartedSynced="True" ended="03/29/2018 17:31:41" isEndedSynced="True" />
+    <Attempt id="229" started="03/29/2018 17:35:08" isStartedSynced="True" ended="03/29/2018 17:43:06" isEndedSynced="True" />
+    <Attempt id="230" started="03/29/2018 17:45:32" isStartedSynced="True" ended="03/29/2018 17:46:49" isEndedSynced="True" />
+    <Attempt id="231" started="03/29/2018 17:46:49" isStartedSynced="True" ended="03/29/2018 18:02:13" isEndedSynced="True" />
+    <Attempt id="232" started="05/28/2018 09:32:20" isStartedSynced="True" ended="05/28/2018 09:33:07" isEndedSynced="True" />
+    <Attempt id="233" started="05/28/2018 09:34:48" isStartedSynced="True" ended="05/28/2018 09:39:00" isEndedSynced="True" />
+    <Attempt id="234" started="05/28/2018 09:39:01" isStartedSynced="True" ended="05/28/2018 09:43:15" isEndedSynced="True" />
+    <Attempt id="235" started="05/28/2018 09:43:22" isStartedSynced="True" ended="05/28/2018 09:47:20" isEndedSynced="True" />
+    <Attempt id="236" started="05/28/2018 09:47:21" isStartedSynced="True" ended="05/28/2018 09:52:06" isEndedSynced="True" />
+    <Attempt id="237" started="05/28/2018 09:52:06" isStartedSynced="True" ended="05/28/2018 09:52:07" isEndedSynced="True" />
+    <Attempt id="238" started="05/28/2018 09:53:25" isStartedSynced="True" ended="05/28/2018 09:58:19" isEndedSynced="True" />
+    <Attempt id="239" started="05/28/2018 09:58:19" isStartedSynced="True" ended="05/28/2018 10:05:00" isEndedSynced="True" />
+    <Attempt id="240" started="05/28/2018 10:05:39" isStartedSynced="True" ended="05/28/2018 10:16:07" isEndedSynced="True" />
+    <Attempt id="241" started="05/28/2018 10:17:14" isStartedSynced="True" ended="05/28/2018 10:21:41" isEndedSynced="True" />
+    <Attempt id="242" started="05/28/2018 10:21:42" isStartedSynced="True" ended="05/28/2018 10:30:06" isEndedSynced="True" />
+    <Attempt id="243" started="05/28/2018 10:35:02" isStartedSynced="True" ended="05/28/2018 10:39:21" isEndedSynced="True" />
+    <Attempt id="244" started="05/28/2018 10:39:24" isStartedSynced="True" ended="05/28/2018 10:43:56" isEndedSynced="True" />
+    <Attempt id="245" started="05/28/2018 10:44:29" isStartedSynced="True" ended="05/28/2018 10:48:57" isEndedSynced="True" />
+    <Attempt id="246" started="05/28/2018 10:49:30" isStartedSynced="True" ended="05/28/2018 10:53:41" isEndedSynced="True" />
+    <Attempt id="247" started="05/28/2018 10:53:42" isStartedSynced="True" ended="05/28/2018 11:00:37" isEndedSynced="True" />
+    <Attempt id="248" started="05/28/2018 11:00:55" isStartedSynced="True" ended="05/28/2018 11:00:56" isEndedSynced="True" />
+    <Attempt id="249" started="05/28/2018 11:01:00" isStartedSynced="True" ended="05/28/2018 11:04:51" isEndedSynced="True" />
+    <Attempt id="250" started="05/28/2018 11:04:53" isStartedSynced="True" ended="05/28/2018 11:12:21" isEndedSynced="True" />
+    <Attempt id="251" started="05/29/2018 17:39:49" isStartedSynced="True" ended="05/29/2018 17:48:46" isEndedSynced="True">
+      <RealTime>00:08:56.4280000</RealTime>
+      <GameTime>00:08:53.7100000</GameTime>
+    </Attempt>
+    <Attempt id="252" started="08/21/2018 13:16:43" isStartedSynced="True" ended="08/21/2018 13:20:55" isEndedSynced="True" />
+    <Attempt id="253" started="08/21/2018 13:20:56" isStartedSynced="True" ended="08/21/2018 13:27:15" isEndedSynced="True" />
+    <Attempt id="254" started="08/21/2018 13:27:35" isStartedSynced="True" ended="08/21/2018 13:29:05" isEndedSynced="True" />
+    <Attempt id="255" started="08/21/2018 13:29:06" isStartedSynced="True" ended="08/21/2018 13:30:24" isEndedSynced="True" />
+    <Attempt id="256" started="09/06/2018 07:44:47" isStartedSynced="True" ended="09/06/2018 07:44:52" isEndedSynced="True" />
+    <Attempt id="257" started="09/06/2018 07:45:05" isStartedSynced="True" ended="09/06/2018 07:49:19" isEndedSynced="True" />
+    <Attempt id="258" started="09/06/2018 07:49:33" isStartedSynced="True" ended="09/06/2018 07:57:32" isEndedSynced="True" />
+    <Attempt id="259" started="09/06/2018 07:57:56" isStartedSynced="True" ended="09/06/2018 08:04:06" isEndedSynced="True" />
+    <Attempt id="260" started="09/06/2018 08:04:20" isStartedSynced="True" ended="09/06/2018 08:10:18" isEndedSynced="True" />
+    <Attempt id="261" started="09/06/2018 08:13:23" isStartedSynced="True" ended="09/06/2018 08:17:51" isEndedSynced="True" />
+    <Attempt id="262" started="09/06/2018 08:18:08" isStartedSynced="True" ended="09/06/2018 08:22:37" isEndedSynced="True" />
+    <Attempt id="263" started="09/06/2018 08:22:49" isStartedSynced="True" ended="09/06/2018 08:27:07" isEndedSynced="True" />
+    <Attempt id="264" started="09/06/2018 08:27:10" isStartedSynced="True" ended="09/06/2018 08:31:49" isEndedSynced="True" />
+    <Attempt id="265" started="09/06/2018 08:31:50" isStartedSynced="True" ended="09/06/2018 08:38:06" isEndedSynced="True" />
+    <Attempt id="266" started="09/06/2018 08:38:27" isStartedSynced="True" ended="09/06/2018 08:38:34" isEndedSynced="True" />
+    <Attempt id="267" started="09/06/2018 08:38:46" isStartedSynced="True" ended="09/06/2018 08:42:57" isEndedSynced="True" />
+    <Attempt id="268" started="09/10/2018 15:28:21" isStartedSynced="True" ended="09/10/2018 15:32:38" isEndedSynced="True" />
+    <Attempt id="269" started="09/10/2018 15:32:42" isStartedSynced="True" ended="09/10/2018 15:33:30" isEndedSynced="True" />
+    <Attempt id="270" started="09/10/2018 15:33:37" isStartedSynced="True" ended="09/10/2018 15:35:04" isEndedSynced="True" />
+    <Attempt id="271" started="09/10/2018 15:35:08" isStartedSynced="True" ended="09/10/2018 15:39:18" isEndedSynced="True" />
+    <Attempt id="272" started="09/10/2018 15:39:22" isStartedSynced="True" ended="09/10/2018 15:44:04" isEndedSynced="True" />
+    <Attempt id="273" started="09/10/2018 15:44:09" isStartedSynced="True" ended="09/10/2018 15:47:25" isEndedSynced="True" />
+    <Attempt id="274" started="09/10/2018 15:47:29" isStartedSynced="True" ended="09/10/2018 15:47:53" isEndedSynced="True" />
+    <Attempt id="275" started="09/10/2018 15:48:28" isStartedSynced="True" ended="09/10/2018 15:50:11" isEndedSynced="True" />
+    <Attempt id="276" started="09/10/2018 15:50:15" isStartedSynced="True" ended="09/10/2018 15:56:23" isEndedSynced="True" />
+    <Attempt id="277" started="09/10/2018 15:56:39" isStartedSynced="True" ended="09/10/2018 16:00:27" isEndedSynced="True" />
+    <Attempt id="278" started="09/20/2018 08:39:53" isStartedSynced="True" ended="09/20/2018 09:28:36" isEndedSynced="True">
+      <RealTime>00:48:42.3610000</RealTime>
+      <GameTime>00:48:39.6060000</GameTime>
+    </Attempt>
+    <Attempt id="279" started="09/20/2018 21:27:35" isStartedSynced="True" ended="09/20/2018 22:05:51" isEndedSynced="True">
+      <RealTime>00:38:16.6340000</RealTime>
+      <GameTime>00:38:12.5940000</GameTime>
+    </Attempt>
+    <Attempt id="280" started="09/20/2018 22:08:32" isStartedSynced="True" ended="09/20/2018 22:17:37" isEndedSynced="True" />
+    <Attempt id="281" started="10/03/2018 16:12:42" isStartedSynced="True" ended="10/03/2018 16:18:41" isEndedSynced="True" />
+    <Attempt id="282" started="10/03/2018 16:19:54" isStartedSynced="True" ended="10/03/2018 16:26:12" isEndedSynced="True" />
+    <Attempt id="283" started="10/03/2018 16:37:26" isStartedSynced="True" ended="10/03/2018 16:38:02" isEndedSynced="True" />
+    <Attempt id="284" started="10/03/2018 16:38:27" isStartedSynced="True" ended="10/03/2018 16:42:50" isEndedSynced="True" />
+    <Attempt id="285" started="10/03/2018 16:42:51" isStartedSynced="True" ended="10/03/2018 16:46:53" isEndedSynced="True" />
+    <Attempt id="286" started="10/03/2018 16:46:54" isStartedSynced="True" ended="10/03/2018 16:50:15" isEndedSynced="True" />
+    <Attempt id="287" started="10/03/2018 16:50:18" isStartedSynced="True" ended="10/03/2018 16:51:33" isEndedSynced="True" />
+    <Attempt id="288" started="10/03/2018 16:51:34" isStartedSynced="True" ended="10/03/2018 16:53:19" isEndedSynced="True" />
+    <Attempt id="289" started="10/08/2018 09:10:39" isStartedSynced="True" ended="10/08/2018 09:10:45" isEndedSynced="True" />
+    <Attempt id="290" started="10/08/2018 09:14:14" isStartedSynced="True" ended="10/08/2018 09:14:36" isEndedSynced="True" />
+    <Attempt id="291" started="10/08/2018 09:15:06" isStartedSynced="True" ended="10/08/2018 09:21:01" isEndedSynced="True" />
+    <Attempt id="292" started="10/08/2018 09:21:04" isStartedSynced="True" ended="10/08/2018 09:22:41" isEndedSynced="True" />
+    <Attempt id="293" started="10/08/2018 09:22:42" isStartedSynced="True" ended="10/08/2018 09:26:58" isEndedSynced="True" />
+    <Attempt id="294" started="10/08/2018 09:26:59" isStartedSynced="True" ended="10/08/2018 09:32:55" isEndedSynced="True" />
+    <Attempt id="295" started="10/08/2018 09:32:58" isStartedSynced="True" ended="10/08/2018 09:38:04" isEndedSynced="True" />
+    <Attempt id="296" started="10/08/2018 09:38:06" isStartedSynced="True" ended="10/08/2018 09:38:31" isEndedSynced="True" />
+    <Attempt id="297" started="10/08/2018 09:38:32" isStartedSynced="True" ended="10/08/2018 09:41:34" isEndedSynced="True" />
+    <Attempt id="298" started="10/08/2018 09:41:35" isStartedSynced="True" ended="10/08/2018 09:45:53" isEndedSynced="True" />
+    <Attempt id="299" started="10/22/2018 16:44:24" isStartedSynced="True" ended="10/22/2018 16:48:43" isEndedSynced="True" />
+    <Attempt id="300" started="10/22/2018 16:48:46" isStartedSynced="True" ended="10/22/2018 16:52:54" isEndedSynced="True" />
+    <Attempt id="301" started="10/22/2018 19:10:21" isStartedSynced="True" ended="10/22/2018 19:11:18" isEndedSynced="True" />
+    <Attempt id="302" started="10/22/2018 19:11:47" isStartedSynced="True" ended="10/22/2018 19:15:37" isEndedSynced="True" />
+    <Attempt id="303" started="10/22/2018 19:15:39" isStartedSynced="True" ended="10/22/2018 19:19:55" isEndedSynced="True" />
+    <Attempt id="304" started="10/22/2018 19:19:56" isStartedSynced="True" ended="10/22/2018 19:24:49" isEndedSynced="True" />
+    <Attempt id="305" started="10/22/2018 19:27:20" isStartedSynced="True" ended="10/22/2018 19:27:43" isEndedSynced="True" />
+    <Attempt id="306" started="10/22/2018 19:27:54" isStartedSynced="True" ended="10/22/2018 19:29:42" isEndedSynced="True" />
+    <Attempt id="307" started="10/22/2018 19:29:43" isStartedSynced="True" ended="10/22/2018 19:37:19" isEndedSynced="True" />
+    <Attempt id="308" started="10/22/2018 19:38:07" isStartedSynced="True" ended="10/22/2018 19:38:08" isEndedSynced="True" />
+    <Attempt id="309" started="10/22/2018 19:38:17" isStartedSynced="True" ended="10/22/2018 19:44:30" isEndedSynced="True" />
+    <Attempt id="310" started="10/22/2018 19:44:52" isStartedSynced="True" ended="10/22/2018 19:49:06" isEndedSynced="True" />
+    <Attempt id="311" started="10/22/2018 19:49:07" isStartedSynced="True" ended="10/22/2018 19:57:47" isEndedSynced="True">
+      <RealTime>00:08:39.8100000</RealTime>
+      <GameTime>00:08:37.6840000</GameTime>
+    </Attempt>
+    <Attempt id="312" started="11/01/2018 22:42:59" isStartedSynced="True" ended="11/01/2018 22:43:01" isEndedSynced="True" />
+    <Attempt id="313" started="11/01/2018 22:43:55" isStartedSynced="True" ended="11/01/2018 22:46:36" isEndedSynced="True" />
+    <Attempt id="314" started="11/01/2018 22:46:44" isStartedSynced="True" ended="11/01/2018 22:47:00" isEndedSynced="True" />
+    <Attempt id="315" started="11/01/2018 22:47:31" isStartedSynced="True" ended="11/01/2018 22:47:37" isEndedSynced="True" />
+    <Attempt id="316" started="11/01/2018 22:55:44" isStartedSynced="True" ended="11/01/2018 22:55:46" isEndedSynced="True" />
+    <Attempt id="317" started="11/01/2018 23:02:12" isStartedSynced="True" ended="11/01/2018 23:02:14" isEndedSynced="True" />
+    <Attempt id="318" started="11/01/2018 23:03:10" isStartedSynced="True" ended="11/01/2018 23:03:36" isEndedSynced="True" />
+    <Attempt id="319" started="11/01/2018 23:05:16" isStartedSynced="True" ended="11/01/2018 23:09:14" isEndedSynced="True" />
+    <Attempt id="320" started="11/01/2018 23:10:11" isStartedSynced="True" ended="11/01/2018 23:10:46" isEndedSynced="True" />
+    <Attempt id="321" started="11/01/2018 23:18:11" isStartedSynced="True" ended="11/01/2018 23:23:25" isEndedSynced="True" />
+    <Attempt id="322" started="11/01/2018 23:23:26" isStartedSynced="True" ended="11/01/2018 23:23:27" isEndedSynced="True" />
+    <Attempt id="323" started="11/01/2018 23:24:24" isStartedSynced="True" ended="11/01/2018 23:26:03" isEndedSynced="True" />
+    <Attempt id="324" started="12/29/2018 22:11:59" isStartedSynced="True" ended="12/29/2018 22:12:33" isEndedSynced="True" />
+    <Attempt id="325" started="12/29/2018 22:12:52" isStartedSynced="True" ended="12/29/2018 22:19:10" isEndedSynced="True" />
+    <Attempt id="326" started="12/29/2018 22:19:22" isStartedSynced="True" ended="12/29/2018 22:23:42" isEndedSynced="True" />
+    <Attempt id="327" started="12/29/2018 22:23:42" isStartedSynced="True" ended="12/29/2018 22:26:56" isEndedSynced="True" />
+    <Attempt id="328" started="12/29/2018 22:26:57" isStartedSynced="True" ended="12/29/2018 22:33:03" isEndedSynced="True" />
+    <Attempt id="329" started="12/29/2018 22:33:04" isStartedSynced="True" ended="12/29/2018 22:37:11" isEndedSynced="True" />
+    <Attempt id="330" started="01/18/2019 18:54:57" isStartedSynced="True" ended="01/18/2019 18:59:02" isEndedSynced="True" />
+    <Attempt id="331" started="01/18/2019 18:59:03" isStartedSynced="True" ended="01/18/2019 19:02:55" isEndedSynced="True" />
+    <Attempt id="332" started="01/18/2019 19:02:56" isStartedSynced="True" ended="01/18/2019 19:06:39" isEndedSynced="True" />
+    <Attempt id="333" started="01/18/2019 19:06:40" isStartedSynced="True" ended="01/18/2019 19:13:28" isEndedSynced="True" />
+    <Attempt id="334" started="01/18/2019 19:13:31" isStartedSynced="True" ended="01/18/2019 19:17:44" isEndedSynced="True" />
+    <Attempt id="335" started="01/18/2019 19:17:44" isStartedSynced="True" ended="01/18/2019 19:23:54" isEndedSynced="True" />
+    <Attempt id="336" started="01/18/2019 19:23:57" isStartedSynced="True" ended="01/18/2019 19:28:14" isEndedSynced="True" />
+    <Attempt id="337" started="01/18/2019 19:28:14" isStartedSynced="True" ended="01/18/2019 19:31:13" isEndedSynced="True" />
+    <Attempt id="338" started="01/18/2019 19:31:14" isStartedSynced="True" ended="01/18/2019 19:36:20" isEndedSynced="True" />
+    <Attempt id="339" started="01/18/2019 19:57:38" isStartedSynced="True" ended="01/18/2019 19:57:40" isEndedSynced="True" />
+    <Attempt id="340" started="05/06/2019 06:12:08" isStartedSynced="True" ended="05/06/2019 06:15:12" isEndedSynced="True" />
+    <Attempt id="341" started="05/06/2019 06:15:13" isStartedSynced="True" ended="05/06/2019 06:21:28" isEndedSynced="True" />
+    <Attempt id="342" started="05/06/2019 06:28:27" isStartedSynced="True" ended="05/06/2019 06:28:49" isEndedSynced="True" />
+    <Attempt id="343" started="05/06/2019 06:29:10" isStartedSynced="True" ended="05/06/2019 06:35:09" isEndedSynced="True" />
+    <Attempt id="344" started="05/06/2019 06:35:12" isStartedSynced="True" ended="05/06/2019 06:41:22" isEndedSynced="True" />
+    <Attempt id="345" started="05/06/2019 06:41:24" isStartedSynced="True" ended="05/06/2019 06:47:33" isEndedSynced="True" />
+    <Attempt id="346" started="05/06/2019 06:47:36" isStartedSynced="True" ended="05/06/2019 06:53:46" isEndedSynced="True" />
+    <Attempt id="347" started="05/06/2019 06:53:46" isStartedSynced="True" ended="05/06/2019 06:55:42" isEndedSynced="True" />
+    <Attempt id="348" started="05/06/2019 06:55:42" isStartedSynced="True" ended="05/06/2019 07:00:50" isEndedSynced="True" />
+    <Attempt id="349" started="05/06/2019 07:00:55" isStartedSynced="True" ended="05/06/2019 07:07:06" isEndedSynced="True" />
+    <Attempt id="350" started="05/06/2019 07:07:08" isStartedSynced="True" ended="05/06/2019 07:13:16" isEndedSynced="True" />
+    <Attempt id="351" started="05/06/2019 07:13:35" isStartedSynced="True" ended="05/06/2019 07:20:44" isEndedSynced="True" />
+    <Attempt id="352" started="05/06/2019 07:20:49" isStartedSynced="True" ended="05/06/2019 07:28:16" isEndedSynced="True" />
+    <Attempt id="353" started="05/06/2019 07:28:40" isStartedSynced="True" ended="05/06/2019 07:35:21" isEndedSynced="True" />
+    <Attempt id="354" started="05/06/2019 07:35:29" isStartedSynced="True" ended="05/06/2019 07:41:38" isEndedSynced="True" />
+    <Attempt id="355" started="05/06/2019 07:41:39" isStartedSynced="True" ended="05/06/2019 07:47:58" isEndedSynced="True" />
+    <Attempt id="356" started="05/06/2019 07:48:01" isStartedSynced="True" ended="05/06/2019 07:54:09" isEndedSynced="True" />
+    <Attempt id="357" started="05/06/2019 07:54:13" isStartedSynced="True" ended="05/06/2019 07:59:08" isEndedSynced="True" />
+    <Attempt id="358" started="05/06/2019 07:59:33" isStartedSynced="True" ended="05/06/2019 08:04:42" isEndedSynced="True" />
+    <Attempt id="359" started="05/06/2019 08:04:42" isStartedSynced="True" ended="05/06/2019 08:10:04" isEndedSynced="True" />
+    <Attempt id="360" started="05/06/2019 08:10:06" isStartedSynced="True" ended="05/06/2019 08:14:05" isEndedSynced="True" />
+    <Attempt id="361" started="05/06/2019 08:14:06" isStartedSynced="True" ended="05/06/2019 08:20:39" isEndedSynced="True" />
+    <Attempt id="362" started="05/06/2019 08:23:43" isStartedSynced="True" ended="05/06/2019 08:30:13" isEndedSynced="True" />
+    <Attempt id="363" started="05/06/2019 08:31:50" isStartedSynced="True" ended="05/06/2019 08:32:31" isEndedSynced="True" />
+    <Attempt id="364" started="05/06/2019 08:32:32" isStartedSynced="True" ended="05/06/2019 08:37:06" isEndedSynced="True" />
+    <Attempt id="365" started="05/06/2019 08:37:07" isStartedSynced="True" ended="05/06/2019 08:45:52" isEndedSynced="True">
+      <RealTime>00:08:44.9800000</RealTime>
+      <GameTime>00:08:42.9640000</GameTime>
+    </Attempt>
+    <Attempt id="366" started="05/06/2019 08:47:31" isStartedSynced="True" ended="05/06/2019 08:53:41" isEndedSynced="True" />
+    <Attempt id="367" started="05/06/2019 08:53:41" isStartedSynced="True" ended="05/06/2019 08:57:51" isEndedSynced="True" />
+    <Attempt id="368" started="05/06/2019 08:57:58" isStartedSynced="True" ended="05/06/2019 09:02:12" isEndedSynced="True" />
+    <Attempt id="369" started="05/06/2019 09:02:24" isStartedSynced="True" ended="05/06/2019 09:08:35" isEndedSynced="True" />
+    <Attempt id="370" started="05/06/2019 09:09:40" isStartedSynced="True" ended="05/06/2019 09:12:57" isEndedSynced="True" />
+    <Attempt id="371" started="05/06/2019 09:13:00" isStartedSynced="True" ended="05/06/2019 09:17:23" isEndedSynced="True" />
+    <Attempt id="372" started="05/06/2019 09:17:24" isStartedSynced="True" ended="05/06/2019 09:17:31" isEndedSynced="True" />
+    <Attempt id="373" started="05/06/2019 09:17:40" isStartedSynced="True" ended="05/06/2019 09:26:23" isEndedSynced="True" />
+    <Attempt id="374" started="05/06/2019 09:31:21" isStartedSynced="True" ended="05/06/2019 09:40:04" isEndedSynced="True" />
+    <Attempt id="375" started="05/06/2019 09:40:14" isStartedSynced="True" ended="05/06/2019 09:46:12" isEndedSynced="True" />
+    <Attempt id="376" started="05/06/2019 09:46:24" isStartedSynced="True" ended="05/06/2019 09:49:17" isEndedSynced="True" />
+    <Attempt id="377" started="05/06/2019 09:49:28" isStartedSynced="True" ended="05/06/2019 09:57:19" isEndedSynced="True" />
+    <Attempt id="378" started="05/06/2019 09:57:48" isStartedSynced="True" ended="05/06/2019 09:59:37" isEndedSynced="True" />
+    <Attempt id="379" started="05/06/2019 09:59:56" isStartedSynced="True" ended="05/06/2019 10:11:36" isEndedSynced="True" />
+    <Attempt id="380" started="05/06/2019 10:24:26" isStartedSynced="True" ended="05/06/2019 10:27:20" isEndedSynced="True" />
+    <Attempt id="381" started="05/06/2019 10:28:54" isStartedSynced="True" ended="05/06/2019 10:28:58" isEndedSynced="True" />
+    <Attempt id="382" started="05/06/2019 10:29:25" isStartedSynced="True" ended="05/06/2019 10:35:37" isEndedSynced="True" />
+    <Attempt id="383" started="05/06/2019 10:35:48" isStartedSynced="True" ended="05/06/2019 10:41:58" isEndedSynced="True" />
+    <Attempt id="384" started="05/06/2019 10:42:09" isStartedSynced="True" ended="05/06/2019 10:46:10" isEndedSynced="True" />
+    <Attempt id="385" started="05/06/2019 10:46:10" isStartedSynced="True" ended="05/06/2019 10:49:24" isEndedSynced="True" />
+    <Attempt id="386" started="05/06/2019 10:49:24" isStartedSynced="True" ended="05/06/2019 10:55:39" isEndedSynced="True" />
+    <Attempt id="387" started="05/06/2019 10:55:51" isStartedSynced="True" ended="05/06/2019 10:58:59" isEndedSynced="True" />
+    <Attempt id="388" started="05/06/2019 10:58:59" isStartedSynced="True" ended="05/06/2019 11:05:48" isEndedSynced="True" />
+    <Attempt id="389" started="05/06/2019 11:07:19" isStartedSynced="True" ended="05/06/2019 11:13:34" isEndedSynced="True" />
+    <Attempt id="390" started="05/06/2019 11:15:35" isStartedSynced="True" ended="05/06/2019 11:21:51" isEndedSynced="True" />
+    <Attempt id="391" started="05/06/2019 11:21:54" isStartedSynced="True" ended="05/06/2019 11:27:50" isEndedSynced="True" />
+    <Attempt id="392" started="05/06/2019 11:27:50" isStartedSynced="True" ended="05/06/2019 11:27:57" isEndedSynced="True" />
+    <Attempt id="393" started="05/06/2019 11:28:01" isStartedSynced="True" ended="05/06/2019 11:34:10" isEndedSynced="True" />
+    <Attempt id="394" started="05/06/2019 11:34:22" isStartedSynced="True" ended="05/06/2019 11:36:18" isEndedSynced="True" />
+    <Attempt id="395" started="05/06/2019 11:36:19" isStartedSynced="True" ended="05/06/2019 11:42:30" isEndedSynced="True" />
+    <Attempt id="396" started="05/06/2019 11:42:40" isStartedSynced="True" ended="05/06/2019 11:48:50" isEndedSynced="True" />
+    <Attempt id="397" started="05/06/2019 11:49:00" isStartedSynced="True" ended="05/06/2019 11:55:09" isEndedSynced="True" />
+    <Attempt id="398" started="05/06/2019 11:55:31" isStartedSynced="True" ended="05/06/2019 11:59:55" isEndedSynced="True" />
+    <Attempt id="399" started="05/06/2019 12:00:02" isStartedSynced="True" ended="05/06/2019 12:06:11" isEndedSynced="True" />
+    <Attempt id="400" started="05/06/2019 12:06:22" isStartedSynced="True" ended="05/06/2019 12:12:30" isEndedSynced="True" />
+    <Attempt id="401" started="05/06/2019 12:12:57" isStartedSynced="True" ended="05/06/2019 12:16:50" isEndedSynced="True" />
+    <Attempt id="402" started="05/06/2019 12:16:51" isStartedSynced="True" ended="05/06/2019 12:21:11" isEndedSynced="True" />
+    <Attempt id="403" started="05/06/2019 12:21:14" isStartedSynced="True" ended="05/06/2019 12:26:35" isEndedSynced="True" />
+    <Attempt id="404" started="05/06/2019 13:22:40" isStartedSynced="True" ended="05/06/2019 13:28:50" isEndedSynced="True" />
+    <Attempt id="405" started="05/06/2019 13:29:00" isStartedSynced="True" ended="05/06/2019 13:35:08" isEndedSynced="True" />
+    <Attempt id="406" started="05/06/2019 13:35:19" isStartedSynced="True" ended="05/06/2019 13:39:23" isEndedSynced="True" />
+    <Attempt id="407" started="05/06/2019 13:39:23" isStartedSynced="True" ended="05/06/2019 13:45:17" isEndedSynced="True" />
+    <Attempt id="408" started="05/06/2019 13:52:59" isStartedSynced="True" ended="05/06/2019 13:57:16" isEndedSynced="True" />
+    <Attempt id="409" started="05/06/2019 13:59:33" isStartedSynced="True" ended="05/06/2019 14:05:41" isEndedSynced="True" />
+    <Attempt id="410" started="05/06/2019 14:06:16" isStartedSynced="True" ended="05/06/2019 14:10:41" isEndedSynced="True" />
+    <Attempt id="411" started="05/06/2019 14:10:47" isStartedSynced="True" ended="05/06/2019 14:16:56" isEndedSynced="True" />
+    <Attempt id="412" started="05/06/2019 14:17:02" isStartedSynced="True" ended="05/06/2019 14:18:08" isEndedSynced="True" />
+    <Attempt id="413" started="05/06/2019 14:18:09" isStartedSynced="True" ended="05/06/2019 14:24:18" isEndedSynced="True" />
+    <Attempt id="414" started="05/06/2019 14:24:20" isStartedSynced="True" ended="05/06/2019 14:30:30" isEndedSynced="True" />
+    <Attempt id="415" started="05/06/2019 14:31:49" isStartedSynced="True" ended="05/06/2019 14:36:19" isEndedSynced="True" />
+    <Attempt id="416" started="05/06/2019 14:36:21" isStartedSynced="True" ended="05/06/2019 14:42:30" isEndedSynced="True" />
+    <Attempt id="417" started="05/06/2019 14:42:38" isStartedSynced="True" ended="05/06/2019 14:48:45" isEndedSynced="True" />
+    <Attempt id="418" started="05/06/2019 14:48:54" isStartedSynced="True" ended="05/06/2019 14:55:06" isEndedSynced="True" />
+    <Attempt id="419" started="05/06/2019 14:55:17" isStartedSynced="True" ended="05/06/2019 14:59:33" isEndedSynced="True" />
+    <Attempt id="420" started="05/06/2019 15:01:55" isStartedSynced="True" ended="05/06/2019 15:07:13" isEndedSynced="True" />
+    <Attempt id="421" started="05/06/2019 15:07:19" isStartedSynced="True" ended="05/06/2019 15:13:39" isEndedSynced="True" />
+    <Attempt id="422" started="05/06/2019 15:13:46" isStartedSynced="True" ended="05/06/2019 15:19:09" isEndedSynced="True" />
+    <Attempt id="423" started="05/06/2019 15:20:02" isStartedSynced="True" ended="05/06/2019 15:26:10" isEndedSynced="True" />
+    <Attempt id="424" started="05/06/2019 15:26:15" isStartedSynced="True" ended="05/06/2019 15:31:20" isEndedSynced="True" />
+    <Attempt id="425" started="05/06/2019 15:31:23" isStartedSynced="True" ended="05/06/2019 15:35:44" isEndedSynced="True" />
+    <Attempt id="426" started="05/06/2019 15:35:58" isStartedSynced="True" ended="05/06/2019 15:35:59" isEndedSynced="True" />
+    <Attempt id="427" started="05/06/2019 15:36:07" isStartedSynced="True" ended="05/06/2019 15:44:46" isEndedSynced="True" />
+    <Attempt id="428" started="05/06/2019 16:00:54" isStartedSynced="True" ended="05/06/2019 16:01:02" isEndedSynced="True" />
+    <Attempt id="429" started="05/06/2019 16:01:10" isStartedSynced="True" ended="05/06/2019 16:05:28" isEndedSynced="True" />
+    <Attempt id="430" started="05/06/2019 16:05:34" isStartedSynced="True" ended="05/06/2019 16:11:44" isEndedSynced="True" />
+    <Attempt id="431" started="05/06/2019 16:12:29" isStartedSynced="True" ended="05/06/2019 16:16:41" isEndedSynced="True" />
+    <Attempt id="432" started="05/06/2019 16:16:48" isStartedSynced="True" ended="05/06/2019 16:22:44" isEndedSynced="True" />
+    <Attempt id="433" started="05/06/2019 16:22:50" isStartedSynced="True" ended="05/06/2019 16:28:59" isEndedSynced="True" />
+    <Attempt id="434" started="05/06/2019 16:29:09" isStartedSynced="True" ended="05/06/2019 16:35:17" isEndedSynced="True" />
+    <Attempt id="435" started="05/06/2019 17:13:27" isStartedSynced="True" ended="05/06/2019 17:17:29" isEndedSynced="True" />
+    <Attempt id="436" started="05/06/2019 17:17:30" isStartedSynced="True" ended="05/06/2019 17:23:36" isEndedSynced="True" />
+    <Attempt id="437" started="05/06/2019 17:23:43" isStartedSynced="True" ended="05/06/2019 17:29:55" isEndedSynced="True" />
+    <Attempt id="438" started="05/06/2019 17:30:32" isStartedSynced="True" ended="05/06/2019 17:35:43" isEndedSynced="True" />
+    <Attempt id="439" started="05/06/2019 17:38:07" isStartedSynced="True" ended="05/06/2019 17:42:18" isEndedSynced="True" />
+    <Attempt id="440" started="05/06/2019 20:03:09" isStartedSynced="True" ended="05/06/2019 20:09:19" isEndedSynced="True" />
+    <Attempt id="441" started="05/06/2019 20:09:52" isStartedSynced="True" ended="05/06/2019 20:14:13" isEndedSynced="True" />
+    <Attempt id="442" started="05/06/2019 20:14:20" isStartedSynced="True" ended="05/06/2019 20:20:29" isEndedSynced="True" />
+    <Attempt id="443" started="05/06/2019 20:21:26" isStartedSynced="True" ended="05/06/2019 20:27:41" isEndedSynced="True" />
+    <Attempt id="444" started="05/06/2019 20:27:49" isStartedSynced="True" ended="05/06/2019 20:33:57" isEndedSynced="True" />
+    <Attempt id="445" started="05/06/2019 20:34:04" isStartedSynced="True" ended="05/06/2019 20:38:18" isEndedSynced="True" />
+    <Attempt id="446" started="05/06/2019 20:38:25" isStartedSynced="True" ended="05/06/2019 20:42:36" isEndedSynced="True" />
+    <Attempt id="447" started="05/06/2019 20:42:44" isStartedSynced="True" ended="05/06/2019 20:48:53" isEndedSynced="True" />
+    <Attempt id="448" started="05/06/2019 20:49:28" isStartedSynced="True" ended="05/06/2019 20:53:30" isEndedSynced="True" />
+    <Attempt id="449" started="05/06/2019 20:53:30" isStartedSynced="True" ended="05/06/2019 20:59:43" isEndedSynced="True" />
+    <Attempt id="450" started="05/06/2019 21:00:54" isStartedSynced="True" ended="05/06/2019 21:05:13" isEndedSynced="True" />
+    <Attempt id="451" started="05/06/2019 21:05:20" isStartedSynced="True" ended="05/06/2019 21:09:29" isEndedSynced="True" />
+    <Attempt id="452" started="05/06/2019 21:09:38" isStartedSynced="True" ended="05/06/2019 21:15:49" isEndedSynced="True" />
+    <Attempt id="453" started="05/06/2019 21:16:27" isStartedSynced="True" ended="05/06/2019 21:22:39" isEndedSynced="True" />
+    <Attempt id="454" started="05/06/2019 21:22:53" isStartedSynced="True" ended="05/06/2019 21:28:10" isEndedSynced="True" />
+    <Attempt id="455" started="05/06/2019 21:28:17" isStartedSynced="True" ended="05/06/2019 21:34:37" isEndedSynced="True" />
+    <Attempt id="456" started="05/06/2019 21:34:45" isStartedSynced="True" ended="05/06/2019 21:40:18" isEndedSynced="True" />
+    <Attempt id="457" started="05/06/2019 21:40:25" isStartedSynced="True" ended="05/06/2019 21:44:45" isEndedSynced="True" />
+    <Attempt id="458" started="05/06/2019 21:44:52" isStartedSynced="True" ended="05/06/2019 21:46:20" isEndedSynced="True" />
+    <Attempt id="459" started="05/06/2019 21:46:32" isStartedSynced="True" ended="05/06/2019 21:53:53" isEndedSynced="True" />
+    <Attempt id="460" started="05/06/2019 21:55:16" isStartedSynced="True" ended="05/06/2019 21:55:19" isEndedSynced="True" />
+    <Attempt id="461" started="05/06/2019 21:56:24" isStartedSynced="True" ended="05/06/2019 21:56:26" isEndedSynced="True" />
+    <Attempt id="462" started="05/06/2019 21:57:27" isStartedSynced="True" ended="05/06/2019 21:57:29" isEndedSynced="True" />
+    <Attempt id="463" started="05/06/2019 21:59:34" isStartedSynced="True" ended="05/06/2019 22:00:54" isEndedSynced="True" />
+    <Attempt id="464" started="05/06/2019 22:01:11" isStartedSynced="True" ended="05/06/2019 22:01:15" isEndedSynced="True" />
+    <Attempt id="465" started="05/06/2019 22:01:23" isStartedSynced="True" ended="05/06/2019 22:10:24" isEndedSynced="True" />
+    <Attempt id="466" started="05/06/2019 22:10:32" isStartedSynced="True" ended="05/06/2019 22:16:51" isEndedSynced="True" />
+    <Attempt id="467" started="05/06/2019 22:16:57" isStartedSynced="True" ended="05/06/2019 22:23:15" isEndedSynced="True" />
+    <Attempt id="468" started="05/06/2019 22:23:16" isStartedSynced="True" ended="05/06/2019 22:29:29" isEndedSynced="True" />
+    <Attempt id="469" started="05/06/2019 22:29:32" isStartedSynced="True" ended="05/06/2019 22:32:49" isEndedSynced="True" />
+    <Attempt id="470" started="05/06/2019 22:32:50" isStartedSynced="True" ended="05/06/2019 22:37:21" isEndedSynced="True" />
+    <Attempt id="471" started="05/07/2019 07:46:35" isStartedSynced="True" ended="05/07/2019 07:52:52" isEndedSynced="True" />
+    <Attempt id="472" started="05/07/2019 07:52:59" isStartedSynced="True" ended="05/07/2019 07:57:02" isEndedSynced="True" />
+    <Attempt id="473" started="05/07/2019 07:57:09" isStartedSynced="True" ended="05/07/2019 08:03:18" isEndedSynced="True" />
+    <Attempt id="474" started="05/07/2019 08:03:28" isStartedSynced="True" ended="05/07/2019 08:07:34" isEndedSynced="True" />
+    <Attempt id="475" started="05/07/2019 08:07:37" isStartedSynced="True" ended="05/07/2019 08:11:39" isEndedSynced="True" />
+    <Attempt id="476" started="05/07/2019 08:11:39" isStartedSynced="True" ended="05/07/2019 08:15:42" isEndedSynced="True" />
+    <Attempt id="477" started="05/07/2019 08:15:42" isStartedSynced="True" ended="05/07/2019 08:24:18" isEndedSynced="True" />
+    <Attempt id="478" started="05/07/2019 08:27:56" isStartedSynced="True" ended="05/07/2019 08:30:27" isEndedSynced="True" />
+    <Attempt id="479" started="05/07/2019 08:30:32" isStartedSynced="True" ended="05/07/2019 08:37:02" isEndedSynced="True" />
+    <Attempt id="480" started="05/07/2019 08:38:19" isStartedSynced="True" ended="05/07/2019 08:44:53" isEndedSynced="True" />
+    <Attempt id="481" started="05/07/2019 08:44:55" isStartedSynced="True" ended="05/07/2019 08:45:02" isEndedSynced="True" />
+    <Attempt id="482" started="05/07/2019 08:48:35" isStartedSynced="True" ended="05/07/2019 08:51:43" isEndedSynced="True" />
+    <Attempt id="483" started="05/07/2019 08:52:09" isStartedSynced="True" ended="05/07/2019 08:59:07" isEndedSynced="True" />
+    <Attempt id="484" started="05/07/2019 09:30:01" isStartedSynced="True" ended="05/07/2019 09:34:14" isEndedSynced="True" />
+    <Attempt id="485" started="05/07/2019 09:34:22" isStartedSynced="True" ended="05/07/2019 09:38:34" isEndedSynced="True" />
+    <Attempt id="486" started="05/07/2019 09:38:40" isStartedSynced="True" ended="05/07/2019 09:44:50" isEndedSynced="True" />
+    <Attempt id="487" started="05/07/2019 09:44:58" isStartedSynced="True" ended="05/07/2019 09:51:05" isEndedSynced="True" />
+    <Attempt id="488" started="05/07/2019 09:51:17" isStartedSynced="True" ended="05/07/2019 09:55:40" isEndedSynced="True" />
+    <Attempt id="489" started="05/07/2019 09:55:46" isStartedSynced="True" ended="05/07/2019 09:59:45" isEndedSynced="True" />
+    <Attempt id="490" started="05/07/2019 09:59:52" isStartedSynced="True" ended="05/07/2019 10:04:13" isEndedSynced="True" />
+    <Attempt id="491" started="05/07/2019 10:04:15" isStartedSynced="True" ended="05/07/2019 10:09:22" isEndedSynced="True" />
+    <Attempt id="492" started="05/07/2019 10:09:31" isStartedSynced="True" ended="05/07/2019 10:10:41" isEndedSynced="True" />
+    <Attempt id="493" started="05/07/2019 10:10:41" isStartedSynced="True" ended="05/07/2019 10:17:07" isEndedSynced="True" />
+    <Attempt id="494" started="05/07/2019 10:17:19" isStartedSynced="True" ended="05/07/2019 10:24:20" isEndedSynced="True" />
+    <Attempt id="495" started="05/07/2019 10:25:03" isStartedSynced="True" ended="05/07/2019 10:31:12" isEndedSynced="True" />
+    <Attempt id="496" started="05/07/2019 10:31:30" isStartedSynced="True" ended="05/07/2019 10:42:41" isEndedSynced="True" />
+    <Attempt id="497" started="05/07/2019 10:42:57" isStartedSynced="True" ended="05/07/2019 10:46:12" isEndedSynced="True" />
+    <Attempt id="498" started="05/07/2019 10:46:12" isStartedSynced="True" ended="05/07/2019 10:49:26" isEndedSynced="True" />
+    <Attempt id="499" started="05/07/2019 10:49:26" isStartedSynced="True" ended="05/07/2019 10:55:37" isEndedSynced="True" />
+    <Attempt id="500" started="05/07/2019 10:55:44" isStartedSynced="True" ended="05/07/2019 11:01:54" isEndedSynced="True" />
+    <Attempt id="501" started="05/07/2019 11:02:06" isStartedSynced="True" ended="05/07/2019 11:02:57" isEndedSynced="True" />
+    <Attempt id="502" started="05/07/2019 11:14:08" isStartedSynced="True" ended="05/07/2019 11:18:19" isEndedSynced="True" />
+    <Attempt id="503" started="05/07/2019 11:18:33" isStartedSynced="True" ended="05/07/2019 11:23:35" isEndedSynced="True" />
+    <Attempt id="504" started="05/07/2019 11:23:41" isStartedSynced="True" ended="05/07/2019 11:27:53" isEndedSynced="True" />
+    <Attempt id="505" started="05/07/2019 11:27:59" isStartedSynced="True" ended="05/07/2019 11:34:08" isEndedSynced="True" />
+    <Attempt id="506" started="05/07/2019 11:34:19" isStartedSynced="True" ended="05/07/2019 11:40:29" isEndedSynced="True" />
+    <Attempt id="507" started="05/07/2019 11:40:34" isStartedSynced="True" ended="05/07/2019 11:46:45" isEndedSynced="True" />
+    <Attempt id="508" started="05/07/2019 11:46:52" isStartedSynced="True" ended="05/07/2019 11:53:01" isEndedSynced="True" />
+    <Attempt id="509" started="05/07/2019 11:53:08" isStartedSynced="True" ended="05/07/2019 11:57:12" isEndedSynced="True" />
+    <Attempt id="510" started="05/07/2019 11:57:36" isStartedSynced="True" ended="05/07/2019 12:01:57" isEndedSynced="True" />
+    <Attempt id="511" started="05/07/2019 12:01:58" isStartedSynced="True" ended="05/07/2019 12:06:59" isEndedSynced="True" />
+    <Attempt id="512" started="05/07/2019 12:07:02" isStartedSynced="True" ended="05/07/2019 12:11:04" isEndedSynced="True" />
+    <Attempt id="513" started="05/07/2019 12:11:05" isStartedSynced="True" ended="05/07/2019 12:17:52" isEndedSynced="True" />
+    <Attempt id="514" started="05/07/2019 12:17:58" isStartedSynced="True" ended="05/07/2019 12:22:10" isEndedSynced="True" />
+    <Attempt id="515" started="05/07/2019 12:22:18" isStartedSynced="True" ended="05/07/2019 12:26:42" isEndedSynced="True" />
+    <Attempt id="516" started="05/07/2019 15:48:40" isStartedSynced="True" ended="05/07/2019 15:53:06" isEndedSynced="True" />
+    <Attempt id="517" started="05/07/2019 15:56:18" isStartedSynced="True" ended="05/07/2019 16:00:47" isEndedSynced="True" />
+    <Attempt id="518" started="05/07/2019 16:00:48" isStartedSynced="True" ended="05/07/2019 16:06:56" isEndedSynced="True" />
+    <Attempt id="519" started="05/07/2019 16:10:21" isStartedSynced="True" ended="05/07/2019 16:11:14" isEndedSynced="True" />
+    <Attempt id="520" started="05/07/2019 16:11:54" isStartedSynced="True" ended="05/07/2019 16:16:29" isEndedSynced="True" />
+    <Attempt id="521" started="05/07/2019 16:25:04" isStartedSynced="True" ended="05/07/2019 16:25:08" isEndedSynced="True" />
+    <Attempt id="522" started="05/07/2019 16:25:18" isStartedSynced="True" ended="05/07/2019 16:28:18" isEndedSynced="True" />
+    <Attempt id="523" started="05/07/2019 16:28:18" isStartedSynced="True" ended="05/07/2019 16:34:27" isEndedSynced="True" />
+    <Attempt id="524" started="05/07/2019 16:34:37" isStartedSynced="True" ended="05/07/2019 16:39:14" isEndedSynced="True" />
+    <Attempt id="525" started="05/07/2019 16:39:15" isStartedSynced="True" ended="05/07/2019 16:45:50" isEndedSynced="True" />
+    <Attempt id="526" started="05/07/2019 16:45:52" isStartedSynced="True" ended="05/07/2019 16:52:14" isEndedSynced="True" />
+    <Attempt id="527" started="05/07/2019 16:52:20" isStartedSynced="True" ended="05/07/2019 16:59:48" isEndedSynced="True" />
+    <Attempt id="528" started="05/07/2019 16:59:55" isStartedSynced="True" ended="05/07/2019 17:04:06" isEndedSynced="True" />
+    <Attempt id="529" started="05/07/2019 17:04:11" isStartedSynced="True" ended="05/07/2019 17:10:55" isEndedSynced="True" />
+    <Attempt id="530" started="05/07/2019 17:11:05" isStartedSynced="True" ended="05/07/2019 17:15:16" isEndedSynced="True" />
+    <Attempt id="531" started="05/07/2019 17:15:22" isStartedSynced="True" ended="05/07/2019 17:18:04" isEndedSynced="True" />
+    <Attempt id="532" started="05/11/2019 12:29:17" isStartedSynced="True" ended="05/11/2019 12:33:35" isEndedSynced="True" />
+    <Attempt id="533" started="05/11/2019 12:33:36" isStartedSynced="True" ended="05/11/2019 12:38:00" isEndedSynced="True" />
+    <Attempt id="534" started="05/11/2019 12:38:02" isStartedSynced="True" ended="05/11/2019 12:40:05" isEndedSynced="True" />
+    <Attempt id="535" started="05/11/2019 12:40:05" isStartedSynced="True" ended="05/11/2019 12:44:32" isEndedSynced="True" />
+    <Attempt id="536" started="05/11/2019 12:47:37" isStartedSynced="True" ended="05/11/2019 12:53:52" isEndedSynced="True" />
+    <Attempt id="537" started="05/11/2019 12:54:18" isStartedSynced="True" ended="05/11/2019 12:57:15" isEndedSynced="True" />
+    <Attempt id="538" started="05/11/2019 12:57:22" isStartedSynced="True" ended="05/11/2019 13:02:47" isEndedSynced="True" />
+    <Attempt id="539" started="05/11/2019 13:02:59" isStartedSynced="True" ended="05/11/2019 13:09:33" isEndedSynced="True" />
+    <Attempt id="540" started="05/11/2019 13:12:54" isStartedSynced="True" ended="05/11/2019 13:17:20" isEndedSynced="True" />
+    <Attempt id="541" started="05/11/2019 13:17:21" isStartedSynced="True" ended="05/11/2019 13:24:03" isEndedSynced="True" />
+    <Attempt id="542" started="05/11/2019 13:25:04" isStartedSynced="True" ended="05/11/2019 13:29:20" isEndedSynced="True" />
+    <Attempt id="543" started="05/11/2019 13:29:21" isStartedSynced="True" ended="05/11/2019 13:36:05" isEndedSynced="True" />
+    <Attempt id="544" started="05/11/2019 13:36:33" isStartedSynced="True" ended="05/11/2019 13:43:14" isEndedSynced="True" />
+    <Attempt id="545" started="05/12/2019 08:00:56" isStartedSynced="True" ended="05/12/2019 08:00:58" isEndedSynced="True" />
+    <Attempt id="546" started="05/12/2019 08:01:41" isStartedSynced="True" ended="05/12/2019 08:01:42" isEndedSynced="True" />
+    <Attempt id="547" started="05/12/2019 08:01:49" isStartedSynced="True" ended="05/12/2019 08:05:52" isEndedSynced="True" />
+    <Attempt id="548" started="05/12/2019 08:05:53" isStartedSynced="True" ended="05/12/2019 08:07:42" isEndedSynced="True" />
+    <Attempt id="549" started="05/12/2019 08:07:43" isStartedSynced="True" ended="05/12/2019 08:13:54" isEndedSynced="True" />
+    <Attempt id="550" started="05/12/2019 08:14:58" isStartedSynced="True" ended="05/12/2019 08:19:10" isEndedSynced="True" />
+    <Attempt id="551" started="05/12/2019 08:19:11" isStartedSynced="True" ended="05/12/2019 08:22:52" isEndedSynced="True" />
+    <Attempt id="552" started="05/12/2019 08:22:56" isStartedSynced="True" ended="05/12/2019 08:27:02" isEndedSynced="True" />
+    <Attempt id="553" started="05/12/2019 08:27:05" isStartedSynced="True" ended="05/12/2019 08:31:47" isEndedSynced="True" />
+    <Attempt id="554" started="05/12/2019 08:32:31" isStartedSynced="True" ended="05/12/2019 08:36:54" isEndedSynced="True" />
+    <Attempt id="555" started="05/12/2019 08:36:56" isStartedSynced="True" ended="05/12/2019 08:38:00" isEndedSynced="True" />
+    <Attempt id="556" started="05/12/2019 08:38:00" isStartedSynced="True" ended="05/12/2019 08:44:20" isEndedSynced="True" />
+    <Attempt id="557" started="05/12/2019 08:44:39" isStartedSynced="True" ended="05/12/2019 08:51:19" isEndedSynced="True" />
+    <Attempt id="558" started="05/12/2019 08:51:54" isStartedSynced="True" ended="05/12/2019 08:59:01" isEndedSynced="True" />
+    <Attempt id="559" started="05/12/2019 08:59:19" isStartedSynced="True" ended="05/12/2019 09:04:08" isEndedSynced="True" />
+    <Attempt id="560" started="05/12/2019 09:04:11" isStartedSynced="True" ended="05/12/2019 09:10:22" isEndedSynced="True" />
+    <Attempt id="561" started="05/12/2019 09:12:27" isStartedSynced="True" ended="05/12/2019 09:12:28" isEndedSynced="True" />
+    <Attempt id="562" started="05/12/2019 09:12:49" isStartedSynced="True" ended="05/12/2019 09:16:51" isEndedSynced="True" />
+    <Attempt id="563" started="05/12/2019 09:16:51" isStartedSynced="True" ended="05/12/2019 09:24:37" isEndedSynced="True" />
+    <Attempt id="564" started="05/12/2019 09:44:21" isStartedSynced="True" ended="05/12/2019 09:48:35" isEndedSynced="True" />
+    <Attempt id="565" started="05/12/2019 09:48:36" isStartedSynced="True" ended="05/12/2019 09:52:41" isEndedSynced="True" />
+    <Attempt id="566" started="05/12/2019 09:52:41" isStartedSynced="True" ended="05/12/2019 09:58:53" isEndedSynced="True" />
+    <Attempt id="567" started="05/12/2019 10:04:07" isStartedSynced="True" ended="05/12/2019 10:10:59" isEndedSynced="True" />
+    <Attempt id="568" started="05/12/2019 10:15:55" isStartedSynced="True" ended="05/12/2019 10:22:47" isEndedSynced="True" />
+    <Attempt id="569" started="05/12/2019 10:22:56" isStartedSynced="True" ended="05/12/2019 10:33:59" isEndedSynced="True" />
+    <Attempt id="570" started="05/12/2019 10:34:11" isStartedSynced="True" ended="05/12/2019 10:38:36" isEndedSynced="True" />
+    <Attempt id="571" started="05/12/2019 10:38:37" isStartedSynced="True" ended="05/12/2019 10:43:21" isEndedSynced="True" />
+    <Attempt id="572" started="05/12/2019 10:43:57" isStartedSynced="True" ended="05/12/2019 10:48:40" isEndedSynced="True" />
+    <Attempt id="573" started="10/09/2019 14:47:33" isStartedSynced="True" ended="10/09/2019 14:47:37" isEndedSynced="True" />
+    <Attempt id="574" started="10/09/2019 15:04:34" isStartedSynced="True" ended="10/09/2019 15:06:21" isEndedSynced="True" />
+    <Attempt id="575" started="10/09/2019 15:07:04" isStartedSynced="True" ended="10/09/2019 15:07:26" isEndedSynced="True" />
+    <Attempt id="576" started="10/09/2019 15:07:54" isStartedSynced="True" ended="10/09/2019 15:12:08" isEndedSynced="True" />
+    <Attempt id="577" started="10/09/2019 15:12:59" isStartedSynced="True" ended="10/09/2019 15:14:56" isEndedSynced="True" />
+    <Attempt id="578" started="10/09/2019 15:14:58" isStartedSynced="True" ended="10/09/2019 15:19:24" isEndedSynced="True" />
+    <Attempt id="579" started="10/09/2019 15:19:25" isStartedSynced="True" ended="10/09/2019 15:23:44" isEndedSynced="True" />
+    <Attempt id="580" started="10/09/2019 21:04:17" isStartedSynced="True" ended="10/09/2019 21:07:20" isEndedSynced="True" />
+    <Attempt id="581" started="10/09/2019 21:07:54" isStartedSynced="True" ended="10/09/2019 21:12:00" isEndedSynced="True" />
+    <Attempt id="582" started="10/09/2019 21:12:06" isStartedSynced="True" ended="10/09/2019 21:16:30" isEndedSynced="True" />
+    <Attempt id="583" started="10/09/2019 21:16:33" isStartedSynced="True" ended="10/09/2019 21:21:23" isEndedSynced="True" />
+    <Attempt id="584" started="10/09/2019 21:21:29" isStartedSynced="True" ended="10/09/2019 21:23:01" isEndedSynced="True" />
+    <Attempt id="585" started="10/09/2019 21:23:06" isStartedSynced="True" ended="10/09/2019 21:28:16" isEndedSynced="True" />
+    <Attempt id="586" started="10/09/2019 21:28:20" isStartedSynced="True" ended="10/09/2019 21:31:46" isEndedSynced="True" />
+    <Attempt id="587" started="10/09/2019 21:31:49" isStartedSynced="True" ended="10/09/2019 21:36:09" isEndedSynced="True" />
+    <Attempt id="588" started="10/09/2019 21:36:10" isStartedSynced="True" ended="10/09/2019 21:37:31" isEndedSynced="True" />
+    <Attempt id="589" started="10/09/2019 21:37:32" isStartedSynced="True" ended="10/09/2019 21:41:56" isEndedSynced="True" />
+    <Attempt id="590" started="10/09/2019 21:42:00" isStartedSynced="True" ended="10/09/2019 21:48:13" isEndedSynced="True" />
+    <Attempt id="591" started="10/10/2019 12:21:39" isStartedSynced="True" ended="10/10/2019 12:25:34" isEndedSynced="True" />
+    <Attempt id="592" started="10/10/2019 12:25:35" isStartedSynced="True" ended="10/10/2019 12:31:49" isEndedSynced="True" />
+    <Attempt id="593" started="10/10/2019 12:33:27" isStartedSynced="True" ended="10/10/2019 12:35:40" isEndedSynced="True" />
+    <Attempt id="594" started="10/10/2019 12:35:41" isStartedSynced="True" ended="10/10/2019 12:35:49" isEndedSynced="True" />
+    <Attempt id="595" started="10/10/2019 12:35:52" isStartedSynced="True" ended="10/10/2019 12:40:03" isEndedSynced="True" />
+    <Attempt id="596" started="10/10/2019 12:40:08" isStartedSynced="True" ended="10/10/2019 12:46:30" isEndedSynced="True" />
+    <Attempt id="597" started="10/10/2019 12:46:31" isStartedSynced="True" ended="10/10/2019 12:51:37" isEndedSynced="True" />
+    <Attempt id="598" started="10/10/2019 12:56:09" isStartedSynced="True" ended="10/10/2019 13:06:10" isEndedSynced="True">
+      <RealTime>00:10:00.8430000</RealTime>
+      <GameTime>00:09:56.9010000</GameTime>
+    </Attempt>
+    <Attempt id="599" started="10/10/2019 13:06:35" isStartedSynced="True" ended="10/10/2019 13:14:15" isEndedSynced="True" />
+    <Attempt id="600" started="10/10/2019 13:14:28" isStartedSynced="True" ended="10/10/2019 13:14:31" isEndedSynced="True" />
+    <Attempt id="601" started="10/10/2019 13:14:36" isStartedSynced="True" ended="10/10/2019 13:19:49" isEndedSynced="True" />
+    <Attempt id="602" started="10/10/2019 13:19:51" isStartedSynced="True" ended="10/10/2019 13:25:03" isEndedSynced="True" />
+    <Attempt id="603" started="10/10/2019 13:25:07" isStartedSynced="True" ended="10/10/2019 13:29:07" isEndedSynced="True" />
+    <Attempt id="604" started="10/10/2019 13:29:12" isStartedSynced="True" ended="10/10/2019 13:37:22" isEndedSynced="True" />
+    <Attempt id="605" started="10/10/2019 13:43:29" isStartedSynced="True" ended="10/10/2019 13:49:41" isEndedSynced="True" />
+    <Attempt id="606" started="10/10/2019 13:49:57" isStartedSynced="True" ended="10/10/2019 13:56:24" isEndedSynced="True" />
+    <Attempt id="607" started="10/10/2019 13:56:38" isStartedSynced="True" ended="10/10/2019 14:02:51" isEndedSynced="True" />
+    <Attempt id="608" started="10/10/2019 14:03:02" isStartedSynced="True" ended="10/10/2019 14:07:11" isEndedSynced="True" />
+    <Attempt id="609" started="10/10/2019 14:07:12" isStartedSynced="True" ended="10/10/2019 14:11:13" isEndedSynced="True" />
+    <Attempt id="610" started="10/10/2019 14:11:31" isStartedSynced="True" ended="10/10/2019 14:15:44" isEndedSynced="True" />
+    <Attempt id="611" started="10/10/2019 14:16:21" isStartedSynced="True" ended="10/10/2019 14:20:36" isEndedSynced="True" />
+    <Attempt id="612" started="10/10/2019 14:20:38" isStartedSynced="True" ended="10/10/2019 14:26:18" isEndedSynced="True" />
+    <Attempt id="613" started="10/10/2019 14:26:47" isStartedSynced="True" ended="10/10/2019 14:32:55" isEndedSynced="True" />
+    <Attempt id="614" started="10/10/2019 15:49:43" isStartedSynced="True" ended="10/10/2019 15:53:45" isEndedSynced="True" />
+    <Attempt id="615" started="10/10/2019 15:53:48" isStartedSynced="True" ended="10/10/2019 15:58:14" isEndedSynced="True" />
+    <Attempt id="616" started="10/10/2019 15:58:18" isStartedSynced="True" ended="10/10/2019 16:06:10" isEndedSynced="True" />
+    <Attempt id="617" started="10/10/2019 16:06:30" isStartedSynced="True" ended="10/10/2019 16:07:19" isEndedSynced="True" />
+    <Attempt id="618" started="10/10/2019 16:07:21" isStartedSynced="True" ended="10/10/2019 16:08:47" isEndedSynced="True" />
+    <Attempt id="619" started="10/10/2019 16:10:46" isStartedSynced="True" ended="10/10/2019 16:10:48" isEndedSynced="True" />
+    <Attempt id="620" started="10/10/2019 16:10:53" isStartedSynced="True" ended="10/10/2019 17:40:44" isEndedSynced="True" />
+    <Attempt id="621" started="10/10/2019 17:40:49" isStartedSynced="True" ended="10/10/2019 17:44:47" isEndedSynced="True" />
+    <Attempt id="622" started="10/10/2019 17:44:49" isStartedSynced="True" ended="10/10/2019 17:48:57" isEndedSynced="True" />
+    <Attempt id="623" started="10/10/2019 17:49:01" isStartedSynced="True" ended="10/10/2019 17:53:23" isEndedSynced="True" />
+    <Attempt id="624" started="10/10/2019 17:53:31" isStartedSynced="True" ended="10/10/2019 17:56:36" isEndedSynced="True" />
+    <Attempt id="625" started="10/10/2019 17:56:41" isStartedSynced="True" ended="10/10/2019 18:09:06" isEndedSynced="True" />
+    <Attempt id="626" started="10/10/2019 18:09:30" isStartedSynced="True" ended="10/10/2019 18:18:48" isEndedSynced="True" />
+    <Attempt id="627" started="10/10/2019 18:20:35" isStartedSynced="True" ended="10/10/2019 18:24:25" isEndedSynced="True" />
+    <Attempt id="628" started="10/10/2019 18:24:29" isStartedSynced="True" ended="10/10/2019 18:24:31" isEndedSynced="True" />
+    <Attempt id="629" started="10/10/2019 18:24:44" isStartedSynced="True" ended="10/10/2019 18:29:01" isEndedSynced="True" />
+    <Attempt id="630" started="10/11/2019 19:59:32" isStartedSynced="True" ended="10/11/2019 20:00:42" isEndedSynced="True" />
+    <Attempt id="631" started="10/11/2019 20:00:45" isStartedSynced="True" ended="10/11/2019 20:02:04" isEndedSynced="True" />
+    <Attempt id="632" started="10/11/2019 20:02:08" isStartedSynced="True" ended="10/11/2019 20:06:08" isEndedSynced="True" />
+    <Attempt id="633" started="10/11/2019 20:06:12" isStartedSynced="True" ended="10/11/2019 20:12:18" isEndedSynced="True" />
+    <Attempt id="634" started="10/11/2019 20:12:24" isStartedSynced="True" ended="10/11/2019 20:18:32" isEndedSynced="True" />
+    <Attempt id="635" started="10/11/2019 20:18:42" isStartedSynced="True" ended="10/11/2019 20:27:29" isEndedSynced="True" />
+    <Attempt id="636" started="10/11/2019 20:27:31" isStartedSynced="True" ended="10/11/2019 20:28:12" isEndedSynced="True" />
+    <Attempt id="637" started="10/11/2019 20:28:14" isStartedSynced="True" ended="10/11/2019 20:38:20" isEndedSynced="True">
+      <RealTime>00:10:05.9730000</RealTime>
+      <GameTime>00:10:02.2600000</GameTime>
+    </Attempt>
+    <Attempt id="638" started="10/11/2019 20:38:54" isStartedSynced="True" ended="10/11/2019 20:45:03" isEndedSynced="True" />
+    <Attempt id="639" started="10/11/2019 20:45:58" isStartedSynced="True" ended="10/11/2019 20:50:06" isEndedSynced="True" />
+    <Attempt id="640" started="10/11/2019 20:50:07" isStartedSynced="True" ended="10/11/2019 20:54:28" isEndedSynced="True" />
+    <Attempt id="641" started="10/11/2019 20:54:29" isStartedSynced="True" ended="10/11/2019 20:58:52" isEndedSynced="True" />
+    <Attempt id="642" started="10/11/2019 20:58:56" isStartedSynced="True" ended="10/11/2019 21:02:58" isEndedSynced="True" />
+    <Attempt id="643" started="10/11/2019 21:02:59" isStartedSynced="True" ended="10/11/2019 21:11:20" isEndedSynced="True" />
+    <Attempt id="644" started="10/11/2019 21:11:29" isStartedSynced="True" ended="10/11/2019 21:11:30" isEndedSynced="True" />
+    <Attempt id="645" started="10/11/2019 21:11:38" isStartedSynced="True" ended="10/11/2019 21:17:50" isEndedSynced="True" />
+    <Attempt id="646" started="10/11/2019 21:22:15" isStartedSynced="True" ended="10/11/2019 21:29:01" isEndedSynced="True" />
+    <Attempt id="647" started="10/11/2019 21:29:10" isStartedSynced="True" ended="10/11/2019 21:33:23" isEndedSynced="True" />
+    <Attempt id="648" started="10/11/2019 21:33:27" isStartedSynced="True" ended="10/11/2019 21:38:46" isEndedSynced="True" />
+    <Attempt id="649" started="10/11/2019 21:38:52" isStartedSynced="True" ended="10/11/2019 21:43:10" isEndedSynced="True" />
+    <Attempt id="650" started="10/11/2019 21:43:13" isStartedSynced="True" ended="10/11/2019 21:47:24" isEndedSynced="True" />
+    <Attempt id="651" started="10/11/2019 21:47:27" isStartedSynced="True" ended="10/11/2019 21:56:27" isEndedSynced="True" />
+    <Attempt id="652" started="10/11/2019 21:58:04" isStartedSynced="True" ended="10/11/2019 21:58:07" isEndedSynced="True" />
+    <Attempt id="653" started="10/11/2019 22:03:25" isStartedSynced="True" ended="10/11/2019 22:06:39" isEndedSynced="True" />
+    <Attempt id="654" started="10/11/2019 22:16:09" isStartedSynced="True" ended="10/11/2019 22:19:57" isEndedSynced="True" />
+    <Attempt id="655" started="10/11/2019 22:20:10" isStartedSynced="True" ended="10/11/2019 22:26:37" isEndedSynced="True" />
+    <Attempt id="656" started="10/11/2019 22:26:40" isStartedSynced="True" ended="10/11/2019 22:30:47" isEndedSynced="True" />
+    <Attempt id="657" started="10/11/2019 22:30:50" isStartedSynced="True" ended="10/11/2019 22:35:05" isEndedSynced="True" />
+    <Attempt id="658" started="10/11/2019 22:35:10" isStartedSynced="True" ended="10/11/2019 22:40:25" isEndedSynced="True" />
+    <Attempt id="659" started="10/11/2019 22:40:41" isStartedSynced="True" ended="10/11/2019 22:44:50" isEndedSynced="True" />
+    <Attempt id="660" started="10/11/2019 22:45:00" isStartedSynced="True" ended="10/11/2019 22:49:30" isEndedSynced="True" />
+    <Attempt id="661" started="10/11/2019 22:49:37" isStartedSynced="True" ended="10/11/2019 22:53:25" isEndedSynced="True" />
+    <Attempt id="662" started="10/11/2019 22:53:31" isStartedSynced="True" ended="10/11/2019 22:57:23" isEndedSynced="True" />
+    <Attempt id="663" started="10/11/2019 22:57:27" isStartedSynced="True" ended="10/11/2019 23:04:02" isEndedSynced="True" />
+    <Attempt id="664" started="10/11/2019 23:04:07" isStartedSynced="True" ended="10/11/2019 23:10:18" isEndedSynced="True" />
+    <Attempt id="665" started="10/11/2019 23:10:22" isStartedSynced="True" ended="10/11/2019 23:14:30" isEndedSynced="True" />
+    <Attempt id="666" started="10/11/2019 23:14:36" isStartedSynced="True" ended="10/11/2019 23:20:49" isEndedSynced="True" />
+    <Attempt id="667" started="10/11/2019 23:20:57" isStartedSynced="True" ended="10/11/2019 23:25:53" isEndedSynced="True" />
+    <Attempt id="668" started="11/06/2019 21:18:38" isStartedSynced="True" ended="11/06/2019 21:19:19" isEndedSynced="True" />
+    <Attempt id="669" started="11/06/2019 21:20:57" isStartedSynced="True" ended="11/06/2019 21:25:08" isEndedSynced="True" />
+    <Attempt id="670" started="11/06/2019 21:25:08" isStartedSynced="True" ended="11/06/2019 21:29:35" isEndedSynced="True" />
+    <Attempt id="671" started="11/06/2019 21:29:38" isStartedSynced="True" ended="11/06/2019 21:36:50" isEndedSynced="True" />
+    <Attempt id="672" started="11/06/2019 21:43:28" isStartedSynced="True" ended="11/06/2019 21:47:19" isEndedSynced="True" />
+    <Attempt id="673" started="11/06/2019 21:47:20" isStartedSynced="True" ended="11/06/2019 21:51:25" isEndedSynced="True" />
+    <Attempt id="674" started="11/06/2019 21:51:26" isStartedSynced="True" ended="11/06/2019 21:57:52" isEndedSynced="True" />
+    <Attempt id="675" started="11/06/2019 21:57:59" isStartedSynced="True" ended="11/06/2019 22:02:13" isEndedSynced="True" />
+    <Attempt id="676" started="11/06/2019 22:02:15" isStartedSynced="True" ended="11/06/2019 22:06:45" isEndedSynced="True" />
+    <Attempt id="677" started="12/31/2019 10:38:32" isStartedSynced="True" ended="12/31/2019 10:40:00" isEndedSynced="True" />
+    <Attempt id="678" started="12/31/2019 10:43:30" isStartedSynced="True" ended="12/31/2019 10:45:17" isEndedSynced="True" />
+    <Attempt id="679" started="12/31/2019 10:45:18" isStartedSynced="True" ended="12/31/2019 10:51:05" isEndedSynced="True" />
+    <Attempt id="680" started="12/31/2019 10:51:07" isStartedSynced="True" ended="12/31/2019 10:57:20" isEndedSynced="True" />
+    <Attempt id="681" started="12/31/2019 10:57:21" isStartedSynced="True" ended="12/31/2019 11:01:20" isEndedSynced="True" />
+    <Attempt id="682" started="12/31/2019 11:01:20" isStartedSynced="True" ended="12/31/2019 11:04:35" isEndedSynced="True" />
+    <Attempt id="683" started="12/31/2019 11:04:39" isStartedSynced="True" ended="12/31/2019 11:08:24" isEndedSynced="True" />
+    <Attempt id="684" started="12/31/2019 11:08:25" isStartedSynced="True" ended="12/31/2019 11:08:43" isEndedSynced="True" />
+    <Attempt id="685" started="03/31/2020 20:51:12" isStartedSynced="True" ended="03/31/2020 20:51:15" isEndedSynced="True" />
+    <Attempt id="686" started="03/31/2020 21:07:26" isStartedSynced="True" ended="03/31/2020 21:07:35" isEndedSynced="True" />
+    <Attempt id="687" started="03/31/2020 21:07:35" isStartedSynced="True" ended="03/31/2020 21:07:37" isEndedSynced="True" />
+    <Attempt id="688" started="03/31/2020 21:07:47" isStartedSynced="True" ended="03/31/2020 21:08:02" isEndedSynced="True" />
+    <Attempt id="689" started="04/01/2020 11:13:24" isStartedSynced="True" ended="04/01/2020 11:22:35" isEndedSynced="True" />
+    <Attempt id="690" started="04/01/2020 11:23:10" isStartedSynced="True" ended="04/01/2020 13:34:14" isEndedSynced="True" />
+    <Attempt id="691" started="04/01/2020 15:25:20" isStartedSynced="True" ended="04/01/2020 15:30:56" isEndedSynced="True" />
+    <Attempt id="692" started="04/01/2020 15:37:40" isStartedSynced="True" ended="04/01/2020 16:58:07" isEndedSynced="True" />
+    <Attempt id="693" started="04/01/2020 17:41:40" isStartedSynced="True" ended="04/01/2020 17:53:16" isEndedSynced="True" />
+    <Attempt id="694" started="04/01/2020 18:42:40" isStartedSynced="True" ended="04/01/2020 18:46:33" isEndedSynced="True" />
+    <Attempt id="695" started="04/01/2020 18:46:34" isStartedSynced="True" ended="04/01/2020 18:50:48" isEndedSynced="True" />
+    <Attempt id="696" started="04/01/2020 18:50:50" isStartedSynced="True" ended="04/01/2020 18:57:02" isEndedSynced="True" />
+    <Attempt id="697" started="04/01/2020 18:57:06" isStartedSynced="True" ended="04/01/2020 19:03:17" isEndedSynced="True" />
+    <Attempt id="698" started="04/01/2020 19:03:18" isStartedSynced="True" ended="04/01/2020 19:03:28" isEndedSynced="True" />
+    <Attempt id="699" started="04/01/2020 19:03:32" isStartedSynced="True" ended="04/01/2020 19:07:48" isEndedSynced="True" />
+    <Attempt id="700" started="04/01/2020 19:08:08" isStartedSynced="True" ended="04/01/2020 19:14:27" isEndedSynced="True" />
+    <Attempt id="701" started="04/01/2020 19:14:28" isStartedSynced="True" ended="04/01/2020 19:20:36" isEndedSynced="True" />
+    <Attempt id="702" started="04/01/2020 19:20:39" isStartedSynced="True" ended="04/01/2020 19:22:58" isEndedSynced="True" />
+    <Attempt id="703" started="04/01/2020 19:23:02" isStartedSynced="True" ended="04/01/2020 19:27:02" isEndedSynced="True" />
+    <Attempt id="704" started="04/01/2020 19:27:03" isStartedSynced="True" ended="04/01/2020 19:31:20" isEndedSynced="True" />
+    <Attempt id="705" started="04/01/2020 19:31:22" isStartedSynced="True" ended="04/01/2020 19:34:38" isEndedSynced="True" />
+    <Attempt id="706" started="04/01/2020 21:22:27" isStartedSynced="True" ended="04/01/2020 21:26:41" isEndedSynced="True" />
+    <Attempt id="707" started="04/01/2020 21:26:42" isStartedSynced="True" ended="04/01/2020 21:32:49" isEndedSynced="True" />
+    <Attempt id="708" started="04/01/2020 21:32:51" isStartedSynced="True" ended="04/01/2020 21:32:55" isEndedSynced="True" />
+    <Attempt id="709" started="04/01/2020 21:32:56" isStartedSynced="True" ended="04/01/2020 21:33:26" isEndedSynced="True" />
+    <Attempt id="710" started="04/01/2020 21:33:39" isStartedSynced="True" ended="04/01/2020 21:37:51" isEndedSynced="True" />
+    <Attempt id="711" started="04/01/2020 21:37:57" isStartedSynced="True" ended="04/01/2020 21:42:17" isEndedSynced="True" />
+    <Attempt id="712" started="04/01/2020 21:42:23" isStartedSynced="True" ended="04/01/2020 21:46:39" isEndedSynced="True" />
+    <Attempt id="713" started="04/01/2020 21:46:41" isStartedSynced="True" ended="04/01/2020 21:53:26" isEndedSynced="True" />
+    <Attempt id="714" started="04/01/2020 21:53:29" isStartedSynced="True" ended="04/01/2020 22:00:14" isEndedSynced="True" />
+    <Attempt id="715" started="04/01/2020 22:00:16" isStartedSynced="True" ended="04/01/2020 22:04:17" isEndedSynced="True" />
+    <Attempt id="716" started="04/01/2020 22:04:19" isStartedSynced="True" ended="04/01/2020 22:04:22" isEndedSynced="True" />
+    <Attempt id="717" started="04/01/2020 22:05:08" isStartedSynced="True" ended="04/01/2020 22:09:32" isEndedSynced="True" />
+    <Attempt id="718" started="04/01/2020 22:09:33" isStartedSynced="True" ended="04/01/2020 22:13:56" isEndedSynced="True" />
+    <Attempt id="719" started="04/01/2020 22:13:57" isStartedSynced="True" ended="04/01/2020 22:20:18" isEndedSynced="True" />
+    <Attempt id="720" started="04/01/2020 22:21:25" isStartedSynced="True" ended="04/01/2020 22:25:47" isEndedSynced="True" />
+    <Attempt id="721" started="04/01/2020 22:25:50" isStartedSynced="True" ended="04/01/2020 22:30:25" isEndedSynced="True" />
+    <Attempt id="722" started="04/01/2020 22:30:27" isStartedSynced="True" ended="04/01/2020 22:30:35" isEndedSynced="True" />
+    <Attempt id="723" started="04/01/2020 22:30:41" isStartedSynced="True" ended="04/01/2020 22:34:33" isEndedSynced="True" />
+    <Attempt id="724" started="04/01/2020 22:34:34" isStartedSynced="True" ended="04/01/2020 22:38:33" isEndedSynced="True" />
+    <Attempt id="725" started="04/01/2020 22:38:35" isStartedSynced="True" ended="04/01/2020 22:46:15" isEndedSynced="True" />
+    <Attempt id="726" started="04/01/2020 22:46:15" isStartedSynced="True" ended="04/01/2020 22:50:46" isEndedSynced="True" />
+    <Attempt id="727" started="04/01/2020 22:50:46" isStartedSynced="True" ended="04/01/2020 22:55:10" isEndedSynced="True" />
+    <Attempt id="728" started="04/01/2020 22:55:12" isStartedSynced="True" ended="04/01/2020 22:55:28" isEndedSynced="True" />
+    <Attempt id="729" started="04/01/2020 22:55:41" isStartedSynced="True" ended="04/01/2020 23:02:01" isEndedSynced="True" />
+    <Attempt id="730" started="04/01/2020 23:02:06" isStartedSynced="True" ended="04/01/2020 23:06:03" isEndedSynced="True" />
+    <Attempt id="731" started="04/01/2020 23:06:05" isStartedSynced="True" ended="04/01/2020 23:11:54" isEndedSynced="True" />
+    <Attempt id="732" started="04/01/2020 23:12:01" isStartedSynced="True" ended="04/01/2020 23:18:19" isEndedSynced="True" />
+    <Attempt id="733" started="04/01/2020 23:18:20" isStartedSynced="True" ended="04/01/2020 23:22:20" isEndedSynced="True" />
+    <Attempt id="734" started="04/01/2020 23:22:22" isStartedSynced="True" ended="04/01/2020 23:26:40" isEndedSynced="True" />
+    <Attempt id="735" started="04/01/2020 23:29:34" isStartedSynced="True" ended="04/01/2020 23:33:48" isEndedSynced="True" />
+    <Attempt id="736" started="04/01/2020 23:33:57" isStartedSynced="True" ended="04/01/2020 23:34:05" isEndedSynced="True" />
+    <Attempt id="737" started="04/01/2020 23:34:08" isStartedSynced="True" ended="04/01/2020 23:39:22" isEndedSynced="True" />
+    <Attempt id="738" started="04/01/2020 23:48:49" isStartedSynced="True" ended="04/01/2020 23:55:40" isEndedSynced="True" />
+    <Attempt id="739" started="04/02/2020 14:04:44" isStartedSynced="True" ended="04/02/2020 15:00:41" isEndedSynced="True" />
+    <Attempt id="740" started="04/02/2020 15:03:27" isStartedSynced="True" ended="04/02/2020 15:09:44" isEndedSynced="True" />
+    <Attempt id="741" started="04/02/2020 15:09:53" isStartedSynced="True" ended="04/02/2020 15:19:29" isEndedSynced="True" />
+    <Attempt id="742" started="04/02/2020 15:19:30" isStartedSynced="True" ended="04/02/2020 15:23:30" isEndedSynced="True" />
+    <Attempt id="743" started="04/02/2020 15:23:31" isStartedSynced="True" ended="04/02/2020 15:27:48" isEndedSynced="True" />
+    <Attempt id="744" started="04/02/2020 15:27:48" isStartedSynced="True" ended="04/02/2020 15:32:01" isEndedSynced="True" />
+    <Attempt id="745" started="04/02/2020 15:32:02" isStartedSynced="True" ended="04/02/2020 15:32:07" isEndedSynced="True" />
+    <Attempt id="746" started="04/02/2020 15:32:08" isStartedSynced="True" ended="04/02/2020 15:38:24" isEndedSynced="True" />
+    <Attempt id="747" started="04/02/2020 15:38:39" isStartedSynced="True" ended="04/02/2020 15:40:12" isEndedSynced="True" />
+    <Attempt id="748" started="04/02/2020 15:40:22" isStartedSynced="True" ended="04/02/2020 15:41:59" isEndedSynced="True" />
+    <Attempt id="749" started="04/02/2020 15:42:01" isStartedSynced="True" ended="04/02/2020 15:47:56" isEndedSynced="True" />
+    <Attempt id="750" started="04/02/2020 15:48:03" isStartedSynced="True" ended="04/02/2020 15:48:08" isEndedSynced="True" />
+    <Attempt id="751" started="04/02/2020 15:48:12" isStartedSynced="True" ended="04/02/2020 15:56:01" isEndedSynced="True" />
+    <Attempt id="752" started="04/02/2020 15:56:04" isStartedSynced="True" ended="04/02/2020 16:02:42" isEndedSynced="True" />
+    <Attempt id="753" started="04/02/2020 16:02:44" isStartedSynced="True" ended="04/02/2020 16:05:27" isEndedSynced="True" />
+    <Attempt id="754" started="04/02/2020 16:05:29" isStartedSynced="True" ended="04/02/2020 16:09:28" isEndedSynced="True" />
+    <Attempt id="755" started="04/02/2020 16:09:31" isStartedSynced="True" ended="04/02/2020 16:13:14" isEndedSynced="True" />
+    <Attempt id="756" started="04/02/2020 16:13:15" isStartedSynced="True" ended="04/02/2020 16:19:32" isEndedSynced="True" />
+    <Attempt id="757" started="04/02/2020 16:19:35" isStartedSynced="True" ended="04/02/2020 16:26:12" isEndedSynced="True" />
+    <Attempt id="758" started="04/02/2020 16:38:40" isStartedSynced="True" ended="04/02/2020 16:47:10" isEndedSynced="True">
+      <RealTime>00:08:30.1740000</RealTime>
+      <GameTime>00:08:26.9390000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>replay</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:12.6250000</RealTime>
+          <GameTime>00:03:12.4830000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:12.2180000</RealTime>
+        <GameTime>00:03:12.0450000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="-1">
+          <RealTime>00:03:17.5100000</RealTime>
+        </Time>
+        <Time id="626">
+          <RealTime>00:03:13.9620000</RealTime>
+          <GameTime>00:03:13.7460000</GameTime>
+        </Time>
+        <Time id="627">
+          <RealTime>00:03:13.4750000</RealTime>
+          <GameTime>00:03:13.3090000</GameTime>
+        </Time>
+        <Time id="629">
+          <RealTime>00:03:14.1490000</RealTime>
+          <GameTime>00:03:14.0100000</GameTime>
+        </Time>
+        <Time id="632">
+          <RealTime>00:03:13.8340000</RealTime>
+          <GameTime>00:03:13.6530000</GameTime>
+        </Time>
+        <Time id="633">
+          <RealTime>00:03:13.7590000</RealTime>
+          <GameTime>00:03:13.5890000</GameTime>
+        </Time>
+        <Time id="634">
+          <RealTime>00:03:13.6980000</RealTime>
+          <GameTime>00:03:13.5220000</GameTime>
+        </Time>
+        <Time id="635">
+          <RealTime>00:03:14.1250000</RealTime>
+          <GameTime>00:03:13.9310000</GameTime>
+        </Time>
+        <Time id="637">
+          <RealTime>00:03:15.0460000</RealTime>
+          <GameTime>00:03:14.8580000</GameTime>
+        </Time>
+        <Time id="638">
+          <RealTime>00:03:13.5050000</RealTime>
+          <GameTime>00:03:13.2880000</GameTime>
+        </Time>
+        <Time id="639">
+          <RealTime>00:03:14.1540000</RealTime>
+          <GameTime>00:03:14.0420000</GameTime>
+        </Time>
+        <Time id="640">
+          <RealTime>00:03:14.3270000</RealTime>
+          <GameTime>00:03:14.1530000</GameTime>
+        </Time>
+        <Time id="641">
+          <RealTime>00:03:14.5910000</RealTime>
+          <GameTime>00:03:14.4370000</GameTime>
+        </Time>
+        <Time id="642">
+          <RealTime>00:03:13.5490000</RealTime>
+          <GameTime>00:03:13.4080000</GameTime>
+        </Time>
+        <Time id="643">
+          <RealTime>00:03:13.7240000</RealTime>
+          <GameTime>00:03:13.5370000</GameTime>
+        </Time>
+        <Time id="645">
+          <RealTime>00:03:14.0190000</RealTime>
+          <GameTime>00:03:13.8550000</GameTime>
+        </Time>
+        <Time id="646">
+          <RealTime>00:03:14.7530000</RealTime>
+          <GameTime>00:03:14.6500000</GameTime>
+        </Time>
+        <Time id="647">
+          <RealTime>00:03:13.9200000</RealTime>
+          <GameTime>00:03:13.7410000</GameTime>
+        </Time>
+        <Time id="648">
+          <RealTime>00:03:13.6060000</RealTime>
+          <GameTime>00:03:13.4170000</GameTime>
+        </Time>
+        <Time id="649">
+          <RealTime>00:03:13.4490000</RealTime>
+          <GameTime>00:03:13.2600000</GameTime>
+        </Time>
+        <Time id="650">
+          <RealTime>00:03:13.8260000</RealTime>
+          <GameTime>00:03:13.6180000</GameTime>
+        </Time>
+        <Time id="651">
+          <RealTime>00:03:13.2370000</RealTime>
+          <GameTime>00:03:13.0690000</GameTime>
+        </Time>
+        <Time id="654">
+          <RealTime>00:03:14.0560000</RealTime>
+          <GameTime>00:03:13.8820000</GameTime>
+        </Time>
+        <Time id="655">
+          <RealTime>00:03:13.4300000</RealTime>
+          <GameTime>00:03:13.3040000</GameTime>
+        </Time>
+        <Time id="656">
+          <RealTime>00:03:13.1490000</RealTime>
+          <GameTime>00:03:12.9850000</GameTime>
+        </Time>
+        <Time id="657">
+          <RealTime>00:03:14.4140000</RealTime>
+          <GameTime>00:03:14.2340000</GameTime>
+        </Time>
+        <Time id="658">
+          <RealTime>00:03:12.7120000</RealTime>
+          <GameTime>00:03:12.5780000</GameTime>
+        </Time>
+        <Time id="659">
+          <RealTime>00:03:12.5500000</RealTime>
+          <GameTime>00:03:12.4230000</GameTime>
+        </Time>
+        <Time id="660">
+          <RealTime>00:03:13.6870000</RealTime>
+          <GameTime>00:03:13.5910000</GameTime>
+        </Time>
+        <Time id="661">
+          <RealTime>00:03:12.9850000</RealTime>
+          <GameTime>00:03:12.8450000</GameTime>
+        </Time>
+        <Time id="662">
+          <RealTime>00:03:13.6080000</RealTime>
+          <GameTime>00:03:13.4650000</GameTime>
+        </Time>
+        <Time id="663">
+          <RealTime>00:03:13.1950000</RealTime>
+          <GameTime>00:03:13.0050000</GameTime>
+        </Time>
+        <Time id="664">
+          <RealTime>00:03:13.4500000</RealTime>
+          <GameTime>00:03:13.3310000</GameTime>
+        </Time>
+        <Time id="665">
+          <RealTime>00:03:13.2250000</RealTime>
+          <GameTime>00:03:13.0540000</GameTime>
+        </Time>
+        <Time id="666">
+          <RealTime>00:03:12.8460000</RealTime>
+          <GameTime>00:03:12.7420000</GameTime>
+        </Time>
+        <Time id="669">
+          <RealTime>00:03:12.7900000</RealTime>
+          <GameTime>00:03:12.6810000</GameTime>
+        </Time>
+        <Time id="670">
+          <RealTime>00:03:13.2670000</RealTime>
+          <GameTime>00:03:13.1440000</GameTime>
+        </Time>
+        <Time id="671">
+          <RealTime>00:03:13.0790000</RealTime>
+          <GameTime>00:03:12.9380000</GameTime>
+        </Time>
+        <Time id="672">
+          <RealTime>00:03:13.4400000</RealTime>
+          <GameTime>00:03:13.2660000</GameTime>
+        </Time>
+        <Time id="673">
+          <RealTime>00:03:15.7830000</RealTime>
+          <GameTime>00:03:15.6640000</GameTime>
+        </Time>
+        <Time id="674">
+          <RealTime>00:03:12.8050000</RealTime>
+          <GameTime>00:03:12.6740000</GameTime>
+        </Time>
+        <Time id="675">
+          <RealTime>00:03:12.7480000</RealTime>
+          <GameTime>00:03:12.5750000</GameTime>
+        </Time>
+        <Time id="676">
+          <RealTime>00:03:12.6290000</RealTime>
+          <GameTime>00:03:12.5290000</GameTime>
+        </Time>
+        <Time id="679">
+          <RealTime>00:03:13.6870000</RealTime>
+          <GameTime>00:03:13.3610000</GameTime>
+        </Time>
+        <Time id="680">
+          <RealTime>00:03:13.5850000</RealTime>
+          <GameTime>00:03:13.4430000</GameTime>
+        </Time>
+        <Time id="681">
+          <RealTime>00:03:13.5370000</RealTime>
+          <GameTime>00:03:13.4040000</GameTime>
+        </Time>
+        <Time id="683">
+          <RealTime>00:03:14.2140000</RealTime>
+          <GameTime>00:03:14.0460000</GameTime>
+        </Time>
+        <Time id="690">
+          <RealTime>00:41:06.8340000</RealTime>
+          <GameTime>00:41:05.8120000</GameTime>
+        </Time>
+        <Time id="691">
+          <RealTime>00:03:28.3140000</RealTime>
+          <GameTime>00:03:27.8370000</GameTime>
+        </Time>
+        <Time id="692">
+          <RealTime>00:45:16.2330000</RealTime>
+          <GameTime>00:45:12.6260000</GameTime>
+        </Time>
+        <Time id="694">
+          <RealTime>00:03:13.7050000</RealTime>
+          <GameTime>00:03:13.5580000</GameTime>
+        </Time>
+        <Time id="695">
+          <RealTime>00:03:14.2520000</RealTime>
+          <GameTime>00:03:14.0150000</GameTime>
+        </Time>
+        <Time id="696">
+          <RealTime>00:03:13.3590000</RealTime>
+          <GameTime>00:03:13.2190000</GameTime>
+        </Time>
+        <Time id="697">
+          <RealTime>00:03:12.6290000</RealTime>
+          <GameTime>00:03:12.4300000</GameTime>
+        </Time>
+        <Time id="699">
+          <RealTime>00:03:12.9900000</RealTime>
+          <GameTime>00:03:12.7840000</GameTime>
+        </Time>
+        <Time id="700">
+          <RealTime>00:03:13.3830000</RealTime>
+          <GameTime>00:03:13.3160000</GameTime>
+        </Time>
+        <Time id="701">
+          <RealTime>00:03:13.3580000</RealTime>
+          <GameTime>00:03:13.2200000</GameTime>
+        </Time>
+        <Time id="703">
+          <RealTime>00:03:12.8190000</RealTime>
+          <GameTime>00:03:12.6130000</GameTime>
+        </Time>
+        <Time id="704">
+          <RealTime>00:03:13.7080000</RealTime>
+          <GameTime>00:03:13.5650000</GameTime>
+        </Time>
+        <Time id="706">
+          <RealTime>00:03:12.9840000</RealTime>
+          <GameTime>00:03:12.7940000</GameTime>
+        </Time>
+        <Time id="707">
+          <RealTime>00:03:12.9230000</RealTime>
+          <GameTime>00:03:12.7880000</GameTime>
+        </Time>
+        <Time id="710">
+          <RealTime>00:03:13.5580000</RealTime>
+          <GameTime>00:03:13.4110000</GameTime>
+        </Time>
+        <Time id="711">
+          <RealTime>00:03:12.2180000</RealTime>
+          <GameTime>00:03:12.0450000</GameTime>
+        </Time>
+        <Time id="712">
+          <RealTime>00:03:12.7300000</RealTime>
+          <GameTime>00:03:12.5730000</GameTime>
+        </Time>
+        <Time id="713">
+          <RealTime>00:03:12.9520000</RealTime>
+          <GameTime>00:03:12.8550000</GameTime>
+        </Time>
+        <Time id="714">
+          <RealTime>00:03:13.6770000</RealTime>
+          <GameTime>00:03:13.5280000</GameTime>
+        </Time>
+        <Time id="715">
+          <RealTime>00:03:12.6440000</RealTime>
+          <GameTime>00:03:12.5100000</GameTime>
+        </Time>
+        <Time id="717">
+          <RealTime>00:03:13.6200000</RealTime>
+          <GameTime>00:03:13.4280000</GameTime>
+        </Time>
+        <Time id="718">
+          <RealTime>00:03:13.1790000</RealTime>
+          <GameTime>00:03:13.0060000</GameTime>
+        </Time>
+        <Time id="719">
+          <RealTime>00:03:13.0340000</RealTime>
+          <GameTime>00:03:12.9220000</GameTime>
+        </Time>
+        <Time id="720">
+          <RealTime>00:03:12.6070000</RealTime>
+          <GameTime>00:03:12.5000000</GameTime>
+        </Time>
+        <Time id="721">
+          <RealTime>00:03:13.0130000</RealTime>
+          <GameTime>00:03:12.8390000</GameTime>
+        </Time>
+        <Time id="723">
+          <RealTime>00:03:12.8190000</RealTime>
+          <GameTime>00:03:12.7730000</GameTime>
+        </Time>
+        <Time id="724">
+          <RealTime>00:03:13.3090000</RealTime>
+          <GameTime>00:03:13.1300000</GameTime>
+        </Time>
+        <Time id="725">
+          <RealTime>00:03:14.1270000</RealTime>
+          <GameTime>00:03:14.0300000</GameTime>
+        </Time>
+        <Time id="726">
+          <RealTime>00:03:13.3570000</RealTime>
+          <GameTime>00:03:13.2190000</GameTime>
+        </Time>
+        <Time id="727">
+          <RealTime>00:03:13.0050000</RealTime>
+          <GameTime>00:03:12.8530000</GameTime>
+        </Time>
+        <Time id="729">
+          <RealTime>00:03:12.3750000</RealTime>
+          <GameTime>00:03:12.2790000</GameTime>
+        </Time>
+        <Time id="730">
+          <RealTime>00:03:12.8420000</RealTime>
+          <GameTime>00:03:12.7030000</GameTime>
+        </Time>
+        <Time id="731">
+          <RealTime>00:03:12.5930000</RealTime>
+          <GameTime>00:03:12.3930000</GameTime>
+        </Time>
+        <Time id="732">
+          <RealTime>00:03:13.7040000</RealTime>
+          <GameTime>00:03:13.5200000</GameTime>
+        </Time>
+        <Time id="733">
+          <RealTime>00:03:13.4500000</RealTime>
+          <GameTime>00:03:13.2530000</GameTime>
+        </Time>
+        <Time id="734">
+          <RealTime>00:03:12.4160000</RealTime>
+          <GameTime>00:03:12.2130000</GameTime>
+        </Time>
+        <Time id="735">
+          <RealTime>00:03:13.0990000</RealTime>
+          <GameTime>00:03:12.9230000</GameTime>
+        </Time>
+        <Time id="737">
+          <RealTime>00:03:12.5350000</RealTime>
+          <GameTime>00:03:12.3380000</GameTime>
+        </Time>
+        <Time id="738">
+          <RealTime>00:03:12.9310000</RealTime>
+          <GameTime>00:03:12.7510000</GameTime>
+        </Time>
+        <Time id="739">
+          <RealTime>00:13:18.3440000</RealTime>
+          <GameTime>00:12:38.8940000</GameTime>
+        </Time>
+        <Time id="740">
+          <RealTime>00:03:14.1310000</RealTime>
+          <GameTime>00:03:13.9270000</GameTime>
+        </Time>
+        <Time id="741">
+          <RealTime>00:03:12.5990000</RealTime>
+          <GameTime>00:03:12.3540000</GameTime>
+        </Time>
+        <Time id="742">
+          <RealTime>00:03:13.0350000</RealTime>
+          <GameTime>00:03:12.9250000</GameTime>
+        </Time>
+        <Time id="744">
+          <RealTime>00:03:13.2750000</RealTime>
+          <GameTime>00:03:13.1600000</GameTime>
+        </Time>
+        <Time id="746">
+          <RealTime>00:03:12.5650000</RealTime>
+          <GameTime>00:03:12.3350000</GameTime>
+        </Time>
+        <Time id="749">
+          <RealTime>00:03:13.2120000</RealTime>
+          <GameTime>00:03:13.0730000</GameTime>
+        </Time>
+        <Time id="751">
+          <RealTime>00:03:12.6000000</RealTime>
+          <GameTime>00:03:12.5040000</GameTime>
+        </Time>
+        <Time id="752">
+          <RealTime>00:03:12.5270000</RealTime>
+          <GameTime>00:03:12.4150000</GameTime>
+        </Time>
+        <Time id="754">
+          <RealTime>00:03:12.6380000</RealTime>
+          <GameTime>00:03:12.5410000</GameTime>
+        </Time>
+        <Time id="755">
+          <RealTime>00:03:12.6760000</RealTime>
+          <GameTime>00:03:12.4400000</GameTime>
+        </Time>
+        <Time id="756">
+          <RealTime>00:03:12.3620000</RealTime>
+          <GameTime>00:03:12.2710000</GameTime>
+        </Time>
+        <Time id="757">
+          <RealTime>00:03:12.8730000</RealTime>
+          <GameTime>00:03:12.7210000</GameTime>
+        </Time>
+        <Time id="758">
+          <RealTime>00:03:12.6250000</RealTime>
+          <GameTime>00:03:12.4830000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>peepeezza</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:51.5430000</RealTime>
+          <GameTime>00:04:48.5420000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.5720000</RealTime>
+        <GameTime>00:01:34.7510000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <GameTime>00:04:57.0420000</GameTime>
+        </Time>
+        <Time id="-1">
+          <RealTime>00:01:41.4340000</RealTime>
+        </Time>
+        <Time id="543">
+          <RealTime>00:01:42.5080000</RealTime>
+          <GameTime>00:01:40.4520000</GameTime>
+        </Time>
+        <Time id="544">
+          <RealTime>00:01:41.1930000</RealTime>
+          <GameTime>00:01:39.0830000</GameTime>
+        </Time>
+        <Time id="549">
+          <RealTime>00:01:43.4480000</RealTime>
+          <GameTime>00:01:41.4350000</GameTime>
+        </Time>
+        <Time id="556">
+          <RealTime>00:01:41.9040000</RealTime>
+          <GameTime>00:01:39.9860000</GameTime>
+        </Time>
+        <Time id="557">
+          <RealTime>00:01:42.1960000</RealTime>
+          <GameTime>00:01:40.0730000</GameTime>
+        </Time>
+        <Time id="558">
+          <RealTime>00:01:43.9950000</RealTime>
+          <GameTime>00:01:41.7620000</GameTime>
+        </Time>
+        <Time id="560">
+          <RealTime>00:01:42.7240000</RealTime>
+          <GameTime>00:01:40.7010000</GameTime>
+        </Time>
+        <Time id="563">
+          <RealTime>00:01:42.1990000</RealTime>
+          <GameTime>00:01:40.2120000</GameTime>
+        </Time>
+        <Time id="566">
+          <RealTime>00:01:44.9510000</RealTime>
+          <GameTime>00:01:42.9520000</GameTime>
+        </Time>
+        <Time id="567">
+          <RealTime>00:01:42.2990000</RealTime>
+          <GameTime>00:01:40.1700000</GameTime>
+        </Time>
+        <Time id="568">
+          <RealTime>00:01:40.5860000</RealTime>
+          <GameTime>00:01:38.5690000</GameTime>
+        </Time>
+        <Time id="569">
+          <RealTime>00:01:41.5090000</RealTime>
+          <GameTime>00:01:39.5320000</GameTime>
+        </Time>
+        <Time id="585">
+          <RealTime>00:01:43.1360000</RealTime>
+          <GameTime>00:01:39.5050000</GameTime>
+        </Time>
+        <Time id="590">
+          <RealTime>00:01:43.8840000</RealTime>
+          <GameTime>00:01:40.3550000</GameTime>
+        </Time>
+        <Time id="592">
+          <RealTime>00:01:41.6290000</RealTime>
+          <GameTime>00:01:38.9240000</GameTime>
+        </Time>
+        <Time id="596">
+          <RealTime>00:01:44.4320000</RealTime>
+          <GameTime>00:01:41.3070000</GameTime>
+        </Time>
+        <Time id="597">
+          <RealTime>00:01:43.4910000</RealTime>
+          <GameTime>00:01:40.4420000</GameTime>
+        </Time>
+        <Time id="598">
+          <RealTime>00:01:40.6600000</RealTime>
+          <GameTime>00:01:37.5350000</GameTime>
+        </Time>
+        <Time id="599">
+          <RealTime>00:01:41.0140000</RealTime>
+          <GameTime>00:01:37.9190000</GameTime>
+        </Time>
+        <Time id="601">
+          <RealTime>00:01:39.9490000</RealTime>
+          <GameTime>00:01:36.8250000</GameTime>
+        </Time>
+        <Time id="602">
+          <RealTime>00:01:42.5260000</RealTime>
+          <GameTime>00:01:39.6410000</GameTime>
+        </Time>
+        <Time id="604">
+          <RealTime>00:01:43.0600000</RealTime>
+          <GameTime>00:01:39.5910000</GameTime>
+        </Time>
+        <Time id="605">
+          <RealTime>00:01:41.1740000</RealTime>
+          <GameTime>00:01:38.0970000</GameTime>
+        </Time>
+        <Time id="606">
+          <RealTime>00:01:41.3080000</RealTime>
+          <GameTime>00:01:38.1320000</GameTime>
+        </Time>
+        <Time id="607">
+          <RealTime>00:01:40.4510000</RealTime>
+          <GameTime>00:01:37.5490000</GameTime>
+        </Time>
+        <Time id="613">
+          <RealTime>00:01:40.9630000</RealTime>
+          <GameTime>00:01:38.0130000</GameTime>
+        </Time>
+        <Time id="616">
+          <RealTime>00:01:40.3930000</RealTime>
+          <GameTime>00:01:36.8910000</GameTime>
+        </Time>
+        <Time id="626">
+          <RealTime>00:01:41.4400000</RealTime>
+          <GameTime>00:01:38.1570000</GameTime>
+        </Time>
+        <Time id="633">
+          <RealTime>00:01:41.7490000</RealTime>
+          <GameTime>00:01:38.3080000</GameTime>
+        </Time>
+        <Time id="634">
+          <RealTime>00:01:41.6020000</RealTime>
+          <GameTime>00:01:38.4230000</GameTime>
+        </Time>
+        <Time id="635">
+          <RealTime>00:01:40.3940000</RealTime>
+          <GameTime>00:01:37.2480000</GameTime>
+        </Time>
+        <Time id="637">
+          <RealTime>00:01:41.1090000</RealTime>
+          <GameTime>00:01:37.8430000</GameTime>
+        </Time>
+        <Time id="638">
+          <RealTime>00:01:39.2890000</RealTime>
+          <GameTime>00:01:36.3450000</GameTime>
+        </Time>
+        <Time id="643">
+          <RealTime>00:01:39.2160000</RealTime>
+          <GameTime>00:01:36.1020000</GameTime>
+        </Time>
+        <Time id="645">
+          <RealTime>00:01:41.6560000</RealTime>
+          <GameTime>00:01:38.4940000</GameTime>
+        </Time>
+        <Time id="646">
+          <RealTime>00:01:43.4540000</RealTime>
+          <GameTime>00:01:40.2030000</GameTime>
+        </Time>
+        <Time id="648">
+          <RealTime>00:01:40.7090000</RealTime>
+          <GameTime>00:01:37.6910000</GameTime>
+        </Time>
+        <Time id="651">
+          <RealTime>00:01:39.0650000</RealTime>
+          <GameTime>00:01:35.8810000</GameTime>
+        </Time>
+        <Time id="655">
+          <RealTime>00:01:39.4120000</RealTime>
+          <GameTime>00:01:36.4820000</GameTime>
+        </Time>
+        <Time id="658">
+          <RealTime>00:01:39.7930000</RealTime>
+          <GameTime>00:01:36.8180000</GameTime>
+        </Time>
+        <Time id="663">
+          <RealTime>00:01:42.1870000</RealTime>
+          <GameTime>00:01:38.8260000</GameTime>
+        </Time>
+        <Time id="664">
+          <RealTime>00:01:41.7720000</RealTime>
+          <GameTime>00:01:38.2810000</GameTime>
+        </Time>
+        <Time id="666">
+          <RealTime>00:01:40.5760000</RealTime>
+          <GameTime>00:01:37.8490000</GameTime>
+        </Time>
+        <Time id="671">
+          <RealTime>00:01:41.3760000</RealTime>
+          <GameTime>00:01:37.9640000</GameTime>
+        </Time>
+        <Time id="674">
+          <RealTime>00:01:41.4100000</RealTime>
+          <GameTime>00:01:38.2110000</GameTime>
+        </Time>
+        <Time id="680">
+          <RealTime>00:01:40.6360000</RealTime>
+          <GameTime>00:01:37.4950000</GameTime>
+        </Time>
+        <Time id="692">
+          <RealTime>00:04:45.2110000</RealTime>
+          <GameTime>00:04:40.3560000</GameTime>
+        </Time>
+        <Time id="696">
+          <RealTime>00:01:41.5730000</RealTime>
+          <GameTime>00:01:38.2620000</GameTime>
+        </Time>
+        <Time id="697">
+          <RealTime>00:01:40.6390000</RealTime>
+          <GameTime>00:01:37.4560000</GameTime>
+        </Time>
+        <Time id="700">
+          <RealTime>00:01:39.8820000</RealTime>
+          <GameTime>00:01:36.5130000</GameTime>
+        </Time>
+        <Time id="701">
+          <RealTime>00:01:39.5350000</RealTime>
+          <GameTime>00:01:36.1940000</GameTime>
+        </Time>
+        <Time id="707">
+          <RealTime>00:01:40.1760000</RealTime>
+          <GameTime>00:01:37.3210000</GameTime>
+        </Time>
+        <Time id="713">
+          <RealTime>00:01:40.2680000</RealTime>
+          <GameTime>00:01:36.8640000</GameTime>
+        </Time>
+        <Time id="714">
+          <RealTime>00:01:37.5720000</RealTime>
+          <GameTime>00:01:34.7510000</GameTime>
+        </Time>
+        <Time id="719">
+          <RealTime>00:01:41.7180000</RealTime>
+          <GameTime>00:01:38.2450000</GameTime>
+        </Time>
+        <Time id="725">
+          <RealTime>00:01:39.5130000</RealTime>
+          <GameTime>00:01:35.9210000</GameTime>
+        </Time>
+        <Time id="731">
+          <RealTime>00:01:41.1770000</RealTime>
+          <GameTime>00:01:37.8770000</GameTime>
+        </Time>
+        <Time id="732">
+          <RealTime>00:01:39.5830000</RealTime>
+          <GameTime>00:01:36.4330000</GameTime>
+        </Time>
+        <Time id="738">
+          <RealTime>00:01:39.9830000</RealTime>
+          <GameTime>00:01:36.8350000</GameTime>
+        </Time>
+        <Time id="739">
+          <RealTime>00:24:34.2980000</RealTime>
+          <GameTime>00:24:33.6250000</GameTime>
+        </Time>
+        <Time id="740">
+          <RealTime>00:01:39.6650000</RealTime>
+          <GameTime>00:01:36.6610000</GameTime>
+        </Time>
+        <Time id="741">
+          <RealTime>00:01:39.7930000</RealTime>
+          <GameTime>00:01:36.7630000</GameTime>
+        </Time>
+        <Time id="746">
+          <RealTime>00:01:38.7990000</RealTime>
+          <GameTime>00:01:35.9180000</GameTime>
+        </Time>
+        <Time id="749">
+          <RealTime>00:01:40.1300000</RealTime>
+          <GameTime>00:01:37.0660000</GameTime>
+        </Time>
+        <Time id="751">
+          <RealTime>00:01:40.2570000</RealTime>
+          <GameTime>00:01:37.0590000</GameTime>
+        </Time>
+        <Time id="752">
+          <RealTime>00:01:40.3570000</RealTime>
+          <GameTime>00:01:37.1510000</GameTime>
+        </Time>
+        <Time id="756">
+          <RealTime>00:01:42.0480000</RealTime>
+          <GameTime>00:01:38.8170000</GameTime>
+        </Time>
+        <Time id="757">
+          <RealTime>00:01:40.5760000</RealTime>
+          <GameTime>00:01:37.1810000</GameTime>
+        </Time>
+        <Time id="758">
+          <RealTime>00:01:38.9180000</RealTime>
+          <GameTime>00:01:36.0590000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>cocks</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:30.1740000</RealTime>
+          <GameTime>00:08:26.9390000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:38.6310000</RealTime>
+        <GameTime>00:03:38.3970000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:04:29.5500000</RealTime>
+        </Time>
+        <Time id="251">
+          <RealTime>00:03:44.8370000</RealTime>
+          <GameTime>00:03:44.5820000</GameTime>
+        </Time>
+        <Time id="278">
+          <RealTime>00:06:37.5060000</RealTime>
+          <GameTime>00:06:37.2790000</GameTime>
+        </Time>
+        <Time id="279">
+          <RealTime>00:06:30.8210000</RealTime>
+          <GameTime>00:06:30.5380000</GameTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:03:40.8660000</RealTime>
+          <GameTime>00:03:40.6420000</GameTime>
+        </Time>
+        <Time id="365">
+          <RealTime>00:03:48.0520000</RealTime>
+          <GameTime>00:03:47.9000000</GameTime>
+        </Time>
+        <Time id="598">
+          <RealTime>00:05:06.1440000</RealTime>
+          <GameTime>00:05:05.4570000</GameTime>
+        </Time>
+        <Time id="637">
+          <RealTime>00:05:09.8180000</RealTime>
+          <GameTime>00:05:09.5590000</GameTime>
+        </Time>
+        <Time id="758">
+          <RealTime>00:03:38.6310000</RealTime>
+          <GameTime>00:03:38.3970000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\Speedrun\LiveSplit\Components\LiveSplit.GTAVC.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>False</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="OMFSplit" type="bool">False</Setting>
+      <Setting id="Missions" type="bool">False</Setting>
+      <Setting id="Assets" type="bool">False</Setting>
+      <Setting id="Sunshine Autos" type="bool">False</Setting>
+      <Setting id="Odd Jobs" type="bool">False</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="Ken Rosenberg" type="bool">True</Setting>
+      <Setting id="An Old Friend" type="bool">True</Setting>
+      <Setting id="The Party" type="bool">False</Setting>
+      <Setting id="Back Alley Brawl" type="bool">False</Setting>
+      <Setting id="Jury Fury" type="bool">False</Setting>
+      <Setting id="Riot" type="bool">False</Setting>
+      <Setting id="Avery" type="bool">False</Setting>
+      <Setting id="Four Iron" type="bool">False</Setting>
+      <Setting id="Demolition Man" type="bool">False</Setting>
+      <Setting id="Two Bit Hit" type="bool">False</Setting>
+      <Setting id="Cortez" type="bool">True</Setting>
+      <Setting id="Treacherous Swine" type="bool">False</Setting>
+      <Setting id="Mall Shootout" type="bool">False</Setting>
+      <Setting id="Guardian Angels" type="bool">False</Setting>
+      <Setting id="Sir, Yes, Sir!" type="bool">True</Setting>
+      <Setting id="All Hands On Deck!" type="bool">True</Setting>
+      <Setting id="Diaz" type="bool">True</Setting>
+      <Setting id="The Chase" type="bool">False</Setting>
+      <Setting id="Phnom Penh '86" type="bool">False</Setting>
+      <Setting id="The Fastest Boat" type="bool">False</Setting>
+      <Setting id="Supply and Demand" type="bool">False</Setting>
+      <Setting id="Kent Paul" type="bool">True</Setting>
+      <Setting id="Death Row" type="bool">False</Setting>
+      <Setting id="Vercetti" type="bool">True</Setting>
+      <Setting id="Rub Out" type="bool">False</Setting>
+      <Setting id="Keep Your Friends Close..." type="bool">True</Setting>
+      <Setting id="Umberto Robina" type="bool">False</Setting>
+      <Setting id="Stunt Boat Challenge" type="bool">False</Setting>
+      <Setting id="Cannon Fodder" type="bool">False</Setting>
+      <Setting id="Naval Engagement" type="bool">False</Setting>
+      <Setting id="Trojan Voodoo" type="bool">False</Setting>
+      <Setting id="Auntie Poulet" type="bool">False</Setting>
+      <Setting id="Juju Scramble" type="bool">False</Setting>
+      <Setting id="Bombs Away!" type="bool">False</Setting>
+      <Setting id="Dirty Lickin's" type="bool">False</Setting>
+      <Setting id="Mitch Baker" type="bool">False</Setting>
+      <Setting id="Alloy Wheels Of Steel" type="bool">False</Setting>
+      <Setting id="Messing With The Man" type="bool">False</Setting>
+      <Setting id="Hog Tied" type="bool">False</Setting>
+      <Setting id="Love Fist" type="bool">False</Setting>
+      <Setting id="Love Juice" type="bool">False</Setting>
+      <Setting id="Psycho Killer" type="bool">False</Setting>
+      <Setting id="Publicity Tour" type="bool">False</Setting>
+      <Setting id="Phil Cassidy" type="bool">False</Setting>
+      <Setting id="Gun Runner" type="bool">False</Setting>
+      <Setting id="Boomshine Saigon" type="bool">False</Setting>
+      <Setting id="Mr. Black" type="bool">False</Setting>
+      <Setting id="Road Kill" type="bool">False</Setting>
+      <Setting id="Waste The Wife" type="bool">False</Setting>
+      <Setting id="Autocide" type="bool">False</Setting>
+      <Setting id="Check Out At The Check In" type="bool">False</Setting>
+      <Setting id="Loose Ends" type="bool">False</Setting>
+      <Setting id="Vercetti Mansion" type="bool">True</Setting>
+      <Setting id="Shakedown" type="bool">False</Setting>
+      <Setting id="Bar Brawl" type="bool">False</Setting>
+      <Setting id="Cop Land" type="bool">False</Setting>
+      <Setting id="Printworks" type="bool">True</Setting>
+      <Setting id="Spilling the Beans" type="bool">False</Setting>
+      <Setting id="Hit the Courier" type="bool">False</Setting>
+      <Setting id="Cap the Collector" type="bool">False</Setting>
+      <Setting id="Film Studio" type="bool">False</Setting>
+      <Setting id="Recruitment Drive" type="bool">False</Setting>
+      <Setting id="Dildo Dodo" type="bool">False</Setting>
+      <Setting id="Martha's Mug Shot" type="bool">False</Setting>
+      <Setting id="G-Spotlight" type="bool">False</Setting>
+      <Setting id="Kaufman Cabs" type="bool">False</Setting>
+      <Setting id="V.I.P." type="bool">False</Setting>
+      <Setting id="Friendly Rivalry" type="bool">False</Setting>
+      <Setting id="Cabmaggedon" type="bool">False</Setting>
+      <Setting id="Malibu" type="bool">False</Setting>
+      <Setting id="No Escape?" type="bool">False</Setting>
+      <Setting id="The Shootist" type="bool">False</Setting>
+      <Setting id="The Driver" type="bool">False</Setting>
+      <Setting id="The Job" type="bool">False</Setting>
+      <Setting id="Checkpoint Charlie (Boatyard)" type="bool">False</Setting>
+      <Setting id="Distribution (Cherry Poppers)" type="bool">False</Setting>
+      <Setting id="Pole Position ($300 Spent)" type="bool">False</Setting>
+      <Setting id="Rifle Range (45 Points)" type="bool">False</Setting>
+      <Setting id="Sunshine Autos Imports" type="bool">False</Setting>
+      <Setting id="List 1" type="bool">False</Setting>
+      <Setting id="List 2" type="bool">False</Setting>
+      <Setting id="List 3" type="bool">False</Setting>
+      <Setting id="List 4" type="bool">False</Setting>
+      <Setting id="Sunshine Autos Races" type="bool">False</Setting>
+      <Setting id="Terminal Velocity" type="bool">False</Setting>
+      <Setting id="Ocean Drive" type="bool">False</Setting>
+      <Setting id="Border Run" type="bool">False</Setting>
+      <Setting id="Capital Cruise" type="bool">False</Setting>
+      <Setting id="Tour!" type="bool">False</Setting>
+      <Setting id="VC Endurance" type="bool">False</Setting>
+      <Setting id="Stadium Events" type="bool">False</Setting>
+      <Setting id="Hotring" type="bool">False</Setting>
+      <Setting id="Bloodring" type="bool">False</Setting>
+      <Setting id="Dirtring" type="bool">False</Setting>
+      <Setting id="stadAll" type="bool">False</Setting>
+      <Setting id="Chopper Checkpoints" type="bool">False</Setting>
+      <Setting id="Ocean Beach" type="bool">False</Setting>
+      <Setting id="Vice Point" type="bool">False</Setting>
+      <Setting id="Little Haiti" type="bool">False</Setting>
+      <Setting id="Downtown" type="bool">False</Setting>
+      <Setting id="Off-Road Challenges" type="bool">False</Setting>
+      <Setting id="PCJ Playground" type="bool">False</Setting>
+      <Setting id="Cone Crazy" type="bool">False</Setting>
+      <Setting id="Trial By Dirt" type="bool">False</Setting>
+      <Setting id="Test Track" type="bool">False</Setting>
+      <Setting id="RC Top-Fun" type="bool">False</Setting>
+      <Setting id="RC Raider" type="bool">False</Setting>
+      <Setting id="RC Bandit" type="bool">False</Setting>
+      <Setting id="RC Baron" type="bool">False</Setting>
+      <Setting id="Vehicle Missions" type="bool">False</Setting>
+      <Setting id="Paramedic (Level 12)" type="bool">False</Setting>
+      <Setting id="Firefighter (Level 12)" type="bool">False</Setting>
+      <Setting id="Pizza Boy (Level 10)" type="bool">False</Setting>
+      <Setting id="Vigilante (Level 12)" type="bool">False</Setting>
+      <Setting id="Taxi (100 Fares)" type="bool">False</Setting>
+      <Setting id="Safehouses" type="bool">False</Setting>
+      <Setting id="1102 Washington Street" type="bool">False</Setting>
+      <Setting id="3321 Vice Point" type="bool">False</Setting>
+      <Setting id="El Swanko Casa" type="bool">False</Setting>
+      <Setting id="Hyman Condo" type="bool">False</Setting>
+      <Setting id="Links View" type="bool">False</Setting>
+      <Setting id="Ocean Heights" type="bool">False</Setting>
+      <Setting id="Skumole Shack" type="bool">False</Setting>
+      <Setting id="PackagesAll" type="bool">False</Setting>
+      <Setting id="PackagesEach" type="bool">False</Setting>
+      <Setting id="Stunt JumpsAll" type="bool">False</Setting>
+      <Setting id="Stunt JumpsEach" type="bool">False</Setting>
+      <Setting id="RampagesAll" type="bool">False</Setting>
+      <Setting id="RampagesEach" type="bool">False</Setting>
+      <Setting id="RobberiesAll" type="bool">False</Setting>
+      <Setting id="RobberiesEach" type="bool">False</Setting>
+      <Setting id="btgFinalSplit" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

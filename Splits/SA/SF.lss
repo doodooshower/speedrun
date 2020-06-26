@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto: San Andreas</GameName>
+  <CategoryName>Any% (No AJS)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>119</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/11/2020 22:21:42" isStartedSynced="True" ended="01/11/2020 22:23:16" isEndedSynced="True" />
+    <Attempt id="2" started="01/11/2020 22:24:07" isStartedSynced="True" ended="01/11/2020 22:31:56" isEndedSynced="True" />
+    <Attempt id="3" started="01/11/2020 22:32:38" isStartedSynced="True" ended="01/11/2020 22:35:09" isEndedSynced="True" />
+    <Attempt id="4" started="01/11/2020 22:35:32" isStartedSynced="True" ended="01/11/2020 22:36:36" isEndedSynced="True" />
+    <Attempt id="5" started="01/11/2020 22:36:56" isStartedSynced="True" ended="01/11/2020 22:37:56" isEndedSynced="True" />
+    <Attempt id="6" started="01/11/2020 22:38:24" isStartedSynced="True" ended="01/11/2020 22:39:39" isEndedSynced="True" />
+    <Attempt id="7" started="01/11/2020 22:40:02" isStartedSynced="True" ended="01/11/2020 22:48:58" isEndedSynced="True" />
+    <Attempt id="8" started="01/11/2020 22:50:50" isStartedSynced="True" ended="01/11/2020 23:34:36" isEndedSynced="True" />
+    <Attempt id="9" started="01/11/2020 23:41:07" isStartedSynced="True" ended="01/11/2020 23:42:29" isEndedSynced="True" />
+    <Attempt id="10" started="01/11/2020 23:42:59" isStartedSynced="True" ended="01/11/2020 23:45:13" isEndedSynced="True" />
+    <Attempt id="11" started="01/11/2020 23:45:35" isStartedSynced="True" ended="01/11/2020 23:47:05" isEndedSynced="True" />
+    <Attempt id="12" started="01/11/2020 23:47:28" isStartedSynced="True" ended="01/11/2020 23:48:59" isEndedSynced="True" />
+    <Attempt id="13" started="01/11/2020 23:49:21" isStartedSynced="True" ended="01/11/2020 23:50:48" isEndedSynced="True" />
+    <Attempt id="14" started="01/11/2020 23:51:09" isStartedSynced="True" ended="01/11/2020 23:52:11" isEndedSynced="True" />
+    <Attempt id="15" started="01/11/2020 23:52:32" isStartedSynced="True" ended="01/12/2020 01:14:51" isEndedSynced="True" />
+    <Attempt id="16" started="01/13/2020 01:37:31" isStartedSynced="True" ended="01/13/2020 01:37:54" isEndedSynced="True" />
+    <Attempt id="17" started="01/13/2020 01:38:46" isStartedSynced="True" ended="01/13/2020 01:39:06" isEndedSynced="True" />
+    <Attempt id="18" started="01/13/2020 01:39:28" isStartedSynced="True" ended="01/13/2020 01:42:47" isEndedSynced="True" />
+    <Attempt id="19" started="01/13/2020 01:43:10" isStartedSynced="True" ended="01/13/2020 01:53:57" isEndedSynced="True" />
+    <Attempt id="20" started="01/13/2020 01:59:36" isStartedSynced="True" ended="01/13/2020 02:01:20" isEndedSynced="True" />
+    <Attempt id="21" started="01/13/2020 02:01:42" isStartedSynced="True" ended="01/13/2020 02:11:49" isEndedSynced="True" />
+    <Attempt id="22" started="01/13/2020 02:12:31" isStartedSynced="True" ended="01/13/2020 02:13:45" isEndedSynced="True" />
+    <Attempt id="23" started="01/13/2020 02:14:07" isStartedSynced="True" ended="01/13/2020 02:15:12" isEndedSynced="True" />
+    <Attempt id="24" started="01/13/2020 02:15:35" isStartedSynced="True" ended="01/13/2020 02:15:53" isEndedSynced="True" />
+    <Attempt id="25" started="01/13/2020 02:16:17" isStartedSynced="True" ended="01/13/2020 02:35:41" isEndedSynced="True" />
+    <Attempt id="26" started="01/13/2020 02:36:06" isStartedSynced="True" ended="01/13/2020 02:37:36" isEndedSynced="True" />
+    <Attempt id="27" started="01/13/2020 02:37:57" isStartedSynced="True" ended="01/13/2020 02:38:20" isEndedSynced="True" />
+    <Attempt id="28" started="01/13/2020 02:38:41" isStartedSynced="True" ended="01/13/2020 05:25:20" isEndedSynced="True" />
+    <Attempt id="29" started="01/13/2020 19:51:34" isStartedSynced="True" ended="01/13/2020 19:54:51" isEndedSynced="True" />
+    <Attempt id="30" started="01/13/2020 19:55:15" isStartedSynced="True" ended="01/13/2020 19:56:15" isEndedSynced="True" />
+    <Attempt id="31" started="01/13/2020 19:56:36" isStartedSynced="True" ended="01/13/2020 19:57:51" isEndedSynced="True" />
+    <Attempt id="32" started="01/13/2020 19:58:12" isStartedSynced="True" ended="01/13/2020 19:59:27" isEndedSynced="True" />
+    <Attempt id="33" started="01/13/2020 19:59:50" isStartedSynced="True" ended="01/13/2020 20:00:28" isEndedSynced="True" />
+    <Attempt id="34" started="01/13/2020 20:00:55" isStartedSynced="True" ended="01/13/2020 20:01:23" isEndedSynced="True" />
+    <Attempt id="35" started="01/13/2020 20:01:43" isStartedSynced="True" ended="01/13/2020 20:02:43" isEndedSynced="True" />
+    <Attempt id="36" started="01/13/2020 20:03:05" isStartedSynced="True" ended="01/13/2020 20:04:36" isEndedSynced="True" />
+    <Attempt id="37" started="01/13/2020 20:04:57" isStartedSynced="True" ended="01/13/2020 20:05:15" isEndedSynced="True" />
+    <Attempt id="38" started="01/13/2020 20:05:35" isStartedSynced="True" ended="01/13/2020 20:07:05" isEndedSynced="True" />
+    <Attempt id="39" started="01/13/2020 20:07:27" isStartedSynced="True" ended="01/13/2020 20:46:07" isEndedSynced="True" />
+    <Attempt id="40" started="01/13/2020 20:50:35" isStartedSynced="True" ended="01/13/2020 20:51:38" isEndedSynced="True" />
+    <Attempt id="41" started="01/13/2020 20:52:01" isStartedSynced="True" ended="01/13/2020 20:52:57" isEndedSynced="True" />
+    <Attempt id="42" started="01/13/2020 20:53:18" isStartedSynced="True" ended="01/13/2020 20:53:24" isEndedSynced="True" />
+    <Attempt id="43" started="01/13/2020 20:53:46" isStartedSynced="True" ended="01/13/2020 20:53:57" isEndedSynced="True" />
+    <Attempt id="44" started="01/13/2020 20:54:22" isStartedSynced="True" ended="01/13/2020 20:54:37" isEndedSynced="True" />
+    <Attempt id="45" started="01/13/2020 20:55:05" isStartedSynced="True" ended="01/13/2020 20:56:10" isEndedSynced="True" />
+    <Attempt id="46" started="01/13/2020 20:56:31" isStartedSynced="True" ended="01/13/2020 20:57:40" isEndedSynced="True" />
+    <Attempt id="47" started="01/13/2020 20:58:00" isStartedSynced="True" ended="01/13/2020 20:58:42" isEndedSynced="True" />
+    <Attempt id="48" started="01/13/2020 20:59:31" isStartedSynced="True" ended="01/13/2020 20:59:39" isEndedSynced="True" />
+    <Attempt id="49" started="01/13/2020 21:00:00" isStartedSynced="True" ended="01/13/2020 21:08:27" isEndedSynced="True" />
+    <Attempt id="50" started="01/13/2020 21:08:51" isStartedSynced="True" ended="01/13/2020 21:09:18" isEndedSynced="True" />
+    <Attempt id="51" started="01/13/2020 21:09:40" isStartedSynced="True" ended="01/13/2020 21:09:56" isEndedSynced="True" />
+    <Attempt id="52" started="01/13/2020 21:10:48" isStartedSynced="True" ended="01/13/2020 21:12:20" isEndedSynced="True" />
+    <Attempt id="53" started="01/13/2020 21:12:43" isStartedSynced="True" ended="01/13/2020 21:13:33" isEndedSynced="True" />
+    <Attempt id="54" started="01/13/2020 21:13:55" isStartedSynced="True" ended="01/13/2020 21:39:21" isEndedSynced="True" />
+    <Attempt id="55" started="01/13/2020 21:49:42" isStartedSynced="True" ended="01/13/2020 21:50:11" isEndedSynced="True" />
+    <Attempt id="56" started="01/13/2020 21:50:43" isStartedSynced="True" ended="01/13/2020 21:51:52" isEndedSynced="True" />
+    <Attempt id="57" started="01/13/2020 21:52:07" isStartedSynced="True" ended="01/13/2020 21:52:15" isEndedSynced="True" />
+    <Attempt id="58" started="01/13/2020 21:52:36" isStartedSynced="True" ended="01/13/2020 21:52:43" isEndedSynced="True" />
+    <Attempt id="59" started="01/13/2020 21:53:04" isStartedSynced="True" ended="01/13/2020 23:34:56" isEndedSynced="True" />
+    <Attempt id="60" started="01/14/2020 19:52:41" isStartedSynced="True" ended="01/14/2020 19:53:53" isEndedSynced="True" />
+    <Attempt id="61" started="01/14/2020 19:57:02" isStartedSynced="True" ended="01/14/2020 19:57:13" isEndedSynced="True" />
+    <Attempt id="62" started="01/14/2020 19:57:35" isStartedSynced="True" ended="01/14/2020 20:23:11" isEndedSynced="True" />
+    <Attempt id="63" started="01/14/2020 20:26:00" isStartedSynced="True" ended="01/14/2020 20:28:52" isEndedSynced="True" />
+    <Attempt id="64" started="01/14/2020 20:29:17" isStartedSynced="True" ended="01/14/2020 20:30:42" isEndedSynced="True" />
+    <Attempt id="65" started="01/14/2020 20:31:05" isStartedSynced="True" ended="01/14/2020 20:34:12" isEndedSynced="True" />
+    <Attempt id="66" started="01/14/2020 20:43:46" isStartedSynced="True" ended="01/14/2020 20:44:38" isEndedSynced="True" />
+    <Attempt id="67" started="01/14/2020 20:45:01" isStartedSynced="True" ended="01/14/2020 20:45:17" isEndedSynced="True" />
+    <Attempt id="68" started="01/14/2020 20:45:39" isStartedSynced="True" ended="01/14/2020 20:46:29" isEndedSynced="True" />
+    <Attempt id="69" started="01/14/2020 20:46:51" isStartedSynced="True" ended="01/14/2020 20:47:10" isEndedSynced="True" />
+    <Attempt id="70" started="01/14/2020 20:47:31" isStartedSynced="True" ended="01/14/2020 20:48:32" isEndedSynced="True" />
+    <Attempt id="71" started="01/14/2020 20:48:54" isStartedSynced="True" ended="01/14/2020 20:49:43" isEndedSynced="True" />
+    <Attempt id="72" started="01/14/2020 20:50:05" isStartedSynced="True" ended="01/14/2020 20:57:28" isEndedSynced="True" />
+    <Attempt id="73" started="01/14/2020 20:58:30" isStartedSynced="True" ended="01/14/2020 20:59:26" isEndedSynced="True" />
+    <Attempt id="74" started="01/14/2020 20:59:57" isStartedSynced="True" ended="01/14/2020 21:00:45" isEndedSynced="True" />
+    <Attempt id="75" started="01/14/2020 21:01:06" isStartedSynced="True" ended="01/14/2020 21:03:10" isEndedSynced="True" />
+    <Attempt id="76" started="01/14/2020 21:03:32" isStartedSynced="True" ended="01/14/2020 21:07:13" isEndedSynced="True" />
+    <Attempt id="77" started="01/14/2020 21:07:36" isStartedSynced="True" ended="01/14/2020 21:10:07" isEndedSynced="True" />
+    <Attempt id="78" started="01/14/2020 21:14:51" isStartedSynced="True" ended="01/14/2020 21:16:49" isEndedSynced="True" />
+    <Attempt id="79" started="01/14/2020 21:17:25" isStartedSynced="True" ended="01/14/2020 21:19:42" isEndedSynced="True" />
+    <Attempt id="80" started="01/14/2020 21:20:10" isStartedSynced="True" ended="01/14/2020 21:20:45" isEndedSynced="True" />
+    <Attempt id="81" started="01/14/2020 21:20:58" isStartedSynced="True" ended="01/14/2020 21:22:59" isEndedSynced="True" />
+    <Attempt id="82" started="01/14/2020 21:23:24" isStartedSynced="True" ended="01/14/2020 21:24:33" isEndedSynced="True" />
+    <Attempt id="83" started="01/14/2020 21:25:07" isStartedSynced="True" ended="01/14/2020 21:25:20" isEndedSynced="True" />
+    <Attempt id="84" started="01/14/2020 21:25:42" isStartedSynced="True" ended="01/14/2020 21:27:14" isEndedSynced="True" />
+    <Attempt id="85" started="01/14/2020 21:27:48" isStartedSynced="True" ended="01/14/2020 22:50:53" isEndedSynced="True" />
+    <Attempt id="86" started="01/20/2020 21:53:45" isStartedSynced="True" ended="01/20/2020 21:55:11" isEndedSynced="True" />
+    <Attempt id="87" started="01/20/2020 21:55:35" isStartedSynced="True" ended="01/20/2020 21:55:46" isEndedSynced="True" />
+    <Attempt id="88" started="01/20/2020 21:55:49" isStartedSynced="True" ended="01/20/2020 21:57:09" isEndedSynced="True" />
+    <Attempt id="89" started="01/20/2020 21:57:31" isStartedSynced="True" ended="01/20/2020 21:57:49" isEndedSynced="True" />
+    <Attempt id="90" started="01/20/2020 21:58:12" isStartedSynced="True" ended="01/20/2020 22:01:01" isEndedSynced="True" />
+    <Attempt id="91" started="01/20/2020 22:01:22" isStartedSynced="True" ended="01/20/2020 22:01:36" isEndedSynced="True" />
+    <Attempt id="92" started="01/20/2020 22:01:58" isStartedSynced="True" ended="01/20/2020 22:03:31" isEndedSynced="True" />
+    <Attempt id="93" started="01/20/2020 22:03:52" isStartedSynced="True" ended="01/21/2020 00:11:10" isEndedSynced="True" />
+    <Attempt id="94" started="01/21/2020 21:53:00" isStartedSynced="True" ended="01/21/2020 21:54:29" isEndedSynced="True" />
+    <Attempt id="95" started="01/21/2020 21:54:45" isStartedSynced="True" ended="01/21/2020 22:05:21" isEndedSynced="True" />
+    <Attempt id="96" started="01/21/2020 22:05:49" isStartedSynced="True" ended="01/21/2020 22:06:06" isEndedSynced="True" />
+    <Attempt id="97" started="01/21/2020 22:06:31" isStartedSynced="True" ended="01/21/2020 22:08:27" isEndedSynced="True" />
+    <Attempt id="98" started="01/21/2020 22:08:50" isStartedSynced="True" ended="01/21/2020 22:09:10" isEndedSynced="True" />
+    <Attempt id="99" started="01/21/2020 22:09:46" isStartedSynced="True" ended="01/21/2020 22:20:01" isEndedSynced="True" />
+    <Attempt id="100" started="01/21/2020 22:20:26" isStartedSynced="True" ended="01/21/2020 22:29:59" isEndedSynced="True" />
+    <Attempt id="101" started="01/21/2020 22:30:21" isStartedSynced="True" ended="01/21/2020 22:30:45" isEndedSynced="True" />
+    <Attempt id="102" started="01/21/2020 22:31:05" isStartedSynced="True" ended="01/21/2020 22:31:23" isEndedSynced="True" />
+    <Attempt id="103" started="01/21/2020 22:32:01" isStartedSynced="True" ended="01/21/2020 22:32:56" isEndedSynced="True" />
+    <Attempt id="104" started="01/21/2020 22:33:20" isStartedSynced="True" ended="01/21/2020 22:33:44" isEndedSynced="True" />
+    <Attempt id="105" started="01/21/2020 22:34:05" isStartedSynced="True" ended="01/21/2020 22:35:09" isEndedSynced="True" />
+    <Attempt id="106" started="01/21/2020 22:35:33" isStartedSynced="True" ended="01/21/2020 22:36:49" isEndedSynced="True" />
+    <Attempt id="107" started="01/21/2020 22:37:12" isStartedSynced="True" ended="01/21/2020 22:38:39" isEndedSynced="True" />
+    <Attempt id="108" started="01/21/2020 22:39:00" isStartedSynced="True" ended="01/21/2020 22:39:32" isEndedSynced="True" />
+    <Attempt id="109" started="01/21/2020 22:39:53" isStartedSynced="True" ended="01/21/2020 22:41:22" isEndedSynced="True" />
+    <Attempt id="110" started="01/21/2020 22:41:48" isStartedSynced="True" ended="01/21/2020 22:42:59" isEndedSynced="True" />
+    <Attempt id="111" started="01/21/2020 22:43:20" isStartedSynced="True" ended="01/21/2020 22:44:45" isEndedSynced="True" />
+    <Attempt id="112" started="01/21/2020 22:45:07" isStartedSynced="True" ended="01/21/2020 22:46:21" isEndedSynced="True" />
+    <Attempt id="113" started="01/21/2020 22:46:42" isStartedSynced="True" ended="01/21/2020 22:48:57" isEndedSynced="True" />
+    <Attempt id="114" started="01/21/2020 22:49:41" isStartedSynced="True" ended="01/21/2020 22:50:19" isEndedSynced="True" />
+    <Attempt id="115" started="01/21/2020 22:50:44" isStartedSynced="True" ended="01/21/2020 22:53:37" isEndedSynced="True" />
+    <Attempt id="116" started="01/21/2020 22:53:58" isStartedSynced="True" ended="01/21/2020 22:54:12" isEndedSynced="True" />
+    <Attempt id="117" started="01/21/2020 22:54:34" isStartedSynced="True" ended="01/21/2020 22:54:52" isEndedSynced="True" />
+    <Attempt id="118" started="01/21/2020 22:55:12" isStartedSynced="True" ended="01/22/2020 00:13:16" isEndedSynced="True" />
+    <Attempt id="119" started="01/23/2020 23:17:11" isStartedSynced="True" ended="01/24/2020 02:40:27" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Wear Flowers In Your Hair</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAAAyxJREFUeF7tm7Fu2zAQhv0ERh/AQ2dPfQonYwcXWfsI8RM4yO40uwt4doGgozMEyGQUyNLBDxAYHTL2ERT+AiTI9C/yKJ0lOeIBHxBId0fdT0pULHJQ0T4ZvhtWhr+GRAh8EYNY5JAYy6NJkH02oACWqArIhZwuY3GaiAy9pVm4DXKXjQjmr4nXvhr+G1iwJmgDbdnGfDVx2g8DCzolaLNozEeTUjvlkPeBtjNj5zWh1mbxGZkI7JwmR4Ypijm2wTU5ps2BfTEwp1Imk0kyn8+T9XrtBD7wZTnq8PDrIXn791YKi7E4sGcDczoCxWy322S/3weBGE0hNAUQDf3hcJgsFgtaXAjL5TLNxdoIQVOAVwNzyMEFbzYbWlAVkKuuCFoCiHof9zIrpA7IydqSoiXAbwM7mTObzWgBGiA3a1OChgB4B2cnckajUbLb7ejFa4E2WNs+NATwDn9MYeyiy8C9HTpD4MHK2vahIYD3fV/S+yh6Op0exeKY5MGJNuxYCRoCOOd+zNnsgotIek8ydVZ5P9AQwPmvru/hh/mcxTHgy3Jk4FZjcS40BGAHc1xTH4ZtyDwOX9ftVGVKbFWAKj3meqCenQDj8ZjGuEAMywXOTgDmL4HlAlGAvgigSRQgChAFoIVnsBgLejAnChAFiALQ4gHzb5ooQBQgCkALz2AxFvRgThQgChAFoMUD5t80UYBzFIDlAmiL+buIArQpQO9/FO39z+K9+DDSh09jKh9HXSMB57r8cVTl8zjWA+BTeFEI/I1jkrUCaKPYphQNAdQXSFTB9Yl99XNFi5PA8ll0e4kMRhErTArLaZFaZxdJXX27ooVJYTktUuvsMrmXPy+0MAmIZTktcuvcQsm6vY9nB8trkVunlsriXJ3eB5cXlzS3xYF1ZrH07c0tLUrK/d09zWuBeg8My+WD9gehGEyTuJddwEf6olN16D89PqXDXtjzwN6ek5roVvgglG7Z68KWmVNT3JdE7SOLgNvct2EztTa2zTUB259Yak1tnGwKPOOC7dRbZ5ugbGdqkGlvnm4KXLPonpcaRgSGEhKHbJ/3vm4rgpecG4Oj8MHgHduGa1kS4X3LAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:48:48.4100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>01:55:59.1130000</RealTime>
+        </Time>
+        <Time id="93">
+          <RealTime>01:56:26.7290000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>02:00:40.0770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>555 WE RESET</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAAAyxJREFUeF7tm7Fu2zAQhv0ERh/AQ2dPfQonYwcXWfsI8RM4yO40uwt4doGgozMEyGQUyNLBDxAYHTL2ERT+AiTI9C/yKJ0lOeIBHxBId0fdT0pULHJQ0T4ZvhtWhr+GRAh8EYNY5JAYy6NJkH02oACWqArIhZwuY3GaiAy9pVm4DXKXjQjmr4nXvhr+G1iwJmgDbdnGfDVx2g8DCzolaLNozEeTUjvlkPeBtjNj5zWh1mbxGZkI7JwmR4Ypijm2wTU5ps2BfTEwp1Imk0kyn8+T9XrtBD7wZTnq8PDrIXn791YKi7E4sGcDczoCxWy322S/3weBGE0hNAUQDf3hcJgsFgtaXAjL5TLNxdoIQVOAVwNzyMEFbzYbWlAVkKuuCFoCiHof9zIrpA7IydqSoiXAbwM7mTObzWgBGiA3a1OChgB4B2cnckajUbLb7ejFa4E2WNs+NATwDn9MYeyiy8C9HTpD4MHK2vahIYD3fV/S+yh6Op0exeKY5MGJNuxYCRoCOOd+zNnsgotIek8ydVZ5P9AQwPmvru/hh/mcxTHgy3Jk4FZjcS40BGAHc1xTH4ZtyDwOX9ftVGVKbFWAKj3meqCenQDj8ZjGuEAMywXOTgDmL4HlAlGAvgigSRQgChAFoIVnsBgLejAnChAFiALQ4gHzb5ooQBQgCkALz2AxFvRgThQgChAFoMUD5t80UYBzFIDlAmiL+buIArQpQO9/FO39z+K9+DDSh09jKh9HXSMB57r8cVTl8zjWA+BTeFEI/I1jkrUCaKPYphQNAdQXSFTB9Yl99XNFi5PA8ll0e4kMRhErTArLaZFaZxdJXX27ooVJYTktUuvsMrmXPy+0MAmIZTktcuvcQsm6vY9nB8trkVunlsriXJ3eB5cXlzS3xYF1ZrH07c0tLUrK/d09zWuBeg8My+WD9gehGEyTuJddwEf6olN16D89PqXDXtjzwN6ek5roVvgglG7Z68KWmVNT3JdE7SOLgNvct2EztTa2zTUB259Yak1tnGwKPOOC7dRbZ5ugbGdqkGlvnm4KXLPonpcaRgSGEhKHbJ/3vm4rgpecG4Oj8MHgHduGa1kS4X3LAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:23.6670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:04:34.2740000</RealTime>
+        </Time>
+        <Time id="93">
+          <RealTime>00:04:23.6670000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:04:45.5730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Deconstruction</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAAAyxJREFUeF7tm7Fu2zAQhv0ERh/AQ2dPfQonYwcXWfsI8RM4yO40uwt4doGgozMEyGQUyNLBDxAYHTL2ERT+AiTI9C/yKJ0lOeIBHxBId0fdT0pULHJQ0T4ZvhtWhr+GRAh8EYNY5JAYy6NJkH02oACWqArIhZwuY3GaiAy9pVm4DXKXjQjmr4nXvhr+G1iwJmgDbdnGfDVx2g8DCzolaLNozEeTUjvlkPeBtjNj5zWh1mbxGZkI7JwmR4Ypijm2wTU5ps2BfTEwp1Imk0kyn8+T9XrtBD7wZTnq8PDrIXn791YKi7E4sGcDczoCxWy322S/3weBGE0hNAUQDf3hcJgsFgtaXAjL5TLNxdoIQVOAVwNzyMEFbzYbWlAVkKuuCFoCiHof9zIrpA7IydqSoiXAbwM7mTObzWgBGiA3a1OChgB4B2cnckajUbLb7ejFa4E2WNs+NATwDn9MYeyiy8C9HTpD4MHK2vahIYD3fV/S+yh6Op0exeKY5MGJNuxYCRoCOOd+zNnsgotIek8ydVZ5P9AQwPmvru/hh/mcxTHgy3Jk4FZjcS40BGAHc1xTH4ZtyDwOX9ftVGVKbFWAKj3meqCenQDj8ZjGuEAMywXOTgDmL4HlAlGAvgigSRQgChAFoIVnsBgLejAnChAFiALQ4gHzb5ooQBQgCkALz2AxFvRgThQgChAFoMUD5t80UYBzFIDlAmiL+buIArQpQO9/FO39z+K9+DDSh09jKh9HXSMB57r8cVTl8zjWA+BTeFEI/I1jkrUCaKPYphQNAdQXSFTB9Yl99XNFi5PA8ll0e4kMRhErTArLaZFaZxdJXX27ooVJYTktUuvsMrmXPy+0MAmIZTktcuvcQsm6vY9nB8trkVunlsriXJ3eB5cXlzS3xYF1ZrH07c0tLUrK/d09zWuBeg8My+WD9gehGEyTuJddwEf6olN16D89PqXDXtjzwN6ek5roVvgglG7Z68KWmVNT3JdE7SOLgNvct2EztTa2zTUB259Yak1tnGwKPOOC7dRbZ5ugbGdqkGlvnm4KXLPonpcaRgSGEhKHbJ/3vm4rgpecG4Oj8MHgHduGa1kS4X3LAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:06.1400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:02:10.0010000</RealTime>
+        </Time>
+        <Time id="93">
+          <RealTime>00:02:06.1400000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:02:21.4500000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Flipping Oportunity</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:34.2010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:05:43.0410000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:05:34.2010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jizzy 2x</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAUAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAABOBJREFUeF7tmzGOFTEMhvcAFLR0NPSIAyBqqu1okTgAHICCko6KGnEARE9DR8sROMIeAfI97Ywy2d+JncnkvZWw9EnwJpPYiWN7ZrJX/2WOPE5cJz4kPiV+GnCNNrTlnnsrDxMY8SXxJ/G3E+6lD/qiz4uXpwkUvkkog/ZAn/TNGBcnLxK4sFL8CBiLMc8u7NPvCaXkDBj7bLHiXeIIV4+CDugyTQhGM93dCzodHigJQN1R/UHiWeJV4k0Bv3GNNupeJ+h2WJCk47DLP0+8T3xL/HJCW+7hXtVnA3QcPgkh41lFVvVHQhkYgT7oK+gZQyfBbfxIw0s6JmLIJJBiXMbjrhE374UxAlsD3Xelyd8J1fGGtwml7B6WFVfXgDGVLgJs6BIeTFSHK7jj54RSsAdW92PiZYK+CYSq3QJjO7cEtoSEMlN1tMLAXxNKsRasLitI2lN9P0owEereEnRwTkKodG66fq/xGIaBqk9gUljZiGehi+qrwL0VXidUByst17TAeNVfjScJtgRj1rIL19X9BdjWlGqlhzJKAQ+BwGXC+Fa24Zq6JwPbqlJdfVx3T47HrVW/PVA6l7rw/9r2uqXqBdXV9wYmi87S1gRjy1jk2GamF1A1qRtOEJzygaKQ01W/e1HZyMouGbJCrOb93nwfrNy6KCfBsdVkXWC6P66WG1WDfYgCRGVHUBpGGZ8aseDONqBeVg1P1Epdh7tNIy+dHRln84xQjf5W2mHGVXsLcjqKAco6InYItsKiGzqrNhmbbGDu/5r7e9PaUt2V9zOBzjLWTb5YjQnexAHzHV+t8KlNAIYR/JThOaOzQz5eIwZh8yrmM3/tkVS5WbRMxgvYGmU/gOdEPSSfgMbkYvMqqsGJ1gpSkS1ta9ulBpOwxAUmME9p0TiR68u/VZuMVdTFE60JgMXVWEl1vRdHILtDfv+0CQBK0DwKjyAaH0oPnDoBo+nJEGXAvtcT0FM+lw9r93IC2Pc9xqsAPGQC9j4CowR72cOeslrp6Xg0XsV8EEKxsuMWrCL7cXSVZ4HHKD3QXbW/ZfNAZFaCrIrq3IJ8PstwwPUJmEqXhkdtKkEOJqlGodTWKD2Hg27ly5CcxkJg8yrXCdXohCcQNtxtOKx8zXhHAMTmVThYoBqdKPNriWOwoeDaltsvOLzxzmEK82MIrmQNyO/Rer0X9CDGKD1yHEWU/EjCORvV+IT1lDfL9VnR/Fm/huMjiTxTVH0tZkXbI1efVYwYDk6PND+ZV4+8lTUBg6l2I+ipP8DhkdhoSvOrcPD1cxeerKNAN9VfQfMrsVkUQf7M7xwwRCvj1LDeLGVsih9Lml6QK6mu76F39R1pD9xnBJrHX5c96pj1ED0T4MxEHLR2C0VC83AU6Ya8rK71Ep0AR8oDbAmfIqVUVJ1tGP3dj5esylCF0+1hU/ZGpPrB9AhqVecC1wPvDuSH0IhUs8IRWM/3gMs3ytwcV9RvCXuneWhqNGU6JDYE3xihc3jfW3KWSaCkJcJ3ZJqhxi9ylkno4BDjF6Fj8qka+BJAt8OMz+VS/lxmAV2m/tkMwkGj6RlCgA67j8XvEU5amK/VD4Qxq2f+Zsusibg4w0uh7Dzibwnps7ukPYcQjVGYUrQnfXIP99LHlMg+QwhWPJPjwnyYyOE3rk0MaFdX/wBI9KIZB1XXRgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:33.7130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:03:47.6060000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:03:33.7130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Date</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:52.3380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:01:01.0900000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:00:52.3380000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>T-Bone Mendez 2x</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:34.8540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:04:34.8540000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:04:48.3740000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Outrider Skip</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAUAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAABOBJREFUeF7tmzGOFTEMhvcAFLR0NPSIAyBqqu1okTgAHICCko6KGnEARE9DR8sROMIeAfI97Ywy2d+JncnkvZWw9EnwJpPYiWN7ZrJX/2WOPE5cJz4kPiV+GnCNNrTlnnsrDxMY8SXxJ/G3E+6lD/qiz4uXpwkUvkkog/ZAn/TNGBcnLxK4sFL8CBiLMc8u7NPvCaXkDBj7bLHiXeIIV4+CDugyTQhGM93dCzodHigJQN1R/UHiWeJV4k0Bv3GNNupeJ+h2WJCk47DLP0+8T3xL/HJCW+7hXtVnA3QcPgkh41lFVvVHQhkYgT7oK+gZQyfBbfxIw0s6JmLIJJBiXMbjrhE374UxAlsD3Xelyd8J1fGGtwml7B6WFVfXgDGVLgJs6BIeTFSHK7jj54RSsAdW92PiZYK+CYSq3QJjO7cEtoSEMlN1tMLAXxNKsRasLitI2lN9P0owEereEnRwTkKodG66fq/xGIaBqk9gUljZiGehi+qrwL0VXidUByst17TAeNVfjScJtgRj1rIL19X9BdjWlGqlhzJKAQ+BwGXC+Fa24Zq6JwPbqlJdfVx3T47HrVW/PVA6l7rw/9r2uqXqBdXV9wYmi87S1gRjy1jk2GamF1A1qRtOEJzygaKQ01W/e1HZyMouGbJCrOb93nwfrNy6KCfBsdVkXWC6P66WG1WDfYgCRGVHUBpGGZ8aseDONqBeVg1P1Epdh7tNIy+dHRln84xQjf5W2mHGVXsLcjqKAco6InYItsKiGzqrNhmbbGDu/5r7e9PaUt2V9zOBzjLWTb5YjQnexAHzHV+t8KlNAIYR/JThOaOzQz5eIwZh8yrmM3/tkVS5WbRMxgvYGmU/gOdEPSSfgMbkYvMqqsGJ1gpSkS1ta9ulBpOwxAUmME9p0TiR68u/VZuMVdTFE60JgMXVWEl1vRdHILtDfv+0CQBK0DwKjyAaH0oPnDoBo+nJEGXAvtcT0FM+lw9r93IC2Pc9xqsAPGQC9j4CowR72cOeslrp6Xg0XsV8EEKxsuMWrCL7cXSVZ4HHKD3QXbW/ZfNAZFaCrIrq3IJ8PstwwPUJmEqXhkdtKkEOJqlGodTWKD2Hg27ly5CcxkJg8yrXCdXohCcQNtxtOKx8zXhHAMTmVThYoBqdKPNriWOwoeDaltsvOLzxzmEK82MIrmQNyO/Rer0X9CDGKD1yHEWU/EjCORvV+IT1lDfL9VnR/Fm/huMjiTxTVH0tZkXbI1efVYwYDk6PND+ZV4+8lTUBg6l2I+ipP8DhkdhoSvOrcPD1cxeerKNAN9VfQfMrsVkUQf7M7xwwRCvj1LDeLGVsih9Lml6QK6mu76F39R1pD9xnBJrHX5c96pj1ED0T4MxEHLR2C0VC83AU6Ya8rK71Ep0AR8oDbAmfIqVUVJ1tGP3dj5esylCF0+1hU/ZGpPrB9AhqVecC1wPvDuSH0IhUs8IRWM/3gMs3ytwcV9RvCXuneWhqNGU6JDYE3xihc3jfW3KWSaCkJcJ3ZJqhxi9ylkno4BDjF6Fj8qka+BJAt8OMz+VS/lxmAV2m/tkMwkGj6RlCgA67j8XvEU5amK/VD4Qxq2f+Zsusibg4w0uh7Dzibwnps7ukPYcQjVGYUrQnfXIP99LHlMg+QwhWPJPjwnyYyOE3rk0MaFdX/wBI9KIZB1XXRgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:48.3760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:02:48.3760000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:02:49.0770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Snail Trail (10:00-16:00)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAAAyxJREFUeF7tm7Fu2zAQhv0ERh/AQ2dPfQonYwcXWfsI8RM4yO40uwt4doGgozMEyGQUyNLBDxAYHTL2ERT+AiTI9C/yKJ0lOeIBHxBId0fdT0pULHJQ0T4ZvhtWhr+GRAh8EYNY5JAYy6NJkH02oACWqArIhZwuY3GaiAy9pVm4DXKXjQjmr4nXvhr+G1iwJmgDbdnGfDVx2g8DCzolaLNozEeTUjvlkPeBtjNj5zWh1mbxGZkI7JwmR4Ypijm2wTU5ps2BfTEwp1Imk0kyn8+T9XrtBD7wZTnq8PDrIXn791YKi7E4sGcDczoCxWy322S/3weBGE0hNAUQDf3hcJgsFgtaXAjL5TLNxdoIQVOAVwNzyMEFbzYbWlAVkKuuCFoCiHof9zIrpA7IydqSoiXAbwM7mTObzWgBGiA3a1OChgB4B2cnckajUbLb7ejFa4E2WNs+NATwDn9MYeyiy8C9HTpD4MHK2vahIYD3fV/S+yh6Op0exeKY5MGJNuxYCRoCOOd+zNnsgotIek8ydVZ5P9AQwPmvru/hh/mcxTHgy3Jk4FZjcS40BGAHc1xTH4ZtyDwOX9ftVGVKbFWAKj3meqCenQDj8ZjGuEAMywXOTgDmL4HlAlGAvgigSRQgChAFoIVnsBgLejAnChAFiALQ4gHzb5ooQBQgCkALz2AxFvRgThQgChAFoMUD5t80UYBzFIDlAmiL+buIArQpQO9/FO39z+K9+DDSh09jKh9HXSMB57r8cVTl8zjWA+BTeFEI/I1jkrUCaKPYphQNAdQXSFTB9Yl99XNFi5PA8ll0e4kMRhErTArLaZFaZxdJXX27ooVJYTktUuvsMrmXPy+0MAmIZTktcuvcQsm6vY9nB8trkVunlsriXJ3eB5cXlzS3xYF1ZrH07c0tLUrK/d09zWuBeg8My+WD9gehGEyTuJddwEf6olN16D89PqXDXtjzwN6ek5roVvgglG7Z68KWmVNT3JdE7SOLgNvct2EztTa2zTUB259Yak1tnGwKPOOC7dRbZ5ugbGdqkGlvnm4KXLPonpcaRgSGEhKHbJ/3vm4rgpecG4Oj8MHgHduGa1kS4X3LAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:59.2250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:05:59.2250000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:06:19.2400000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ice Cold Killa</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAUAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEZ0FNQQAAsY8L/GEFAAAAE3RFWHRTb2Z0d2FyZQBSZW5kZXJXYXJlzv4SIwAABOBJREFUeF7tmzGOFTEMhvcAFLR0NPSIAyBqqu1okTgAHICCko6KGnEARE9DR8sROMIeAfI97Ywy2d+JncnkvZWw9EnwJpPYiWN7ZrJX/2WOPE5cJz4kPiV+GnCNNrTlnnsrDxMY8SXxJ/G3E+6lD/qiz4uXpwkUvkkog/ZAn/TNGBcnLxK4sFL8CBiLMc8u7NPvCaXkDBj7bLHiXeIIV4+CDugyTQhGM93dCzodHigJQN1R/UHiWeJV4k0Bv3GNNupeJ+h2WJCk47DLP0+8T3xL/HJCW+7hXtVnA3QcPgkh41lFVvVHQhkYgT7oK+gZQyfBbfxIw0s6JmLIJJBiXMbjrhE374UxAlsD3Xelyd8J1fGGtwml7B6WFVfXgDGVLgJs6BIeTFSHK7jj54RSsAdW92PiZYK+CYSq3QJjO7cEtoSEMlN1tMLAXxNKsRasLitI2lN9P0owEereEnRwTkKodG66fq/xGIaBqk9gUljZiGehi+qrwL0VXidUByst17TAeNVfjScJtgRj1rIL19X9BdjWlGqlhzJKAQ+BwGXC+Fa24Zq6JwPbqlJdfVx3T47HrVW/PVA6l7rw/9r2uqXqBdXV9wYmi87S1gRjy1jk2GamF1A1qRtOEJzygaKQ01W/e1HZyMouGbJCrOb93nwfrNy6KCfBsdVkXWC6P66WG1WDfYgCRGVHUBpGGZ8aseDONqBeVg1P1Epdh7tNIy+dHRln84xQjf5W2mHGVXsLcjqKAco6InYItsKiGzqrNhmbbGDu/5r7e9PaUt2V9zOBzjLWTb5YjQnexAHzHV+t8KlNAIYR/JThOaOzQz5eIwZh8yrmM3/tkVS5WbRMxgvYGmU/gOdEPSSfgMbkYvMqqsGJ1gpSkS1ta9ulBpOwxAUmME9p0TiR68u/VZuMVdTFE60JgMXVWEl1vRdHILtDfv+0CQBK0DwKjyAaH0oPnDoBo+nJEGXAvtcT0FM+lw9r93IC2Pc9xqsAPGQC9j4CowR72cOeslrp6Xg0XsV8EEKxsuMWrCL7cXSVZ4HHKD3QXbW/ZfNAZFaCrIrq3IJ8PstwwPUJmEqXhkdtKkEOJqlGodTWKD2Hg27ly5CcxkJg8yrXCdXohCcQNtxtOKx8zXhHAMTmVThYoBqdKPNriWOwoeDaltsvOLzxzmEK82MIrmQNyO/Rer0X9CDGKD1yHEWU/EjCORvV+IT1lDfL9VnR/Fm/huMjiTxTVH0tZkXbI1efVYwYDk6PND+ZV4+8lTUBg6l2I+ipP8DhkdhoSvOrcPD1cxeerKNAN9VfQfMrsVkUQf7M7xwwRCvj1LDeLGVsih9Lml6QK6mu76F39R1pD9xnBJrHX5c96pj1ED0T4MxEHLR2C0VC83AU6Ya8rK71Ep0AR8oDbAmfIqVUVJ1tGP3dj5esylCF0+1hU/ZGpPrB9AhqVecC1wPvDuSH0IhUs8IRWM/3gMs3ytwcV9RvCXuneWhqNGU6JDYE3xihc3jfW3KWSaCkJcJ3ZJqhxi9ylkno4BDjF6Fj8qka+BJAt8OMz+VS/lxmAV2m/tkMwkGj6RlCgA67j8XvEU5amK/VD4Qxq2f+Zsusibg4w0uh7Dzibwnps7ukPYcQjVGYUrQnfXIP99LHlMg+QwhWPJPjwnyYyOE3rk0MaFdX/wBI9KIZB1XXRgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:28.9780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:04:38.7130000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:04:28.9780000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pier 69420</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.7000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:01:47.3490000</RealTime>
+        </Time>
+        <Time id="119">
+          <RealTime>00:01:42.7000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Toreno's Last Dupe</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:07.2680000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="28">
+          <RealTime>00:02:07.2680000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\LiveSplit\Components\GTASA.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Missions" type="bool">True</Setting>
+      <Setting id="LS" type="bool">True</Setting>
+      <Setting id="BL" type="bool">True</Setting>
+      <Setting id="SF" type="bool">True</Setting>
+      <Setting id="Desert" type="bool">True</Setting>
+      <Setting id="LV" type="bool">True</Setting>
+      <Setting id="RTLS" type="bool">True</Setting>
+      <Setting id="Big Smoke" type="bool">True</Setting>
+      <Setting id="Ryder" type="bool">True</Setting>
+      <Setting id="Tagging up Turf" type="bool">True</Setting>
+      <Setting id="Cleaning the Hood" type="bool">True</Setting>
+      <Setting id="Drive-Thru" type="bool">True</Setting>
+      <Setting id="Nines and AKs" type="bool">True</Setting>
+      <Setting id="OG Loc" type="bool">True</Setting>
+      <Setting id="Life's a Beach" type="bool">True</Setting>
+      <Setting id="Running Dog" type="bool">True</Setting>
+      <Setting id="Drive-By" type="bool">True</Setting>
+      <Setting id="Sweet's Girl" type="bool">True</Setting>
+      <Setting id="Cesar Vialpando" type="bool">True</Setting>
+      <Setting id="High Stakes Lowrider" type="bool">True</Setting>
+      <Setting id="Madd Dogg's Rhymes" type="bool">True</Setting>
+      <Setting id="Management Issues" type="bool">True</Setting>
+      <Setting id="House Party (Cutscene)" type="bool">False</Setting>
+      <Setting id="Burning Desire" type="bool">True</Setting>
+      <Setting id="Wrong Side of the Tracks" type="bool">True</Setting>
+      <Setting id="Just Business" type="bool">True</Setting>
+      <Setting id="Doberman" type="bool">True</Setting>
+      <Setting id="Gray Imports" type="bool">True</Setting>
+      <Setting id="Home Invasion" type="bool">True</Setting>
+      <Setting id="House Party" type="bool">True</Setting>
+      <Setting id="Catalyst" type="bool">True</Setting>
+      <Setting id="Robbing Uncle Sam" type="bool">True</Setting>
+      <Setting id="Los Sepulcros" type="bool">True</Setting>
+      <Setting id="Reuniting the Families" type="bool">True</Setting>
+      <Setting id="The Green Sabre" type="bool">True</Setting>
+      <Setting id="Badlands" type="bool">True</Setting>
+      <Setting id="Bustedwarp BL #1" type="bool">False</Setting>
+      <Setting id="Tanker Commander" type="bool">True</Setting>
+      <Setting id="Deathwarp BL #1" type="bool">False</Setting>
+      <Setting id="Body Harvest" type="bool">True</Setting>
+      <Setting id="Deathwarp BL #2" type="bool">False</Setting>
+      <Setting id="King in Exile" type="bool">False</Setting>
+      <Setting id="Bustedwarp BL #2" type="bool">False</Setting>
+      <Setting id="Small Town Bank" type="bool">True</Setting>
+      <Setting id="Local Liquor Store" type="bool">True</Setting>
+      <Setting id="Against All Odds" type="bool">True</Setting>
+      <Setting id="Wu Zi Mu" type="bool">True</Setting>
+      <Setting id="Farewell, My Love" type="bool">True</Setting>
+      <Setting id="Are You Going To San Fierro?" type="bool">True</Setting>
+      <Setting id="Wear Flowers in your Hair" type="bool">True</Setting>
+      <Setting id="555 WE TIP" type="bool">True</Setting>
+      <Setting id="Deconstruction" type="bool">True</Setting>
+      <Setting id="Photo Opportunity" type="bool">True</Setting>
+      <Setting id="Jizzy (Cutscene)" type="bool">True</Setting>
+      <Setting id="Jizzy" type="bool">True</Setting>
+      <Setting id="T-Bone Mendez" type="bool">True</Setting>
+      <Setting id="Mike Toreno" type="bool">False</Setting>
+      <Setting id="Outrider" type="bool">True</Setting>
+      <Setting id="Snail Trail" type="bool">True</Setting>
+      <Setting id="Mountain Cloud Boys" type="bool">True</Setting>
+      <Setting id="Ran Fa Li" type="bool">True</Setting>
+      <Setting id="Lure" type="bool">True</Setting>
+      <Setting id="Ice Cold Killa" type="bool">True</Setting>
+      <Setting id="Amphibious Assault" type="bool">True</Setting>
+      <Setting id="Pier 69" type="bool">True</Setting>
+      <Setting id="Toreno's Last Flight" type="bool">True</Setting>
+      <Setting id="The Da Nang Thang" type="bool">False</Setting>
+      <Setting id="Yay Ka-Boom-Boom" type="bool">False</Setting>
+      <Setting id="Deathwarp SF" type="bool">False</Setting>
+      <Setting id="Monster" type="bool">True</Setting>
+      <Setting id="Highjack" type="bool">True</Setting>
+      <Setting id="Interdiction" type="bool">False</Setting>
+      <Setting id="Verdant Meadows" type="bool">True</Setting>
+      <Setting id="Learning to Fly" type="bool">True</Setting>
+      <Setting id="N.O.E." type="bool">True</Setting>
+      <Setting id="Freefall" type="bool">True</Setting>
+      <Setting id="Fender Ketchup" type="bool">True</Setting>
+      <Setting id="Explosive Situation" type="bool">True</Setting>
+      <Setting id="You've Had Your Chips" type="bool">True</Setting>
+      <Setting id="Don Peyote" type="bool">True</Setting>
+      <Setting id="Intensive Care" type="bool">True</Setting>
+      <Setting id="The Meat Business" type="bool">True</Setting>
+      <Setting id="Fish in a Barrel" type="bool">True</Setting>
+      <Setting id="Madd Dogg" type="bool">True</Setting>
+      <Setting id="Misappropriation" type="bool">True</Setting>
+      <Setting id="Stowaway" type="bool">True</Setting>
+      <Setting id="Black Project" type="bool">True</Setting>
+      <Setting id="High Noon" type="bool">False</Setting>
+      <Setting id="Green Goo" type="bool">False</Setting>
+      <Setting id="Saint Mark's Bistro" type="bool">True</Setting>
+      <Setting id="A Home in the Hills" type="bool">True</Setting>
+      <Setting id="Vertical Bird" type="bool">True</Setting>
+      <Setting id="Home Coming" type="bool">True</Setting>
+      <Setting id="Beat Down on B Dup" type="bool">False</Setting>
+      <Setting id="Grove 4 Life" type="bool">True</Setting>
+      <Setting id="Cut Throat Business" type="bool">True</Setting>
+      <Setting id="Riot" type="bool">True</Setting>
+      <Setting id="Los Desperados" type="bool">True</Setting>
+      <Setting id="End of the Line Part 1" type="bool">True</Setting>
+      <Setting id="End of the Line Part 2" type="bool">False</Setting>
+      <Setting id="End of the Line Part 3" type="bool">False</Setting>
+      <Setting id="GT #1" type="bool">False</Setting>
+      <Setting id="GT #2" type="bool">False</Setting>
+      <Setting id="any%" type="bool">True</Setting>
+      <Setting id="Missions2" type="bool">False</Setting>
+      <Setting id="HeistMissions" type="bool">True</Setting>
+      <Setting id="Architectural Espionage" type="bool">True</Setting>
+      <Setting id="Key to her Heart" type="bool">True</Setting>
+      <Setting id="Dam and Blast" type="bool">True</Setting>
+      <Setting id="Cop Wheels" type="bool">True</Setting>
+      <Setting id="Up, Up and Away!" type="bool">True</Setting>
+      <Setting id="Breaking the Bank at Caligula's" type="bool">True</Setting>
+      <Setting id="ZeroMissions" type="bool">True</Setting>
+      <Setting id="Air Raid" type="bool">True</Setting>
+      <Setting id="Supply Lines..." type="bool">True</Setting>
+      <Setting id="New Model Army" type="bool">True</Setting>
+      <Setting id="Wang CarsMissions" type="bool">True</Setting>
+      <Setting id="Zeroing In" type="bool">True</Setting>
+      <Setting id="Test Drive" type="bool">True</Setting>
+      <Setting id="Customs Fast Track" type="bool">True</Setting>
+      <Setting id="Puncture Wounds" type="bool">True</Setting>
+      <Setting id="TruckingMissions" type="bool">True</Setting>
+      <Setting id="Trucking 1" type="bool">True</Setting>
+      <Setting id="Trucking 2" type="bool">True</Setting>
+      <Setting id="Trucking 3" type="bool">True</Setting>
+      <Setting id="Trucking 4" type="bool">True</Setting>
+      <Setting id="Trucking 5" type="bool">True</Setting>
+      <Setting id="Trucking 6" type="bool">True</Setting>
+      <Setting id="Trucking 7" type="bool">True</Setting>
+      <Setting id="Trucking 8" type="bool">True</Setting>
+      <Setting id="Assets" type="bool">True</Setting>
+      <Setting id="Los Santos Courier" type="bool">True</Setting>
+      <Setting id="Las Venturas Courier" type="bool">True</Setting>
+      <Setting id="San Fierro Courier" type="bool">True</Setting>
+      <Setting id="Valet Parking Complete" type="bool">True</Setting>
+      <Setting id="Quarry Complete" type="bool">True</Setting>
+      <Setting id="Schools" type="bool">True</Setting>
+      <Setting id="Driving School Passed" type="bool">True</Setting>
+      <Setting id="Boat School Passed" type="bool">True</Setting>
+      <Setting id="Bike School Passed" type="bool">True</Setting>
+      <Setting id="Driving School Started" type="bool">False</Setting>
+      <Setting id="Vehicle Submissions" type="bool">True</Setting>
+      <Setting id="Firefighter Complete" type="bool">True</Setting>
+      <Setting id="Vigilante Complete" type="bool">True</Setting>
+      <Setting id="Taxi Mission Complete" type="bool">True</Setting>
+      <Setting id="Paramedic Complete" type="bool">True</Setting>
+      <Setting id="Pimping Complete" type="bool">True</Setting>
+      <Setting id="Freight Level 1" type="bool">True</Setting>
+      <Setting id="Freight Level 2" type="bool">True</Setting>
+      <Setting id="Gym Moves" type="bool">True</Setting>
+      <Setting id="Los Santos Gym Moves" type="bool">True</Setting>
+      <Setting id="San Fierro Gym Moves" type="bool">True</Setting>
+      <Setting id="Las Venturas Gym Moves" type="bool">True</Setting>
+      <Setting id="Challenges" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #1" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #2" type="bool">True</Setting>
+      <Setting id="Chiliad Challenge #3" type="bool">True</Setting>
+      <Setting id="NRG-500 Stunt Challenge" type="bool">True</Setting>
+      <Setting id="BMX Stunt Challenge" type="bool">True</Setting>
+      <Setting id="Shooting Range Complete" type="bool">True</Setting>
+      <Setting id="Stadium Events" type="bool">True</Setting>
+      <Setting id="8-Track" type="bool">True</Setting>
+      <Setting id="Dirt Track" type="bool">True</Setting>
+      <Setting id="Kickstart" type="bool">True</Setting>
+      <Setting id="Bloodring" type="bool">True</Setting>
+      <Setting id="Races" type="bool">False</Setting>
+      <Setting id="All Races Won" type="bool">True</Setting>
+      <Setting id="LS Races" type="bool">False</Setting>
+      <Setting id="Little Loop" type="bool">False</Setting>
+      <Setting id="Backroad Wanderer" type="bool">False</Setting>
+      <Setting id="City Circuit" type="bool">False</Setting>
+      <Setting id="Vinewood (Race)" type="bool">False</Setting>
+      <Setting id="Freeway (Race)" type="bool">False</Setting>
+      <Setting id="Into the Country" type="bool">False</Setting>
+      <Setting id="SF Races" type="bool">False</Setting>
+      <Setting id="Dirtbike Danger" type="bool">False</Setting>
+      <Setting id="Bandito County" type="bool">False</Setting>
+      <Setting id="Go-Go Karting" type="bool">False</Setting>
+      <Setting id="San Fierro Fastlane" type="bool">False</Setting>
+      <Setting id="San Fierro Hills" type="bool">False</Setting>
+      <Setting id="Country Endurance" type="bool">False</Setting>
+      <Setting id="LV Races" type="bool">False</Setting>
+      <Setting id="SF to LV" type="bool">False</Setting>
+      <Setting id="Dam Rider" type="bool">False</Setting>
+      <Setting id="Desert Tricks" type="bool">False</Setting>
+      <Setting id="LV Ringroad" type="bool">False</Setting>
+      <Setting id="Air Races" type="bool">False</Setting>
+      <Setting id="World War Ace" type="bool">False</Setting>
+      <Setting id="Barnstorming" type="bool">False</Setting>
+      <Setting id="Military Service" type="bool">False</Setting>
+      <Setting id="Chopper Checkpoint" type="bool">False</Setting>
+      <Setting id="Whirly Bird Waypoint" type="bool">False</Setting>
+      <Setting id="Heli Hell" type="bool">False</Setting>
+      <Setting id="Export Lists" type="bool">False</Setting>
+      <Setting id="Export List 1" type="bool">True</Setting>
+      <Setting id="Export Buffalo" type="bool">False</Setting>
+      <Setting id="Export Sentinel" type="bool">False</Setting>
+      <Setting id="Export Infernus" type="bool">False</Setting>
+      <Setting id="Export Camper" type="bool">False</Setting>
+      <Setting id="Export Admiral" type="bool">False</Setting>
+      <Setting id="Export Patriot" type="bool">False</Setting>
+      <Setting id="Export Sanchez" type="bool">False</Setting>
+      <Setting id="Export Stretch" type="bool">False</Setting>
+      <Setting id="Export Feltzer" type="bool">False</Setting>
+      <Setting id="Export Remington" type="bool">False</Setting>
+      <Setting id="Export List 1 Complete" type="bool">False</Setting>
+      <Setting id="Export List 2" type="bool">True</Setting>
+      <Setting id="Export Cheetah" type="bool">False</Setting>
+      <Setting id="Export Rancher" type="bool">False</Setting>
+      <Setting id="Export Stallion" type="bool">False</Setting>
+      <Setting id="Export Tanker" type="bool">False</Setting>
+      <Setting id="Export Comet" type="bool">False</Setting>
+      <Setting id="Export Slamvan" type="bool">False</Setting>
+      <Setting id="Export Blista Compact" type="bool">False</Setting>
+      <Setting id="Export Stafford" type="bool">False</Setting>
+      <Setting id="Export Sabre" type="bool">False</Setting>
+      <Setting id="Export FCR-900" type="bool">False</Setting>
+      <Setting id="Export List 2 Complete" type="bool">False</Setting>
+      <Setting id="Export List 3" type="bool">True</Setting>
+      <Setting id="Export Banshee" type="bool">False</Setting>
+      <Setting id="Export Super GT" type="bool">False</Setting>
+      <Setting id="Export Journey" type="bool">False</Setting>
+      <Setting id="Export Huntley" type="bool">False</Setting>
+      <Setting id="Export BF Injection" type="bool">False</Setting>
+      <Setting id="Export Blade" type="bool">False</Setting>
+      <Setting id="Export Freeway" type="bool">False</Setting>
+      <Setting id="Export Mesa" type="bool">False</Setting>
+      <Setting id="Export ZR-350" type="bool">False</Setting>
+      <Setting id="Export Euros" type="bool">False</Setting>
+      <Setting id="Export List 3 Complete" type="bool">False</Setting>
+      <Setting id="Other" type="bool">False</Setting>
+      <Setting id="Plane Flight" type="bool">False</Setting>
+      <Setting id="Properties" type="bool">True</Setting>
+      <Setting id="Verdant Meadows (Safehouse)" type="bool">False</Setting>
+      <Setting id="Wang Cars (Showroom Bought)" type="bool">True</Setting>
+      <Setting id="Zero (RC Shop Bought)" type="bool">True</Setting>
+      <Setting id="Santa Maria Beach (Safehouse)" type="bool">True</Setting>
+      <Setting id="Rockshore West (Safehouse)" type="bool">True</Setting>
+      <Setting id="Fort Carson (Safehouse)" type="bool">True</Setting>
+      <Setting id="Prickle Pine (Safehouse)" type="bool">True</Setting>
+      <Setting id="Whitewood Estate (Safehouse)" type="bool">True</Setting>
+      <Setting id="Palomino Creek (Safehouse)" type="bool">True</Setting>
+      <Setting id="Redsands West (Safehouse)" type="bool">True</Setting>
+      <Setting id="Verdant Bluffs (Safehouse)" type="bool">True</Setting>
+      <Setting id="Calton Heights (Safehouse)" type="bool">True</Setting>
+      <Setting id="Mulholland (Safehouse)" type="bool">True</Setting>
+      <Setting id="Paradiso (Safehouse)" type="bool">True</Setting>
+      <Setting id="Hashbury (Safehouse)" type="bool">True</Setting>
+      <Setting id="Verona Beach (Safehouse)" type="bool">True</Setting>
+      <Setting id="Pirates In Men's Pants (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="The Camel's Toe (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Chinatown (Safehouse)" type="bool">True</Setting>
+      <Setting id="Whetstone (Safehouse)" type="bool">True</Setting>
+      <Setting id="Doherty (Safehouse)" type="bool">True</Setting>
+      <Setting id="Queens (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Angel Pine (Safehouse)" type="bool">True</Setting>
+      <Setting id="El Quebrados (Safehouse)" type="bool">True</Setting>
+      <Setting id="Tierra Robada (Safehouse)" type="bool">True</Setting>
+      <Setting id="Dillimore (Safehouse)" type="bool">True</Setting>
+      <Setting id="Jefferson (Safehouse)" type="bool">True</Setting>
+      <Setting id="Old Venturas Strip (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="The Clown's Pocket (Hotel Suite)" type="bool">True</Setting>
+      <Setting id="Creek (Safehouse)" type="bool">True</Setting>
+      <Setting id="Willowfield (Safehouse)" type="bool">True</Setting>
+      <Setting id="Blueberry (Safehouse)" type="bool">True</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="PhotosAll" type="bool">False</Setting>
+      <Setting id="PhotosEach" type="bool">False</Setting>
+      <Setting id="TagsAll" type="bool">False</Setting>
+      <Setting id="TagsEach" type="bool">False</Setting>
+      <Setting id="OystersAll" type="bool">False</Setting>
+      <Setting id="OystersEach" type="bool">False</Setting>
+      <Setting id="HorseshoesAll" type="bool">False</Setting>
+      <Setting id="HorseshoesEach" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)All" type="bool">False</Setting>
+      <Setting id="Stunts (Completed)Each" type="bool">False</Setting>
+      <Setting id="startOnSaveLoad" type="bool">False</Setting>
+      <Setting id="doubleSplitPrevention" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

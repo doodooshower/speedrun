@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto III</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>26</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/29/2019 19:44:39" isStartedSynced="True" ended="10/29/2019 19:44:40" isEndedSynced="True" />
+    <Attempt id="2" started="10/29/2019 19:44:41" isStartedSynced="True" ended="10/29/2019 19:45:25" isEndedSynced="True" />
+    <Attempt id="3" started="10/29/2019 19:45:26" isStartedSynced="True" ended="10/29/2019 19:45:26" isEndedSynced="True" />
+    <Attempt id="4" started="10/29/2019 19:45:28" isStartedSynced="True" ended="10/29/2019 19:45:44" isEndedSynced="True" />
+    <Attempt id="5" started="10/29/2019 19:45:44" isStartedSynced="True" ended="10/29/2019 19:45:44" isEndedSynced="True" />
+    <Attempt id="6" started="10/29/2019 19:45:46" isStartedSynced="True" ended="10/29/2019 19:46:00" isEndedSynced="True" />
+    <Attempt id="7" started="10/29/2019 19:46:01" isStartedSynced="True" ended="10/29/2019 19:46:01" isEndedSynced="True" />
+    <Attempt id="8" started="10/29/2019 19:46:02" isStartedSynced="True" ended="10/29/2019 19:46:35" isEndedSynced="True" />
+    <Attempt id="9" started="10/29/2019 19:46:36" isStartedSynced="True" ended="10/29/2019 19:46:36" isEndedSynced="True" />
+    <Attempt id="10" started="10/29/2019 19:46:37" isStartedSynced="True" ended="10/29/2019 19:46:57" isEndedSynced="True" />
+    <Attempt id="11" started="10/29/2019 19:46:57" isStartedSynced="True" ended="10/29/2019 19:46:58" isEndedSynced="True" />
+    <Attempt id="12" started="10/29/2019 19:47:00" isStartedSynced="True" ended="10/29/2019 19:47:15" isEndedSynced="True" />
+    <Attempt id="13" started="10/29/2019 19:47:16" isStartedSynced="True" ended="10/29/2019 19:47:16" isEndedSynced="True" />
+    <Attempt id="14" started="10/29/2019 19:47:17" isStartedSynced="True" ended="10/29/2019 19:48:05" isEndedSynced="True" />
+    <Attempt id="15" started="10/29/2019 19:48:07" isStartedSynced="True" ended="10/29/2019 19:48:09" isEndedSynced="True" />
+    <Attempt id="16" started="10/29/2019 19:48:10" isStartedSynced="True" ended="10/29/2019 19:48:28" isEndedSynced="True" />
+    <Attempt id="17" started="10/29/2019 19:48:29" isStartedSynced="True" ended="10/29/2019 19:48:29" isEndedSynced="True" />
+    <Attempt id="18" started="10/29/2019 19:48:30" isStartedSynced="True" ended="10/29/2019 19:48:48" isEndedSynced="True" />
+    <Attempt id="19" started="10/29/2019 19:48:48" isStartedSynced="True" ended="10/29/2019 19:48:49" isEndedSynced="True" />
+    <Attempt id="20" started="10/29/2019 19:50:58" isStartedSynced="True" ended="10/29/2019 19:57:55" isEndedSynced="True" />
+    <Attempt id="21" started="10/29/2019 19:58:38" isStartedSynced="True" ended="10/29/2019 19:58:43" isEndedSynced="True" />
+    <Attempt id="22" started="10/29/2019 19:58:45" isStartedSynced="True" ended="10/29/2019 19:59:34" isEndedSynced="True" />
+    <Attempt id="23" started="10/29/2019 19:59:35" isStartedSynced="True" ended="10/29/2019 19:59:35" isEndedSynced="True" />
+    <Attempt id="24" started="10/29/2019 19:59:36" isStartedSynced="True" ended="10/30/2019 02:21:06" isEndedSynced="True" />
+    <Attempt id="25" started="10/30/2019 16:41:16" isStartedSynced="True" ended="10/30/2019 20:49:28" isEndedSynced="True">
+      <RealTime>04:08:11.7920000</RealTime>
+    </Attempt>
+    <Attempt id="26" started="10/30/2019 20:49:42" isStartedSynced="True" ended="10/30/2019 20:49:43" isEndedSynced="True">
+      <RealTime>00:00:00.5240000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>69</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIAgAAACUL5okAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRoQ+3PUU7DMBRE0a6TdSAhxC66DnbRTfEHT3WkkDvU2Emfi8U8nZ+RKPE9nc6XuXFPh3s63BVPr63ww1Tct8Sz2m9kA/ePul5fblgDt9q+/vnlrWL5o3JjGrjVt4B44ufHe8Wm4a8F/Pr6Ym1wQBNu5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLWzkgF7dyQC5u5YBc3MoBubiVA3JxKwfk4lYOyMWtHJCLW/3fgLgBDdzqSEBc/HwHvKGCW8W/u97OgH3X3sCtHhIQ19jArfoDjijfWq6lgVt1Bhy0aZgxIKwNDrhyQC8HgAN6OQAc0CsrIG5Aw/r6uLsHxMUHUi2fKXefgLBtGHQtrw/ctwxuaHx94K6IfzoMPl3BPR3u6XBPh3su58sX5AFqT2FMrj4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:00.5240000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.5240000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="25">
+          <RealTime>04:08:11.7920000</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:00:00.5240000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Speedrun\Desktop\Speedrun\LiveSplit\Components\LiveSplit.GTA3.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Missions (start)" type="bool">False</Setting>
+      <Setting id="Missions (complete)" type="bool">False</Setting>
+      <Setting id="Luigi's Girls (start)" type="bool">False</Setting>
+      <Setting id="Luigi's Girls" type="bool">False</Setting>
+      <Setting id="Don't Spank Ma Bitch Up (start)" type="bool">False</Setting>
+      <Setting id="Don't Spank Ma Bitch Up" type="bool">False</Setting>
+      <Setting id="Drive Misty For Me (start)" type="bool">False</Setting>
+      <Setting id="Drive Misty For Me" type="bool">False</Setting>
+      <Setting id="The Crook (start)" type="bool">False</Setting>
+      <Setting id="The Crook" type="bool">False</Setting>
+      <Setting id="The Thieves (start)" type="bool">False</Setting>
+      <Setting id="The Thieves" type="bool">False</Setting>
+      <Setting id="The Wife (start)" type="bool">False</Setting>
+      <Setting id="The Wife" type="bool">False</Setting>
+      <Setting id="Her Lover (start)" type="bool">False</Setting>
+      <Setting id="Her Lover" type="bool">False</Setting>
+      <Setting id="Mike Lips Last Lunch (start)" type="bool">False</Setting>
+      <Setting id="Mike Lips Last Lunch" type="bool">False</Setting>
+      <Setting id="Farewell 'Chunky' Lee Chong (start)" type="bool">False</Setting>
+      <Setting id="Farewell 'Chunky' Lee Chong" type="bool">False</Setting>
+      <Setting id="Van Heist (start)" type="bool">False</Setting>
+      <Setting id="Van Heist" type="bool">False</Setting>
+      <Setting id="Cipriani's Chauffeur (start)" type="bool">False</Setting>
+      <Setting id="Cipriani's Chauffeur" type="bool">False</Setting>
+      <Setting id="Taking Out the Laundry (start)" type="bool">False</Setting>
+      <Setting id="Taking Out the Laundry" type="bool">False</Setting>
+      <Setting id="Dead Skunk in the Trunk (start)" type="bool">False</Setting>
+      <Setting id="Dead Skunk in the Trunk" type="bool">False</Setting>
+      <Setting id="Turismo (start)" type="bool">False</Setting>
+      <Setting id="Turismo" type="bool">False</Setting>
+      <Setting id="The Getaway (start)" type="bool">False</Setting>
+      <Setting id="The Getaway" type="bool">False</Setting>
+      <Setting id="The Pick-Up (start)" type="bool">False</Setting>
+      <Setting id="The Pick-Up" type="bool">False</Setting>
+      <Setting id="Patriot Playground (start)" type="bool">False</Setting>
+      <Setting id="Patriot Playground" type="bool">False</Setting>
+      <Setting id="Salvatore's Called a Meeting (start)" type="bool">False</Setting>
+      <Setting id="Salvatore's Called a Meeting" type="bool">False</Setting>
+      <Setting id="Chaperone (start)" type="bool">False</Setting>
+      <Setting id="Chaperone" type="bool">False</Setting>
+      <Setting id="Cutting the Grass (start)" type="bool">False</Setting>
+      <Setting id="Cutting the Grass" type="bool">False</Setting>
+      <Setting id="Triads and Tribulations (start)" type="bool">False</Setting>
+      <Setting id="Triads and Tribulations" type="bool">False</Setting>
+      <Setting id="Pump-Action Pimp (start)" type="bool">False</Setting>
+      <Setting id="Pump-Action Pimp" type="bool">False</Setting>
+      <Setting id="Diablo Destruction (start)" type="bool">False</Setting>
+      <Setting id="Diablo Destruction" type="bool">False</Setting>
+      <Setting id="The Fuzz Ball (start)" type="bool">False</Setting>
+      <Setting id="The Fuzz Ball" type="bool">False</Setting>
+      <Setting id="I Scream, You Scream (start)" type="bool">False</Setting>
+      <Setting id="I Scream, You Scream" type="bool">False</Setting>
+      <Setting id="Trial By Fire (start)" type="bool">False</Setting>
+      <Setting id="Trial By Fire" type="bool">False</Setting>
+      <Setting id="Big'N'Veiny (start)" type="bool">False</Setting>
+      <Setting id="Big'N'Veiny" type="bool">False</Setting>
+      <Setting id="Mafia Massacre (start)" type="bool">False</Setting>
+      <Setting id="Mafia Massacre" type="bool">False</Setting>
+      <Setting id="Blow Fish (start)" type="bool">False</Setting>
+      <Setting id="Blow Fish" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act I (start)" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act I" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act II (start)" type="bool">False</Setting>
+      <Setting id="Bomb Da Base: Act II" type="bool">False</Setting>
+      <Setting id="Last Requests (start)" type="bool">False</Setting>
+      <Setting id="Last Requests" type="bool">False</Setting>
+      <Setting id="Sayonara Salvatore (start)" type="bool">False</Setting>
+      <Setting id="Sayonara Salvatore" type="bool">False</Setting>
+      <Setting id="Bling-Bling Scramble (start)" type="bool">False</Setting>
+      <Setting id="Bling-Bling Scramble" type="bool">False</Setting>
+      <Setting id="Under Surveillance (start)" type="bool">False</Setting>
+      <Setting id="Under Surveillance" type="bool">False</Setting>
+      <Setting id="Kanbu Bust-Out (start)" type="bool">False</Setting>
+      <Setting id="Kanbu Bust-Out" type="bool">False</Setting>
+      <Setting id="Casino Calamity (start)" type="bool">False</Setting>
+      <Setting id="Casino Calamity" type="bool">False</Setting>
+      <Setting id="Grand Theft Auto (start)" type="bool">False</Setting>
+      <Setting id="Grand Theft Auto" type="bool">False</Setting>
+      <Setting id="Uzi Rider (start)" type="bool">False</Setting>
+      <Setting id="Uzi Rider" type="bool">False</Setting>
+      <Setting id="Multistorey Mayhem (start)" type="bool">False</Setting>
+      <Setting id="Multistorey Mayhem" type="bool">False</Setting>
+      <Setting id="Paparazzi Purge (start)" type="bool">False</Setting>
+      <Setting id="Paparazzi Purge" type="bool">False</Setting>
+      <Setting id="Payday For Ray (start)" type="bool">False</Setting>
+      <Setting id="Payday For Ray" type="bool">False</Setting>
+      <Setting id="Silence The Sneak (start)" type="bool">False</Setting>
+      <Setting id="Silence The Sneak" type="bool">False</Setting>
+      <Setting id="Two-Faced Tanner (start)" type="bool">False</Setting>
+      <Setting id="Two-Faced Tanner" type="bool">False</Setting>
+      <Setting id="Deal Steal (start)" type="bool">False</Setting>
+      <Setting id="Deal Steal" type="bool">False</Setting>
+      <Setting id="Shima (start)" type="bool">False</Setting>
+      <Setting id="Shima" type="bool">False</Setting>
+      <Setting id="Smack Down (start)" type="bool">False</Setting>
+      <Setting id="Smack Down" type="bool">False</Setting>
+      <Setting id="A Ride In The Park (start)" type="bool">False</Setting>
+      <Setting id="A Ride In The Park" type="bool">False</Setting>
+      <Setting id="Arms Shortage (start)" type="bool">False</Setting>
+      <Setting id="Arms Shortage" type="bool">False</Setting>
+      <Setting id="Evidence Dash (start)" type="bool">False</Setting>
+      <Setting id="Evidence Dash" type="bool">False</Setting>
+      <Setting id="Gone Fishing (start)" type="bool">False</Setting>
+      <Setting id="Gone Fishing" type="bool">False</Setting>
+      <Setting id="Gangcar Round-Up (start)" type="bool">False</Setting>
+      <Setting id="Gangcar Round-Up" type="bool">False</Setting>
+      <Setting id="Plaster Blaster (start)" type="bool">False</Setting>
+      <Setting id="Plaster Blaster" type="bool">False</Setting>
+      <Setting id="Kingdom Come (start)" type="bool">False</Setting>
+      <Setting id="Kingdom Come" type="bool">False</Setting>
+      <Setting id="Liberator (start)" type="bool">False</Setting>
+      <Setting id="Liberator" type="bool">False</Setting>
+      <Setting id="Waka-Gashira Wipeout! (start)" type="bool">False</Setting>
+      <Setting id="Waka-Gashira Wipeout!" type="bool">False</Setting>
+      <Setting id="A Drop In The Ocean (start)" type="bool">False</Setting>
+      <Setting id="A Drop In The Ocean" type="bool">False</Setting>
+      <Setting id="Grand Theft Aero (start)" type="bool">False</Setting>
+      <Setting id="Grand Theft Aero" type="bool">False</Setting>
+      <Setting id="Marked Man (start)" type="bool">False</Setting>
+      <Setting id="Marked Man" type="bool">False</Setting>
+      <Setting id="Escort Service (start)" type="bool">False</Setting>
+      <Setting id="Escort Service" type="bool">False</Setting>
+      <Setting id="Rumpo Rampage (start)" type="bool">False</Setting>
+      <Setting id="Rumpo Rampage" type="bool">False</Setting>
+      <Setting id="Uzi Money (start)" type="bool">False</Setting>
+      <Setting id="Uzi Money" type="bool">False</Setting>
+      <Setting id="Toyminator (start)" type="bool">False</Setting>
+      <Setting id="Toyminator" type="bool">False</Setting>
+      <Setting id="Rigged to Blow (start)" type="bool">False</Setting>
+      <Setting id="Rigged to Blow" type="bool">False</Setting>
+      <Setting id="Bullion Run (start)" type="bool">False</Setting>
+      <Setting id="Bullion Run" type="bool">False</Setting>
+      <Setting id="Bait (start)" type="bool">False</Setting>
+      <Setting id="Bait" type="bool">False</Setting>
+      <Setting id="Decoy (start)" type="bool">False</Setting>
+      <Setting id="Decoy" type="bool">False</Setting>
+      <Setting id="Love's Disappearance (start)" type="bool">False</Setting>
+      <Setting id="Love's Disappearance" type="bool">False</Setting>
+      <Setting id="Espresso-2-Go! (start)" type="bool">False</Setting>
+      <Setting id="Espresso-2-Go!" type="bool">False</Setting>
+      <Setting id="S.A.M. (start)" type="bool">False</Setting>
+      <Setting id="S.A.M." type="bool">False</Setting>
+      <Setting id="The Exchange (start)" type="bool">False</Setting>
+      <Setting id="The Exchange" type="bool">False</Setting>
+      <Setting id="Rumble (start)" type="bool">False</Setting>
+      <Setting id="Rumble" type="bool">False</Setting>
+      <Setting id="Gripped! (start)" type="bool">False</Setting>
+      <Setting id="Gripped!" type="bool">False</Setting>
+      <Setting id="Collectibles" type="bool">False</Setting>
+      <Setting id="Hidden PackagesAll" type="bool">False</Setting>
+      <Setting id="Hidden PackagesEach" type="bool">False</Setting>
+      <Setting id="RampagesAll" type="bool">False</Setting>
+      <Setting id="RampagesEach" type="bool">False</Setting>
+      <Setting id="Unique Stunt JumpsAll" type="bool">False</Setting>
+      <Setting id="Unique Stunt JumpsEach" type="bool">False</Setting>
+      <Setting id="btgFinalSplit" type="bool">False</Setting>
+      <Setting id="hundoFinalSplit" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
